@@ -1,0 +1,3722 @@
+[
+  {
+    "canonical_name": "user",
+    "first_seen": "2025-09-01T00:00:00.020000+00:00",
+    "id": "c3242127-0682-4a29-b1db-081bfb4d77d6",
+    "last_seen": "2026-10-16T04:14:00.906095+00:00",
+    "mention_count": 226,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hermes Agent",
+    "first_seen": "2026-10-16T04:12:22.132510+00:00",
+    "id": "f270649f-f299-4095-b568-c147b69d0e90",
+    "last_seen": "2026-10-16T04:14:00.845412+00:00",
+    "mention_count": 9,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MacBook Pro",
+    "first_seen": "2026-10-16T04:14:00.835094+00:00",
+    "id": "9ad2c81e-040e-4732-b891-2921a2ea0295",
+    "last_seen": "2026-10-16T04:14:00.875412+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hindsight",
+    "first_seen": "2026-10-16T04:12:22.132510+00:00",
+    "id": "49d6c163-44f2-4a9b-b339-1bfeb214c094",
+    "last_seen": "2026-10-16T04:12:22.132510+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar",
+    "first_seen": "2025-01-01T00:00:00.120000+00:00",
+    "id": "ed5f22f0-eb76-410a-81b7-9f47495e5a0a",
+    "last_seen": "2026-10-16T04:14:00.846289+00:00",
+    "mention_count": 7,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tesis",
+    "first_seen": "2026-02-01T00:00:00.080000+00:00",
+    "id": "8926f560-edb5-4adb-a021-99416868368b",
+    "last_seen": "2026-10-16T04:14:00.845692+00:00",
+    "mention_count": 7,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PhD",
+    "first_seen": "2026-10-16T04:12:20.181963+00:00",
+    "id": "188888cc-6f2c-4ea3-898b-0ea0c9103134",
+    "last_seen": "2026-10-16T04:14:00.836289+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Singapura",
+    "first_seen": "2026-10-01T00:00:00.070000+00:00",
+    "id": "42ab02b1-c795-4aa9-8295-abedb98d6934",
+    "last_seen": "2026-10-16T04:14:00.826289+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MacBook Air",
+    "first_seen": "2026-10-16T04:14:00.835094+00:00",
+    "id": "a1b2d691-334a-4749-82c4-8d902c46cec6",
+    "last_seen": "2026-10-16T04:14:00.905412+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bahasa Arab",
+    "first_seen": "2026-10-16T04:12:24.710428+00:00",
+    "id": "83269820-b737-45f6-a94b-ae0b849693e1",
+    "last_seen": "2026-10-16T04:14:00.885909+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product code",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "5d4dfdc1-0de7-42ba-86c0-11a8127eeafc",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Rawabi G2",
+    "first_seen": "2025-03-08T00:00:00.010000+00:00",
+    "id": "a57934f3-229f-4e99-a087-0095bab7279a",
+    "last_seen": "2025-03-08T00:00:00.010000+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Mac mini",
+    "first_seen": "2026-10-16T04:14:00.835094+00:00",
+    "id": "4879d007-3469-46f8-8fcc-2521bef52c72",
+    "last_seen": "2026-10-16T04:14:00.905412+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "penelitian",
+    "first_seen": "2026-10-16T04:12:20.151963+00:00",
+    "id": "5f406b62-f75f-472f-9f7b-154031ebb697",
+    "last_seen": "2026-10-16T04:14:00.886095+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "database",
+    "first_seen": "2026-10-16T04:12:21.722542+00:00",
+    "id": "eab72b58-6625-41c3-9173-7229c203eec3",
+    "last_seen": "2026-10-16T04:14:00.886095+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Python",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "669abd86-a344-4614-8246-56b60f7e169b",
+    "last_seen": "2026-10-16T04:14:00.866095+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI agent",
+    "first_seen": "2026-10-16T04:12:22.162510+00:00",
+    "id": "e2c791ba-802f-4090-9515-2a6789af546e",
+    "last_seen": "2026-10-16T04:14:00.855692+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YOLO",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "638a91c6-0e2f-4185-a9d4-8fc6056ae494",
+    "last_seen": "2026-10-16T04:14:00.835412+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MTI",
+    "first_seen": "2025-09-01T00:00:00.020000+00:00",
+    "id": "d6863263-1b37-4516-95bc-8e393b2db1c7",
+    "last_seen": "2026-10-16T04:14:00.825692+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "BINUS University",
+    "first_seen": "2025-09-01T00:00:00.020000+00:00",
+    "id": "b81d34a8-5b29-47f5-9bb6-c50157e468ef",
+    "last_seen": "2026-10-16T04:14:00.795692+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "visa",
+    "first_seen": "2025-01-01T00:00:00.120000+00:00",
+    "id": "04530ddc-9102-460c-839c-29f4abba14b0",
+    "last_seen": "2025-01-01T00:00:00.120000+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Data Engineering",
+    "first_seen": "2026-10-16T04:12:20.191963+00:00",
+    "id": "a9b4e454-5de4-4896-8f2e-411df4f1d0fd",
+    "last_seen": "2026-10-16T04:14:00.895692+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "home lab",
+    "first_seen": "2026-10-16T04:12:22.202510+00:00",
+    "id": "93595f86-4fee-4017-b00d-1d8fd2f2083d",
+    "last_seen": "2026-10-16T04:14:00.885412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Arab Saudi",
+    "first_seen": "2026-10-16T04:12:20.181963+00:00",
+    "id": "f080aceb-6d5e-4343-87f4-cf7f9e984d15",
+    "last_seen": "2026-10-16T04:14:00.875692+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcGIS Pro",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "1b941604-fe3b-4620-b1cc-167b58b7105f",
+    "last_seen": "2026-10-16T04:14:00.865412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "macOS",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "7528d984-81b7-4767-afa0-20210dc9df7f",
+    "last_seen": "2026-10-16T04:14:00.855412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Digital Twin",
+    "first_seen": "2026-10-16T04:12:25.195908+00:00",
+    "id": "34ed2323-621f-41fe-8f23-b13fcb82a013",
+    "last_seen": "2026-10-16T04:14:00.845692+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "remote sensing",
+    "first_seen": "2026-10-16T04:12:20.191963+00:00",
+    "id": "5068f6ae-bffb-4e86-a809-150eb1d10680",
+    "last_seen": "2026-10-16T04:14:00.845692+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hermes",
+    "first_seen": "2026-10-16T04:14:00.835692+00:00",
+    "id": "0f474775-4993-424e-a450-bc519b6fb78a",
+    "last_seen": "2026-10-16T04:14:00.835692+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple",
+    "first_seen": "2026-10-16T04:14:00.825094+00:00",
+    "id": "9c280606-e515-418a-a568-a77dea69b6bf",
+    "last_seen": "2026-10-16T04:14:00.835412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "logic board",
+    "first_seen": "2026-10-16T04:14:00.815412+00:00",
+    "id": "1d9f0c1b-6c98-466c-83af-0a191eadd00e",
+    "last_seen": "2026-10-16T04:14:00.815412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Makkah & Madinah Mengaji",
+    "first_seen": "2026-10-16T04:14:00.805909+00:00",
+    "id": "819061a7-0e11-4d28-9114-893a66bf45e2",
+    "last_seen": "2026-10-16T04:14:00.805909+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "terjemahan",
+    "first_seen": "2026-10-16T04:14:00.805909+00:00",
+    "id": "d0b01ba7-523a-41f3-a955-b4ed03db1aac",
+    "last_seen": "2026-10-16T04:14:00.805909+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Indonesia",
+    "first_seen": "2026-10-16T04:12:24.700428+00:00",
+    "id": "b1aaf185-48ff-4fcc-9508-d9807a5506b3",
+    "last_seen": "2026-10-16T04:14:00.805412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dokumen",
+    "first_seen": "2026-10-16T04:14:00.796095+00:00",
+    "id": "4bcb9e0d-5bda-4917-928c-ab79c982adbc",
+    "last_seen": "2026-10-16T04:14:00.796095+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple M5 Pro",
+    "first_seen": "2026-10-16T04:14:00.795412+00:00",
+    "id": "d1ad3b19-edd0-4f16-a7ed-2acedd73504d",
+    "last_seen": "2026-10-16T04:14:00.795412+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "satellite imagery",
+    "first_seen": "2026-10-16T04:12:21.662542+00:00",
+    "id": "f1c34688-c260-41fd-bad4-73b01662d25a",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CSV",
+    "first_seen": "2026-10-16T04:12:22.716835+00:00",
+    "id": "58f5df88-cdd7-4459-9bb8-99594b1c3940",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure Blob Storage",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "c119e9e0-4d10-4f70-a3d9-6b3d065d4a6f",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ingestion",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "1cd4d877-f1a0-4252-85c6-0bbd2f052c93",
+    "last_seen": "2026-10-16T04:12:24.720428+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "greenhouse",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "104810c5-b2b7-4409-b13e-0f8562fa7815",
+    "last_seen": "2026-10-16T04:12:23.712872+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "anotasi",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "b884ee06-64e6-4b5d-a098-bb22e8c89bf8",
+    "last_seen": "2026-10-16T04:12:23.672872+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Gulf Food",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "72fb6653-fbc0-4e15-bcda-61858c983004",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Dandy",
+    "first_seen": "2026-10-16T04:12:21.712542+00:00",
+    "id": "1a69e965-a52f-42d5-a325-9d9770c2c15e",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "anak",
+    "first_seen": "2026-09-01T00:00:00.060000+00:00",
+    "id": "41625f42-0f5a-49e2-afa6-7479237cb141",
+    "last_seen": "2026-09-01T00:00:00.060000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "keluarga",
+    "first_seen": "2026-09-01T00:00:00.060000+00:00",
+    "id": "5acfd2a9-8ea0-46e7-9f41-245c76030544",
+    "last_seen": "2026-09-01T00:00:00.060000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hardware",
+    "first_seen": "2026-10-16T04:14:00.815094+00:00",
+    "id": "aa908cbe-ac41-429c-a5f1-10ce0cb449a7",
+    "last_seen": "2026-10-16T04:14:00.905692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bahasa Inggris",
+    "first_seen": "2026-10-16T04:12:24.710428+00:00",
+    "id": "e5f5edd2-36f7-487d-af79-fe509c58f338",
+    "last_seen": "2026-10-16T04:14:00.896095+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple M6",
+    "first_seen": "2026-10-16T04:14:00.895412+00:00",
+    "id": "3780591f-8d76-45e3-8c3d-af8577af05f1",
+    "last_seen": "2026-10-16T04:14:00.895412+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "publikasi ilmiah",
+    "first_seen": "2026-10-16T04:12:20.161963+00:00",
+    "id": "a3863beb-de09-43c1-928d-97cbf0b4ab58",
+    "last_seen": "2026-10-16T04:14:00.876095+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "novelty",
+    "first_seen": "2026-10-16T04:12:20.151963+00:00",
+    "id": "d2c70357-4ed8-4c6e-a0dc-3051d8f82182",
+    "last_seen": "2026-10-16T04:14:00.876095+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Amiyyah Saudi",
+    "first_seen": "2026-10-16T04:14:00.875692+00:00",
+    "id": "82fe38ee-0481-42ab-9b2c-28441a1ce67f",
+    "last_seen": "2026-10-16T04:14:00.875692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcGIS",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "fa3878aa-a55e-4a2b-9499-0e04655b0658",
+    "last_seen": "2026-10-16T04:14:00.875412+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SQL",
+    "first_seen": "2026-10-16T04:12:25.195908+00:00",
+    "id": "a4faedc6-c5d6-4c3d-a741-3ba4b378a472",
+    "last_seen": "2026-10-16T04:14:00.866095+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI system",
+    "first_seen": "2026-10-16T04:12:22.222510+00:00",
+    "id": "01d85a5f-caf3-48f2-a0a7-c821b22726d4",
+    "last_seen": "2026-10-16T04:14:00.865692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local LLM",
+    "first_seen": "2026-10-16T04:12:22.142510+00:00",
+    "id": "884cb9d1-ed34-4385-a5ba-95e3be906708",
+    "last_seen": "2026-10-16T04:14:00.865692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "VM",
+    "first_seen": "2026-10-16T04:12:21.722542+00:00",
+    "id": "3eb4796c-06c3-4048-88c9-31909313fecc",
+    "last_seen": "2026-10-16T04:14:00.865412+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kata kerja transitif",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "2ff105e3-fb36-4912-b9b7-d9c72504d33e",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hassad Food",
+    "first_seen": "2026-10-16T04:12:21.612542+00:00",
+    "id": "338a2bc5-7638-45b0-9abc-b7b0223033b5",
+    "last_seen": "2026-10-16T04:14:00.835692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Siyar",
+    "first_seen": "2026-10-16T04:14:00.826487+00:00",
+    "id": "9282662d-d259-418c-a856-26bfaa7b6bd8",
+    "last_seen": "2026-10-16T04:14:00.826487+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Masjid As Sakinah Nusantara",
+    "first_seen": "2026-10-16T04:14:00.825909+00:00",
+    "id": "7c4126f1-d06c-402a-9ecf-1fa8f82a0069",
+    "last_seen": "2026-10-16T04:14:00.825909+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Computer Vision",
+    "first_seen": "2026-10-16T04:12:20.191963+00:00",
+    "id": "1b59c7ce-41db-46c8-92f3-d6628089e45e",
+    "last_seen": "2026-10-16T04:14:00.825692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI",
+    "first_seen": "2026-10-16T04:12:20.191963+00:00",
+    "id": "30131b7a-da65-4d7a-9fec-5b4f426bffaf",
+    "last_seen": "2026-10-16T04:14:00.825692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "KAUST",
+    "first_seen": "2026-10-16T04:12:20.181963+00:00",
+    "id": "f728fc15-f361-47d9-b238-e6efde316639",
+    "last_seen": "2026-10-16T04:14:00.815692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "gaya komunikasi",
+    "first_seen": "2026-10-16T04:14:00.805692+00:00",
+    "id": "b0edd2a5-57f8-4a05-b0d2-ac446554998e",
+    "last_seen": "2026-10-16T04:14:00.805692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GST refund",
+    "first_seen": "2026-10-16T04:14:00.795094+00:00",
+    "id": "f54db948-76ff-4daf-82cc-ca1caf024b33",
+    "last_seen": "2026-10-16T04:14:00.805412+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Fusha",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "6cb8037f-da7c-452e-b9c6-51efa1a8215d",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kajian kitab",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "fb60597c-34da-495c-bc87-150d9f097a4a",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Magister Teknologi Informasi",
+    "first_seen": "2026-10-16T04:12:20.101963+00:00",
+    "id": "43d2bf4e-5b78-419e-aa54-1c6e93a84fc8",
+    "last_seen": "2026-10-16T04:14:00.795692+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CRM",
+    "first_seen": "2026-10-16T04:12:21.692542+00:00",
+    "id": "39cbc12c-4c3a-48f4-bf6e-f382bdbde4c1",
+    "last_seen": "2026-10-16T04:12:25.255908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "annotations",
+    "first_seen": "2026-10-16T04:12:25.245908+00:00",
+    "id": "4778bc5c-e973-45d8-8d21-3e73def60a3e",
+    "last_seen": "2026-10-16T04:12:25.245908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Microsoft Dataverse",
+    "first_seen": "2026-10-16T04:12:25.245908+00:00",
+    "id": "9194fa01-7d92-44ca-a53b-49db6e626a18",
+    "last_seen": "2026-10-16T04:12:25.245908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure SQL",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "0dc98014-7b15-44f8-bac9-722e9d7affdd",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Slowly Changing Dimension",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "683f45d0-f67d-4b3b-885a-4e428a8bcd35",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pyodbc",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "68326d8e-dba5-419e-b50f-f47404f29de7",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure Identity",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "7d2e8af5-6587-4008-885e-3ee194655168",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcPy",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "81b6e3a1-c107-4229-9753-a3543455ed57",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pipeline",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "2576b07a-bb9e-4f7d-b024-0f9e3963fac3",
+    "last_seen": "2026-10-16T04:12:24.720428+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pl_orchestration",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "e09f6261-dd47-427b-8abd-c892edfcbe4b",
+    "last_seen": "2026-10-16T04:12:24.720428+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "temporal consistency",
+    "first_seen": "2026-10-16T04:12:23.742872+00:00",
+    "id": "0e0b4b47-0431-40ca-8ff7-7244a1f21460",
+    "last_seen": "2026-10-16T04:12:23.742872+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "cultivated area",
+    "first_seen": "2026-10-16T04:12:23.712872+00:00",
+    "id": "08d988cb-76e6-4278-adab-3bb4238fe211",
+    "last_seen": "2026-10-16T04:12:23.712872+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NDVI",
+    "first_seen": "2026-10-16T04:12:23.712872+00:00",
+    "id": "13328c68-b580-4413-810b-0d65a9c85dff",
+    "last_seen": "2026-10-16T04:12:23.712872+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "TICO-OBB",
+    "first_seen": "2026-10-16T04:12:23.682872+00:00",
+    "id": "fffd5a95-96d5-49be-b2dd-e48b813a21e6",
+    "last_seen": "2026-10-16T04:12:23.682872+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "bounding box",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "3844c25d-1190-49e9-898a-11430c6ff06f",
+    "last_seen": "2026-10-16T04:12:23.672872+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "spatial data",
+    "first_seen": "2026-10-16T04:12:21.652542+00:00",
+    "id": "2821c6e5-263f-452a-8a93-17da3428e542",
+    "last_seen": "2026-10-16T04:12:22.746835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ministry",
+    "first_seen": "2026-10-16T04:12:21.722542+00:00",
+    "id": "a86f1460-addf-4653-ad47-0544b0eed185",
+    "last_seen": "2026-10-16T04:12:22.726835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ansar Gallery",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "820bfdb8-0a3c-426f-a617-849e41fc4060",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Agrico",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "917212a5-ab45-4bc9-8c1e-2079b907f1f1",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Rawdah",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "e2708911-784e-403a-82e8-568aad57bfdd",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Abu Khalifa",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "f05ace30-992b-44d1-a907-09e25e074859",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "watermark",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "13170fc1-7b72-43b3-8de6-377909c67042",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Carrefour",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "fd9c9589-128f-4279-b366-9d879b36dccb",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SQL Server",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "922e00b5-5f9e-49d5-ae72-6968099eb5ba",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar National Food Security Data Integration",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "14df2521-0bce-45ef-82b6-797e386c1215",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ministry of Municipality Qatar",
+    "first_seen": "2026-10-16T04:12:21.632542+00:00",
+    "id": "abab905b-3fa8-4e32-83d7-61c670ec3a59",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure Data Factory",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "f59ce29c-ff8a-4be8-85c4-c27747276f78",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Obsidian",
+    "first_seen": "2026-10-16T04:12:22.202510+00:00",
+    "id": "6d599c72-19fc-4be8-94d2-668e4b4ca974",
+    "last_seen": "2026-10-16T04:12:22.202510+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GitHub",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "7c33e3a0-b6ef-4b04-b485-728f785b25e2",
+    "last_seen": "2026-10-16T04:12:22.172510+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "vLLM-MLX",
+    "first_seen": "2026-10-15T00:00:00.120000+00:00",
+    "id": "6ea76906-9824-45c2-998a-7a7250eab060",
+    "last_seen": "2026-10-15T00:00:00.120000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bugis",
+    "first_seen": "2026-10-01T00:00:00+00:00",
+    "id": "23f9627f-71bb-4f2e-aa38-4a52d769f97d",
+    "last_seen": "2026-10-01T00:00:00+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Warehouse",
+    "first_seen": "2026-01-12T00:00:00.020000+00:00",
+    "id": "75424c03-f42b-4cbd-af4c-905bdabdafb7",
+    "last_seen": "2026-01-12T00:00:00.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Shamal",
+    "first_seen": "2025-06-24T00:00:00.040000+00:00",
+    "id": "97336451-8199-47a8-8f48-e8db3c4d886f",
+    "last_seen": "2025-06-24T00:00:00.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Mazzraty",
+    "first_seen": "2025-06-24T00:00:00.040000+00:00",
+    "id": "c2baddb0-2d2f-418a-bb7e-fbd241325122",
+    "last_seen": "2025-06-24T00:00:00.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "employment contract",
+    "first_seen": "2025-01-01T00:00:00.120000+00:00",
+    "id": "da7d360a-3772-45ef-817e-a7858c2e0fde",
+    "last_seen": "2025-01-01T00:00:00.120000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tulisan akademik",
+    "first_seen": "2026-10-16T04:14:00.906095+00:00",
+    "id": "003b9e69-0386-4d8e-94ff-0e0e387122f6",
+    "last_seen": "2026-10-16T04:14:00.906095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "APA 7th edition",
+    "first_seen": "2026-10-16T04:14:00.906095+00:00",
+    "id": "0bee57ed-b4f5-4bb5-9f3e-7c3230e4151e",
+    "last_seen": "2026-10-16T04:14:00.906095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local-first AI",
+    "first_seen": "2026-10-16T04:14:00.905692+00:00",
+    "id": "181b49d1-862a-415a-8fed-b8b20dbe928c",
+    "last_seen": "2026-10-16T04:14:00.905692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "modular systems",
+    "first_seen": "2026-10-16T04:14:00.905692+00:00",
+    "id": "d28b3750-9bd2-4c09-be32-5a3161839b27",
+    "last_seen": "2026-10-16T04:14:00.905692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CV",
+    "first_seen": "2026-10-16T04:14:00.896095+00:00",
+    "id": "05579c50-ea4d-43dd-ac5d-cb17cdff6896",
+    "last_seen": "2026-10-16T04:14:00.896095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI pertanian",
+    "first_seen": "2026-10-16T04:14:00.895692+00:00",
+    "id": "16a4cd41-b939-4a5e-9999-c909b514080e",
+    "last_seen": "2026-10-16T04:14:00.895692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geospatial systems",
+    "first_seen": "2026-10-16T04:14:00.895692+00:00",
+    "id": "df3c955b-579f-46f2-a01e-100cd4b70eda",
+    "last_seen": "2026-10-16T04:14:00.895692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "compute",
+    "first_seen": "2026-10-16T04:14:00.886095+00:00",
+    "id": "694c34da-f373-4012-92db-2fa833667e40",
+    "last_seen": "2026-10-16T04:14:00.886095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "feasibility",
+    "first_seen": "2026-10-16T04:14:00.886095+00:00",
+    "id": "f7f34578-7671-4f69-8898-78a733811246",
+    "last_seen": "2026-10-16T04:14:00.886095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "teman belajar",
+    "first_seen": "2026-10-16T04:14:00.885909+00:00",
+    "id": "07fef3cf-dcb0-4d50-8962-7e278543a105",
+    "last_seen": "2026-10-16T04:14:00.885909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ustadz",
+    "first_seen": "2026-10-16T04:14:00.885909+00:00",
+    "id": "09fac9e2-6fd2-4ed2-b957-97446cef153e",
+    "last_seen": "2026-10-16T04:14:00.885909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "knowledge management",
+    "first_seen": "2026-10-16T04:14:00.885692+00:00",
+    "id": "49ed3748-f48b-419c-8e58-314f842f7c2b",
+    "last_seen": "2026-10-16T04:14:00.885692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI server",
+    "first_seen": "2026-10-16T04:14:00.885412+00:00",
+    "id": "f55347bd-7f3a-4b7f-9a36-bff608fb1131",
+    "last_seen": "2026-10-16T04:14:00.885412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "لَبَن",
+    "first_seen": "2026-10-16T04:14:00.875909+00:00",
+    "id": "4e92d363-db9b-463a-93a5-2be8343b99e9",
+    "last_seen": "2026-10-16T04:14:00.875909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "حَلِيب",
+    "first_seen": "2026-10-16T04:14:00.875909+00:00",
+    "id": "5b638113-fedd-4cb3-a24d-d4a0bcec8383",
+    "last_seen": "2026-10-16T04:14:00.875909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tanda baca",
+    "first_seen": "2026-10-16T04:14:00.875909+00:00",
+    "id": "6575f14b-b58b-427e-bab8-16f7fdcc0fb8",
+    "last_seen": "2026-10-16T04:14:00.875909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "بِالتَّأْكِيدِ",
+    "first_seen": "2026-10-16T04:14:00.875909+00:00",
+    "id": "83cc9f60-f36c-4935-8b6c-5fa9510377bd",
+    "last_seen": "2026-10-16T04:14:00.875909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "سَمّ",
+    "first_seen": "2026-10-16T04:14:00.875909+00:00",
+    "id": "c3e82dca-a39b-47ad-8f43-d8f4edf923f5",
+    "last_seen": "2026-10-16T04:14:00.875909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bahasa Arab Fusha",
+    "first_seen": "2026-10-16T04:14:00.875692+00:00",
+    "id": "00fa90f6-aab8-4a11-ab9f-10cfaef1e9ce",
+    "last_seen": "2026-10-16T04:14:00.875692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "load/unload layer",
+    "first_seen": "2026-10-16T04:14:00.875412+00:00",
+    "id": "05ee4cf5-3b1e-4ce2-8e13-e784c68450cd",
+    "last_seen": "2026-10-16T04:14:00.875412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "terminal",
+    "first_seen": "2026-10-16T04:14:00.866095+00:00",
+    "id": "d71feaad-4022-4007-987a-113923813a1b",
+    "last_seen": "2026-10-16T04:14:00.866095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kosakata",
+    "first_seen": "2026-10-16T04:14:00.865909+00:00",
+    "id": "398ecffb-6f80-4548-8459-3e69bf319855",
+    "last_seen": "2026-10-16T04:14:00.865909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ulama Salafi",
+    "first_seen": "2026-10-16T04:14:00.865909+00:00",
+    "id": "48c9b57c-1596-40cd-9cdd-c6323d41e21d",
+    "last_seen": "2026-10-16T04:14:00.865909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dialek Saudi",
+    "first_seen": "2026-10-16T04:14:00.865909+00:00",
+    "id": "74f48edd-a093-4f04-aa31-b5f1d9de2218",
+    "last_seen": "2026-10-16T04:14:00.865909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ungkapan doa",
+    "first_seen": "2026-10-16T04:14:00.865909+00:00",
+    "id": "7644a25d-567d-41b0-982f-bc73a77a67cf",
+    "last_seen": "2026-10-16T04:14:00.865909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ihya Ulumuddin",
+    "first_seen": "2026-10-16T04:14:00.865909+00:00",
+    "id": "93c1d975-65e9-4f62-83f9-f09093a3cd04",
+    "last_seen": "2026-10-16T04:14:00.865909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RAM",
+    "first_seen": "2026-10-16T04:14:00.865412+00:00",
+    "id": "41116062-757c-4bc2-8e56-03f43bd8404b",
+    "last_seen": "2026-10-16T04:14:00.865412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "storage",
+    "first_seen": "2026-10-16T04:14:00.865412+00:00",
+    "id": "4581dc1e-b491-48fd-adea-6ec34862e50c",
+    "last_seen": "2026-10-16T04:14:00.865412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CPU",
+    "first_seen": "2026-10-16T04:14:00.865412+00:00",
+    "id": "9f7bfb99-b0f9-4c14-8d70-879aa65e11bb",
+    "last_seen": "2026-10-16T04:14:00.865412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "trade-off",
+    "first_seen": "2026-10-16T04:14:00.856095+00:00",
+    "id": "11cc89b1-2cae-44ba-8025-3e05c9ec5fd5",
+    "last_seen": "2026-10-16T04:14:00.856095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "arsitektur",
+    "first_seen": "2026-10-16T04:14:00.856095+00:00",
+    "id": "c3ba33fb-c145-4a98-8dc4-cb1f4bb6e95d",
+    "last_seen": "2026-10-16T04:14:00.856095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "doa Islami",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "29a4bd1c-dce2-4147-ac42-b71de3853dd1",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'il madhi",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "448fda1e-e7dd-4ccd-b85a-ec4cfb3b993f",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'il amr",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "9504cbcd-57de-4c46-a0ee-c493ea5c02f6",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "inayah",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "9b639f77-1fdd-473e-b4aa-ae58b5160769",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "taufiq",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "af833a84-15e6-4961-bc03-4ac2ad6bb8e8",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'il mudhari'",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "d3d74888-04af-4bd4-bbf5-77271033cd36",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "jumlah ismiyyah",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "e0015708-6c34-4c1d-8d0b-4b9c8ba8b9b9",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hidayah",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "eea9b34c-d673-4ca8-8bcf-d5d8530e2bff",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "jumlah fi'liyyah",
+    "first_seen": "2026-10-16T04:14:00.855909+00:00",
+    "id": "eeeccf29-07a1-4b42-9698-c82631944bf8",
+    "last_seen": "2026-10-16T04:14:00.855909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kajian Islam",
+    "first_seen": "2026-10-16T04:14:00.855692+00:00",
+    "id": "19b6c087-fd95-4afe-8806-3e2ae0c94289",
+    "last_seen": "2026-10-16T04:14:00.855692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "otomatisasi penelitian",
+    "first_seen": "2026-10-16T04:14:00.855692+00:00",
+    "id": "fc3e669c-b0ee-4e86-b8a3-a3754d67a226",
+    "last_seen": "2026-10-16T04:14:00.855692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Windows App",
+    "first_seen": "2026-10-16T04:14:00.855412+00:00",
+    "id": "017d2653-d744-4d9f-833a-3e8dd593b27b",
+    "last_seen": "2026-10-16T04:14:00.855412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Windows VM",
+    "first_seen": "2026-10-16T04:14:00.855412+00:00",
+    "id": "2bad6e5f-0128-4e3d-a16c-a9a9cf45ef0c",
+    "last_seen": "2026-10-16T04:14:00.855412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "office VM",
+    "first_seen": "2026-10-16T04:14:00.855412+00:00",
+    "id": "6d37957b-ef1b-43a7-a449-752ea499b2bf",
+    "last_seen": "2026-10-16T04:14:00.855412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GIS",
+    "first_seen": "2026-10-16T04:14:00.855412+00:00",
+    "id": "73a96b9e-38b4-4a7f-bb6a-e1d951ab4329",
+    "last_seen": "2026-10-16T04:14:00.855412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "environment",
+    "first_seen": "2026-10-16T04:14:00.846095+00:00",
+    "id": "1e93b23a-f95b-4d49-bfea-7392ccedac9c",
+    "last_seen": "2026-10-16T04:14:00.846095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "teknologi enterprise",
+    "first_seen": "2026-10-16T04:14:00.846095+00:00",
+    "id": "2f3fd514-3b26-461a-846a-02955c50bc9f",
+    "last_seen": "2026-10-16T04:14:00.846095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "solusi teknis",
+    "first_seen": "2026-10-16T04:14:00.846095+00:00",
+    "id": "6876a1e3-6b0c-4e5e-8c02-6c43f2e00ae4",
+    "last_seen": "2026-10-16T04:14:00.846095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Insyaa Allah",
+    "first_seen": "2026-10-16T04:14:00.845909+00:00",
+    "id": "292017c8-bf2a-4798-bbcf-3cfdb03575b7",
+    "last_seen": "2026-10-16T04:14:00.845909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Barakallahu fiikum",
+    "first_seen": "2026-10-16T04:14:00.845909+00:00",
+    "id": "a0f309bb-8547-45ff-876a-de4f5c06d205",
+    "last_seen": "2026-10-16T04:14:00.845909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "persistent memory",
+    "first_seen": "2026-10-16T04:14:00.845692+00:00",
+    "id": "29aff37b-4486-4632-adc2-d5ee38419c23",
+    "last_seen": "2026-10-16T04:14:00.845692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar Food Security",
+    "first_seen": "2026-10-16T04:14:00.845692+00:00",
+    "id": "b5465b3d-3af8-42a1-a354-107f4c62fbcc",
+    "last_seen": "2026-10-16T04:14:00.845692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Silicon",
+    "first_seen": "2026-10-16T04:14:00.845412+00:00",
+    "id": "153a6014-8baf-422e-bde7-87f352561742",
+    "last_seen": "2026-10-16T04:14:00.845412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "thesis dataset",
+    "first_seen": "2026-10-16T04:14:00.845412+00:00",
+    "id": "4bb875ec-03e6-4586-8d0b-e4275b7cca78",
+    "last_seen": "2026-10-16T04:14:00.845412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NVIDIA",
+    "first_seen": "2026-10-16T04:14:00.845412+00:00",
+    "id": "6ef538d5-2fa2-4edc-8814-d6575e815e2f",
+    "last_seen": "2026-10-16T04:14:00.845412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI workload",
+    "first_seen": "2026-10-16T04:14:00.845412+00:00",
+    "id": "b5677481-45a5-4ba3-a5c6-edd701cabda3",
+    "last_seen": "2026-10-16T04:14:00.845412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pixel art",
+    "first_seen": "2026-10-16T04:14:00.836487+00:00",
+    "id": "7854299f-68ea-4a09-8d7e-de2755b5011d",
+    "last_seen": "2026-10-16T04:14:00.836487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Digmi Laboratorium",
+    "first_seen": "2026-10-16T04:14:00.836487+00:00",
+    "id": "b7d18928-1398-4d08-a6da-9b6fa1f664ee",
+    "last_seen": "2026-10-16T04:14:00.836487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "karier",
+    "first_seen": "2026-10-16T04:14:00.836289+00:00",
+    "id": "93fcda79-a02a-4d12-9b0c-9505fe00bbd9",
+    "last_seen": "2026-10-16T04:14:00.836289+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "keputusan teknis",
+    "first_seen": "2026-10-16T04:14:00.836095+00:00",
+    "id": "425feea7-128e-4a44-9422-aecf0c55c43b",
+    "last_seen": "2026-10-16T04:14:00.836095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "keterbatasan sumber daya",
+    "first_seen": "2026-10-16T04:14:00.836095+00:00",
+    "id": "90294e3a-3c96-4641-9a8d-863e0002256e",
+    "last_seen": "2026-10-16T04:14:00.836095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "error log",
+    "first_seen": "2026-10-16T04:14:00.836095+00:00",
+    "id": "bc7e6dd9-d3d0-487a-88ba-af583910e7b3",
+    "last_seen": "2026-10-16T04:14:00.836095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "implementasi",
+    "first_seen": "2026-10-16T04:14:00.836095+00:00",
+    "id": "cc7d51a7-35fb-4452-8f87-c4a23b98d511",
+    "last_seen": "2026-10-16T04:14:00.836095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "surat permohonan izin",
+    "first_seen": "2026-10-16T04:14:00.835909+00:00",
+    "id": "107e57ef-0893-4b98-b157-a765066d641b",
+    "last_seen": "2026-10-16T04:14:00.835909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "latihan",
+    "first_seen": "2026-10-16T04:14:00.835909+00:00",
+    "id": "ce400e45-7e54-4aef-9eb9-8cf60176545c",
+    "last_seen": "2026-10-16T04:14:00.835909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pengeras suara",
+    "first_seen": "2026-10-16T04:14:00.835909+00:00",
+    "id": "d2f5e3c5-f228-4cdd-a5e8-81c188817a56",
+    "last_seen": "2026-10-16T04:14:00.835909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tabel",
+    "first_seen": "2026-10-16T04:14:00.835909+00:00",
+    "id": "d944ff04-81cb-4c4e-919a-a41fa40ab50f",
+    "last_seen": "2026-10-16T04:14:00.835909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "personal AI agent",
+    "first_seen": "2026-10-16T04:14:00.835692+00:00",
+    "id": "edd34683-c64f-4ce9-a593-8afff3e13256",
+    "last_seen": "2026-10-16T04:14:00.835692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Store Marina Bay Sands",
+    "first_seen": "2026-10-16T04:14:00.835412+00:00",
+    "id": "5ab3a651-617e-4a7e-99f3-c7d8d8f3796f",
+    "last_seen": "2026-10-16T04:14:00.835412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "display",
+    "first_seen": "2026-10-16T04:14:00.835412+00:00",
+    "id": "787692a7-e432-4fc2-be17-66dffc5a5861",
+    "last_seen": "2026-10-16T04:14:00.835412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "VRAM",
+    "first_seen": "2026-10-16T04:14:00.835412+00:00",
+    "id": "87566208-b598-4920-bf81-19088483cc48",
+    "last_seen": "2026-10-16T04:14:00.835412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GPU",
+    "first_seen": "2026-10-16T04:14:00.835412+00:00",
+    "id": "f74450e7-532b-4e60-9a33-9b57b8d7d90b",
+    "last_seen": "2026-10-16T04:14:00.835412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Siyar A'lam An-Nubala",
+    "first_seen": "2026-10-16T04:14:00.826487+00:00",
+    "id": "ad559667-23bb-4d63-ae3b-5a70672b22be",
+    "last_seen": "2026-10-16T04:14:00.826487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "makanan halal",
+    "first_seen": "2026-10-16T04:14:00.826289+00:00",
+    "id": "6976acf5-6368-4897-b092-065d4fc9b968",
+    "last_seen": "2026-10-16T04:14:00.826289+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "coffee shop",
+    "first_seen": "2026-10-16T04:14:00.826289+00:00",
+    "id": "a9d00d8e-7b3f-4084-bb60-2fa2309dadfc",
+    "last_seen": "2026-10-16T04:14:00.826289+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "nasi lemak",
+    "first_seen": "2026-10-16T04:14:00.826289+00:00",
+    "id": "def52c77-794c-45a2-a28d-79c6ff094eeb",
+    "last_seen": "2026-10-16T04:14:00.826289+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "faktor finansial",
+    "first_seen": "2026-10-16T04:14:00.826095+00:00",
+    "id": "03cd50cf-c1d5-40ae-af34-a208e26490cc",
+    "last_seen": "2026-10-16T04:14:00.826095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "referensi",
+    "first_seen": "2026-10-16T04:14:00.826095+00:00",
+    "id": "115837ea-211e-45f3-8a52-00ffa8374f56",
+    "last_seen": "2026-10-16T04:14:00.826095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "faktor teknis",
+    "first_seen": "2026-10-16T04:14:00.826095+00:00",
+    "id": "1d7d723d-7c7c-409e-9f15-7ce85914e5e8",
+    "last_seen": "2026-10-16T04:14:00.826095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pengambilan keputusan",
+    "first_seen": "2026-10-16T04:14:00.826095+00:00",
+    "id": "29b257d0-8332-47e9-bd78-7a1058160ed2",
+    "last_seen": "2026-10-16T04:14:00.826095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Amiyyah",
+    "first_seen": "2026-10-16T04:14:00.825909+00:00",
+    "id": "600f95fb-3ebd-4772-b562-8339cce03451",
+    "last_seen": "2026-10-16T04:14:00.825909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "harakat",
+    "first_seen": "2026-10-16T04:14:00.825909+00:00",
+    "id": "633a71f5-8422-40fe-b56d-6013fabbc9c3",
+    "last_seen": "2026-10-16T04:14:00.825909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Nustro",
+    "first_seen": "2026-10-16T04:14:00.825909+00:00",
+    "id": "b638e6b9-1e8a-495a-b726-f055d0de8227",
+    "last_seen": "2026-10-16T04:14:00.825909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "BINUS",
+    "first_seen": "2026-10-16T04:14:00.825692+00:00",
+    "id": "12987d67-d6df-4b2f-ae6b-32fcc2a7dbbf",
+    "last_seen": "2026-10-16T04:14:00.825692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "machine learning",
+    "first_seen": "2026-10-16T04:14:00.825692+00:00",
+    "id": "71011bb4-5b03-4140-b897-aec394f9a253",
+    "last_seen": "2026-10-16T04:14:00.825692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ASUS ROG Zephyrus G14 2024",
+    "first_seen": "2026-10-16T04:14:00.825412+00:00",
+    "id": "787abb25-0539-470f-a0f7-0709e69eb424",
+    "last_seen": "2026-10-16T04:14:00.825412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NVIDIA RTX 4050 Laptop GPU",
+    "first_seen": "2026-10-16T04:14:00.825412+00:00",
+    "id": "aa8d2ef3-89de-4078-a6a3-12d3befd02fa",
+    "last_seen": "2026-10-16T04:14:00.825412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "trade-in value",
+    "first_seen": "2026-10-16T04:14:00.825094+00:00",
+    "id": "56983cd0-3c03-462f-81bc-2ec78ddc3697",
+    "last_seen": "2026-10-16T04:14:00.825094+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "resale value",
+    "first_seen": "2026-10-16T04:14:00.825094+00:00",
+    "id": "ce1460a8-d83b-408a-83f5-57c24a3db98d",
+    "last_seen": "2026-10-16T04:14:00.825094+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fitness",
+    "first_seen": "2026-10-16T04:14:00.816487+00:00",
+    "id": "096bf536-29e0-4e41-9f59-fd4704968cdf",
+    "last_seen": "2026-10-16T04:14:00.816487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "resistance band",
+    "first_seen": "2026-10-16T04:14:00.816487+00:00",
+    "id": "3a5542c1-ddaf-46ad-8052-3691bb8709a8",
+    "last_seen": "2026-10-16T04:14:00.816487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dumbbell",
+    "first_seen": "2026-10-16T04:14:00.816487+00:00",
+    "id": "7472a0fa-72dd-46e6-aa10-84fcad092cdb",
+    "last_seen": "2026-10-16T04:14:00.816487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "workout bench",
+    "first_seen": "2026-10-16T04:14:00.816487+00:00",
+    "id": "8681dd6c-e6f8-4fb2-b997-149eb8e204de",
+    "last_seen": "2026-10-16T04:14:00.816487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "barbell",
+    "first_seen": "2026-10-16T04:14:00.816487+00:00",
+    "id": "94055405-8b60-4f98-8f25-8c6974615cbc",
+    "last_seen": "2026-10-16T04:14:00.816487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kettlebell",
+    "first_seen": "2026-10-16T04:14:00.816487+00:00",
+    "id": "c74772ac-9b2d-45bd-8708-554685eb9e74",
+    "last_seen": "2026-10-16T04:14:00.816487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ASCII",
+    "first_seen": "2026-10-16T04:14:00.816095+00:00",
+    "id": "01cbb97d-a18f-48d7-8488-3797f5af046c",
+    "last_seen": "2026-10-16T04:14:00.816095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pipeline teknis",
+    "first_seen": "2026-10-16T04:14:00.816095+00:00",
+    "id": "ba1e5bb5-c13a-4005-bcd8-16cfd32681b7",
+    "last_seen": "2026-10-16T04:14:00.816095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Mermaid",
+    "first_seen": "2026-10-16T04:14:00.816095+00:00",
+    "id": "dcf6f6c1-8a21-4e15-a5d5-2be5f59485ba",
+    "last_seen": "2026-10-16T04:14:00.816095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "akurasi teknis",
+    "first_seen": "2026-10-16T04:14:00.816095+00:00",
+    "id": "e4248691-8028-4038-903a-4ddf48610de6",
+    "last_seen": "2026-10-16T04:14:00.816095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ungkapan Arab",
+    "first_seen": "2026-10-16T04:14:00.815909+00:00",
+    "id": "ae89345d-825e-4f1b-8426-25309c1dc8e5",
+    "last_seen": "2026-10-16T04:14:00.815909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kajian kelompok",
+    "first_seen": "2026-10-16T04:14:00.815909+00:00",
+    "id": "d85e092b-5fbe-40ea-b2f2-666922e68a0c",
+    "last_seen": "2026-10-16T04:14:00.815909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "iBox",
+    "first_seen": "2026-10-16T04:14:00.815412+00:00",
+    "id": "bf204305-88ed-4ee9-8566-f7ddc4144004",
+    "last_seen": "2026-10-16T04:14:00.815412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "value for money",
+    "first_seen": "2026-10-16T04:14:00.815094+00:00",
+    "id": "86189af1-0f75-4d0b-ba90-99c312738f5e",
+    "last_seen": "2026-10-16T04:14:00.815094+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ROM",
+    "first_seen": "2026-10-16T04:14:00.806487+00:00",
+    "id": "09c5c356-d368-4ffd-9f04-8f5292c3aab0",
+    "last_seen": "2026-10-16T04:14:00.806487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Redump",
+    "first_seen": "2026-10-16T04:14:00.806487+00:00",
+    "id": "13411de7-2a0a-454a-ba46-2d7e74533b41",
+    "last_seen": "2026-10-16T04:14:00.806487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CHD",
+    "first_seen": "2026-10-16T04:14:00.806487+00:00",
+    "id": "40118ce3-5a89-44ca-8e40-d55728df545e",
+    "last_seen": "2026-10-16T04:14:00.806487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "masalah teknis",
+    "first_seen": "2026-10-16T04:14:00.806095+00:00",
+    "id": "72b43253-8d20-492c-b75c-8d3d08da4ccb",
+    "last_seen": "2026-10-16T04:14:00.806095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "DOCX",
+    "first_seen": "2026-10-16T04:14:00.806095+00:00",
+    "id": "8ee7a4b5-0bc9-4351-9739-c4174612f803",
+    "last_seen": "2026-10-16T04:14:00.806095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "penutur Saudi",
+    "first_seen": "2026-10-16T04:14:00.805909+00:00",
+    "id": "00ec5d95-ee5a-41a2-815f-63e7b2c5f110",
+    "last_seen": "2026-10-16T04:14:00.805909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Abdul Wahhab, Lc., M.A.",
+    "first_seen": "2026-10-16T04:14:00.805909+00:00",
+    "id": "be7e766d-fd53-4bfd-9501-58d823edce59",
+    "last_seen": "2026-10-16T04:14:00.805909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "jurnal internasional",
+    "first_seen": "2026-10-16T04:14:00.805692+00:00",
+    "id": "9817adb9-1192-415f-856d-f2f4e725c7c0",
+    "last_seen": "2026-10-16T04:14:00.805692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "publikasi penelitian",
+    "first_seen": "2026-10-16T04:14:00.805692+00:00",
+    "id": "aced58d2-4542-4d7f-9e4e-a2cfaa0caeab",
+    "last_seen": "2026-10-16T04:14:00.805692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Trade In",
+    "first_seen": "2026-10-16T04:14:00.805412+00:00",
+    "id": "acb2040d-3679-4675-8210-30a4a72dbbbc",
+    "last_seen": "2026-10-16T04:14:00.805412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PlayStation 2",
+    "first_seen": "2026-10-16T04:14:00.796487+00:00",
+    "id": "1ba13e6c-4efe-4fc0-9bfa-8582ab1a88fc",
+    "last_seen": "2026-10-16T04:14:00.796487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "BIOS emulator",
+    "first_seen": "2026-10-16T04:14:00.796487+00:00",
+    "id": "2c4397b6-792b-455e-9058-76f91f995f38",
+    "last_seen": "2026-10-16T04:14:00.796487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PlayStation 1",
+    "first_seen": "2026-10-16T04:14:00.796487+00:00",
+    "id": "ca8e8b30-1db3-425a-8253-61861d68a7e5",
+    "last_seen": "2026-10-16T04:14:00.796487+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "copy-paste",
+    "first_seen": "2026-10-16T04:14:00.796095+00:00",
+    "id": "8044d83a-e14d-4fa8-be7e-4c5eebf0a7fb",
+    "last_seen": "2026-10-16T04:14:00.796095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "gaya respons",
+    "first_seen": "2026-10-16T04:14:00.796095+00:00",
+    "id": "8418c7c9-2390-433f-9ca6-ca66475a1a2f",
+    "last_seen": "2026-10-16T04:14:00.796095+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Riyadhus Shalihin",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "48583c1b-decf-4204-8164-cbe9fa82fd4c",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Syaikh Muhammad bin Abdul Wahhab",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "a40ae46d-9421-4d85-bceb-2159fb315ec9",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Ushul As-Sittah",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "bf228586-93fe-41e1-9930-998137e49a8e",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ushul As-Sunnah",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "e9aabc92-6942-4f62-b883-b6323771bf74",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Ahmad bin Hanbal",
+    "first_seen": "2026-10-16T04:14:00.795909+00:00",
+    "id": "fd8b5f58-9c76-4fdb-971e-cece92c18bb3",
+    "last_seen": "2026-10-16T04:14:00.795909+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pembelajaran",
+    "first_seen": "2026-10-16T04:14:00.795692+00:00",
+    "id": "f586417d-27f3-4ded-b598-19594710181a",
+    "last_seen": "2026-10-16T04:14:00.795692+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "anggaran pembelian perangkat",
+    "first_seen": "2026-10-16T04:14:00.795412+00:00",
+    "id": "73ddc775-b05e-4765-8387-2f92ba8374b7",
+    "last_seen": "2026-10-16T04:14:00.795412+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "IDR",
+    "first_seen": "2026-10-16T04:14:00.795094+00:00",
+    "id": "0687230f-3568-4c1c-ac3c-e118f66cf90d",
+    "last_seen": "2026-10-16T04:14:00.795094+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "USD",
+    "first_seen": "2026-10-16T04:14:00.795094+00:00",
+    "id": "388408ec-05e7-480a-b81e-e069cb44c1d3",
+    "last_seen": "2026-10-16T04:14:00.795094+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SGD",
+    "first_seen": "2026-10-16T04:14:00.795094+00:00",
+    "id": "3f70528e-a90d-4302-a8be-d57d8eb5dc89",
+    "last_seen": "2026-10-16T04:14:00.795094+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GeoJSON",
+    "first_seen": "2026-10-16T04:12:25.265908+00:00",
+    "id": "40693f34-d9fe-4b8e-b115-fcae56c3d957",
+    "last_seen": "2026-10-16T04:12:25.265908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "asset geometry",
+    "first_seen": "2026-10-16T04:12:25.265908+00:00",
+    "id": "a55363de-87eb-4289-8109-9a193a562494",
+    "last_seen": "2026-10-16T04:12:25.265908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "HYT00",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "0c872a06-d368-4886-b1e3-6a7a4b9d58a0",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "unixODBC",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "4dc70f0c-43c7-49d1-abec-eba7475e46fa",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "inspeksi",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "86d67d08-4d81-4d2c-95de-f75e5848805e",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Microsoft Entra",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "ac796c71-dd13-4a90-8652-ad5a41f74407",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ODBC Driver 18 for SQL Server",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "b5837b33-3829-48f0-89a1-b1b18b2e0d80",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "vector map",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "eefeb727-1049-47fd-8689-25111a594585",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PDF export",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "f6fdd350-08fd-4508-922b-eda4d865d32c",
+    "last_seen": "2026-10-16T04:12:25.235908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ETL",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "475bf33b-d9ef-4ddb-b4f6-c7353b8d4bae",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MapLibreMapService",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "481bc4f0-5af7-445e-a795-e1c3ff487218",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Asset",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "4f6df919-fbe5-45cd-a35a-c7e3d5d230eb",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "IMapService",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "66c962bb-a643-40e3-bbe1-558a63456a3d",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "REST API",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "7bb1d487-b81f-43be-ad7f-9fbec9cca5ca",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Parquet",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "b86730b1-e1a4-4f26-8d05-e995a2491c0f",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ELT",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "c2dd98d5-ea5c-4b8d-a571-7258979ad23b",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Boundary",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "c9ce2857-0097-4419-93f3-e34aa90ff956",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Farm",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "cfe9484e-4fab-429b-a329-80fd5c1e416c",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Microsoft SQL Server",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "eb461f0c-c61c-461e-a0a5-549d81446d4e",
+    "last_seen": "2026-10-16T04:12:25.225908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Tailwind CSS",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "048404b9-09e0-40af-9df6-a3545d89f19d",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "haversine",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "0b67c96c-37e0-47c7-8a62-8b175e034f24",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deck.gl",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "294bc80f-96f9-437c-ad28-8892c0a0ce7d",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "DuckDB",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "339f6542-1aa6-43f1-be5a-14255cf05f1a",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pandas",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "3bef2c1a-9b34-41c5-b654-8e72ebba2ee9",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "shadcn-svelte",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "5014cba2-0ecd-45fd-ad1a-028bbbfcee48",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ultralytics",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "8b84c4d5-ca8a-4cbd-9df4-cad99412ada3",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NLTK",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "9b8eeefa-fb2d-4d93-af54-5c321cc0e0cc",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GSAP",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "a797c2c1-6312-4bba-b2c7-25199f1455aa",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Rich",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "b65427f2-cf2e-4db2-a3ef-bb13f45f6218",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fuzzywuzzy",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "ce282bd3-fdf3-4aa3-ac4c-effb92fdda93",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apache ECharts",
+    "first_seen": "2026-10-16T04:12:25.215908+00:00",
+    "id": "f9349409-2a8f-4b82-9e85-27c6f16ccd1c",
+    "last_seen": "2026-10-16T04:12:25.215908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "JavaScript",
+    "first_seen": "2026-10-16T04:12:25.205908+00:00",
+    "id": "2484ea19-f270-4e11-a744-02ffb81c338d",
+    "last_seen": "2026-10-16T04:12:25.205908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "TypeScript",
+    "first_seen": "2026-10-16T04:12:25.205908+00:00",
+    "id": "2bb45b62-a3f7-41b3-995f-e1ea2bb4daa6",
+    "last_seen": "2026-10-16T04:12:25.205908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "shell scripting",
+    "first_seen": "2026-10-16T04:12:25.205908+00:00",
+    "id": "7f2ec727-02f9-455d-afef-905c1fb32a61",
+    "last_seen": "2026-10-16T04:12:25.205908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MapLibre GL JS",
+    "first_seen": "2026-10-16T04:12:25.205908+00:00",
+    "id": "9bb383c6-2ac0-415a-b9cf-3dc954978455",
+    "last_seen": "2026-10-16T04:12:25.205908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SvelteKit",
+    "first_seen": "2026-10-16T04:12:25.205908+00:00",
+    "id": "b639f6cc-2d39-4ebe-8912-d7a58994a6b1",
+    "last_seen": "2026-10-16T04:12:25.205908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Cesium",
+    "first_seen": "2026-10-16T04:12:25.205908+00:00",
+    "id": "b8f1b0c6-750c-4bc6-b514-18374c3761a5",
+    "last_seen": "2026-10-16T04:12:25.205908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PowerShell",
+    "first_seen": "2026-10-16T04:12:25.195908+00:00",
+    "id": "a8cc845e-cdad-4136-b29d-8266e23780a8",
+    "last_seen": "2026-10-16T04:12:25.195908+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "perjalanan keluarga",
+    "first_seen": "2026-10-16T04:12:24.770428+00:00",
+    "id": "b6229879-16c0-4057-a111-8955c010b4bc",
+    "last_seen": "2026-10-16T04:12:24.770428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deployment",
+    "first_seen": "2026-10-16T04:12:24.720428+00:00",
+    "id": "15bb6b38-6820-4ffa-92cf-a8509f92d2c4",
+    "last_seen": "2026-10-16T04:12:24.720428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "memory engine",
+    "first_seen": "2026-10-16T04:12:24.720428+00:00",
+    "id": "ba49c3a4-a88f-43de-9dba-6284ff5f7fee",
+    "last_seen": "2026-10-16T04:12:24.720428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model training",
+    "first_seen": "2026-10-16T04:12:24.720428+00:00",
+    "id": "ef4e05fa-cceb-4b18-bfc5-dd1d9cfd5d44",
+    "last_seen": "2026-10-16T04:12:24.720428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bogor",
+    "first_seen": "2026-10-16T04:12:24.700428+00:00",
+    "id": "dde6de03-1ffb-4fed-9424-6d360c1bb416",
+    "last_seen": "2026-10-16T04:12:24.700428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Digmi",
+    "first_seen": "2026-10-16T04:12:24.690428+00:00",
+    "id": "452f268d-ca85-46ef-96a9-695e15d69dc5",
+    "last_seen": "2026-10-16T04:12:24.690428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Taufiq",
+    "first_seen": "2026-10-16T04:12:24.680428+00:00",
+    "id": "73934db9-f1a1-480a-b93d-b0aef141869d",
+    "last_seen": "2026-10-16T04:12:24.680428+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Temporal-Invariance Consistency for Oriented Detection",
+    "first_seen": "2026-10-16T04:12:23.762872+00:00",
+    "id": "76bea921-8092-4d77-bce0-8a229ac926f0",
+    "last_seen": "2026-10-16T04:12:23.762872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Gibril",
+    "first_seen": "2026-10-16T04:12:23.752872+00:00",
+    "id": "0c44c987-a01e-43f8-8078-61d7d54b96c7",
+    "last_seen": "2026-10-16T04:12:23.752872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "remote sensing foundation models",
+    "first_seen": "2026-10-16T04:12:23.752872+00:00",
+    "id": "2d1e59fe-cbaa-446f-bf3e-f108baf57e1e",
+    "last_seen": "2026-10-16T04:12:23.752872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SpectralGPT",
+    "first_seen": "2026-10-16T04:12:23.752872+00:00",
+    "id": "785f2301-9011-4a3c-a0a3-a92f2d89533c",
+    "last_seen": "2026-10-16T04:12:23.752872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "teacher-student architecture",
+    "first_seen": "2026-10-16T04:12:23.752872+00:00",
+    "id": "8faf3fe9-9d27-4162-b0bf-b28154e8768d",
+    "last_seen": "2026-10-16T04:12:23.752872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "date palm segmentation",
+    "first_seen": "2026-10-16T04:12:23.752872+00:00",
+    "id": "c8bc23b1-533c-4cf2-8e8a-27eb1ef7dea5",
+    "last_seen": "2026-10-16T04:12:23.752872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Scale-MAE",
+    "first_seen": "2026-10-16T04:12:23.752872+00:00",
+    "id": "e7c7f7ff-331f-4896-8d98-2b100afba941",
+    "last_seen": "2026-10-16T04:12:23.752872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "trained_models",
+    "first_seen": "2026-10-16T04:12:23.742872+00:00",
+    "id": "0a09de94-043e-4b9b-9bb0-d983ba80dc9b",
+    "last_seen": "2026-10-16T04:12:23.742872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "DeepLabV3",
+    "first_seen": "2026-10-16T04:12:23.742872+00:00",
+    "id": "51c72c42-b526-4bd3-8043-b9b13a38e9d8",
+    "last_seen": "2026-10-16T04:12:23.742872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "cross-sensor generalization",
+    "first_seen": "2026-10-16T04:12:23.742872+00:00",
+    "id": "7821bded-1bd9-4f0e-8255-476ba608ddfc",
+    "last_seen": "2026-10-16T04:12:23.742872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ONNX",
+    "first_seen": "2026-10-16T04:12:23.742872+00:00",
+    "id": "9b685471-665c-468d-93f6-830059c725d4",
+    "last_seen": "2026-10-16T04:12:23.742872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "unlabeled multi-temporal imagery",
+    "first_seen": "2026-10-16T04:12:23.742872+00:00",
+    "id": "ab743794-5053-4e6c-a9fa-4e5667f42a39",
+    "last_seen": "2026-10-16T04:12:23.742872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "weakly supervised learning",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "14e0c0fe-20fd-4d82-a3de-b931d8cbd6a3",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "point-supervised object detection",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "25eb36b4-797f-434c-9978-8340dea92522",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "QGIS",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "35085584-156b-4e0b-a8b9-ef3147baf529",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PointOBB",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "8df9e0db-5d21-4cf4-831e-ac863e0cc098",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PALMSCNN",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "a9c43984-d928-4bab-812b-60de9bf4f195",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GDAL",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "de5b274d-b0db-479c-b4fd-1f255e9010f3",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Point2RBox",
+    "first_seen": "2026-10-16T04:12:23.732872+00:00",
+    "id": "edaebe72-ad03-48ff-8d4d-7270afbd2a04",
+    "last_seen": "2026-10-16T04:12:23.732872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "evaluasi",
+    "first_seen": "2026-10-16T04:12:23.722872+00:00",
+    "id": "3254d623-f161-4792-a48e-c9534d50f5e4",
+    "last_seen": "2026-10-16T04:12:23.722872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "gold-standard dataset",
+    "first_seen": "2026-10-16T04:12:23.722872+00:00",
+    "id": "a8f8db51-16ab-4a76-9193-216fa2c23ff3",
+    "last_seen": "2026-10-16T04:12:23.722872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "otomasi",
+    "first_seen": "2026-10-16T04:12:23.712872+00:00",
+    "id": "dec1030b-6712-48ea-ada7-8b6ee680e0b2",
+    "last_seen": "2026-10-16T04:12:23.712872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SAM2",
+    "first_seen": "2026-10-16T04:12:23.712872+00:00",
+    "id": "e1e21b52-c038-4d2c-bf55-ae0f1656f39c",
+    "last_seen": "2026-10-16T04:12:23.712872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multispan",
+    "first_seen": "2026-10-16T04:12:23.702872+00:00",
+    "id": "0a1f7978-3e78-472d-ae2b-85244c154bcb",
+    "last_seen": "2026-10-16T04:12:23.702872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "segmentation mask",
+    "first_seen": "2026-10-16T04:12:23.702872+00:00",
+    "id": "1e2b233f-d586-4efd-b7c5-505fb334f832",
+    "last_seen": "2026-10-16T04:12:23.702872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "background",
+    "first_seen": "2026-10-16T04:12:23.702872+00:00",
+    "id": "dd80a4c9-3458-4737-9284-b986de329220",
+    "last_seen": "2026-10-16T04:12:23.702872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tunnel",
+    "first_seen": "2026-10-16T04:12:23.702872+00:00",
+    "id": "f7f7a072-0912-42c3-b3a7-e11ee4526ef0",
+    "last_seen": "2026-10-16T04:12:23.702872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "training images",
+    "first_seen": "2026-10-16T04:12:23.692872+00:00",
+    "id": "9224263c-7d6c-4d01-8c9a-7260a7b85ccf",
+    "last_seen": "2026-10-16T04:12:23.692872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "greenhouse segmentation",
+    "first_seen": "2026-10-16T04:12:23.692872+00:00",
+    "id": "93481627-cc78-48ac-9674-23496ed2739e",
+    "last_seen": "2026-10-16T04:12:23.692872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "polygon segmentation",
+    "first_seen": "2026-10-16T04:12:23.692872+00:00",
+    "id": "c0d899d9-098c-47cd-bdfd-3248c3538bb5",
+    "last_seen": "2026-10-16T04:12:23.692872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Palm Tree",
+    "first_seen": "2026-10-16T04:12:23.682872+00:00",
+    "id": "0a167498-5781-4bc8-b5f5-92a936c0cb38",
+    "last_seen": "2026-10-16T04:12:23.682872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ellipse",
+    "first_seen": "2026-10-16T04:12:23.682872+00:00",
+    "id": "17c36346-e72d-44c7-aa9e-1181f59a004d",
+    "last_seen": "2026-10-16T04:12:23.682872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CVAT",
+    "first_seen": "2026-10-16T04:12:23.682872+00:00",
+    "id": "fc058554-8bfe-492c-b7cd-15baa57a029e",
+    "last_seen": "2026-10-16T04:12:23.682872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "generalisasi model",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "2b4b4ec9-174c-470a-8655-537e8073c1d5",
+    "last_seen": "2026-10-16T04:12:23.672872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deep learning",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "2dc247a0-b532-4b88-80f3-b4b4aab5ba38",
+    "last_seen": "2026-10-16T04:12:23.672872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YOLO11x-OBB",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "5eaa3c41-5861-4edd-adae-c5643f4abe3a",
+    "last_seen": "2026-10-16T04:12:23.672872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "label propagation",
+    "first_seen": "2026-10-16T04:12:23.672872+00:00",
+    "id": "b221029a-a4c7-4c3d-b10f-58c64c966ab5",
+    "last_seen": "2026-10-16T04:12:23.672872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pohon kurma",
+    "first_seen": "2026-10-16T04:12:23.662872+00:00",
+    "id": "a52f4d19-163c-4c23-bd34-7c4ce6fc1e6f",
+    "last_seen": "2026-10-16T04:12:23.662872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "imagery",
+    "first_seen": "2026-10-16T04:12:23.662872+00:00",
+    "id": "c53096e0-0d42-4f0c-b9a8-7cdfbe750144",
+    "last_seen": "2026-10-16T04:12:23.662872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tesis master",
+    "first_seen": "2026-10-16T04:12:23.662872+00:00",
+    "id": "dcff7212-13db-41d0-bf79-6c4af4c3e894",
+    "last_seen": "2026-10-16T04:12:23.662872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "epoch",
+    "first_seen": "2026-10-16T04:12:23.662872+00:00",
+    "id": "ddebbc91-08d7-46ba-9a70-ad09d66af04c",
+    "last_seen": "2026-10-16T04:12:23.662872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "citra satelit",
+    "first_seen": "2026-10-16T04:12:23.662872+00:00",
+    "id": "e86cd971-d37e-4333-93b2-8756ba1c1807",
+    "last_seen": "2026-10-16T04:12:23.662872+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product.csv",
+    "first_seen": "2026-10-16T04:12:22.776835+00:00",
+    "id": "641e55e9-797f-4a35-a170-9acd11787673",
+    "last_seen": "2026-10-16T04:12:22.776835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product_mapping_ext_lulu.csv",
+    "first_seen": "2026-10-16T04:12:22.776835+00:00",
+    "id": "664832a2-b178-4c0d-b931-595b6f29391e",
+    "last_seen": "2026-10-16T04:12:22.776835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "src_product_name_en",
+    "first_seen": "2026-10-16T04:12:22.776835+00:00",
+    "id": "b16fc3ce-d179-4866-9454-18b9a1431381",
+    "last_seen": "2026-10-16T04:12:22.776835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "automated product mapping",
+    "first_seen": "2026-10-16T04:12:22.766835+00:00",
+    "id": "461126eb-60bb-41c5-a6bd-3fbdb6b1954f",
+    "last_seen": "2026-10-16T04:12:22.766835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "historical data",
+    "first_seen": "2026-10-16T04:12:22.756835+00:00",
+    "id": "4fb29530-ac46-419f-b77c-ff92cba0441f",
+    "last_seen": "2026-10-16T04:12:22.756835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "T-1",
+    "first_seen": "2026-10-16T04:12:22.746835+00:00",
+    "id": "0e45be6c-ca83-4a7e-ae2b-721ecf40b6da",
+    "last_seen": "2026-10-16T04:12:22.746835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "rawan_almaha",
+    "first_seen": "2026-10-16T04:12:22.746835+00:00",
+    "id": "723f3736-637f-41ae-acda-08f2bef65afe",
+    "last_seen": "2026-10-16T04:12:22.746835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product_category",
+    "first_seen": "2026-10-16T04:12:22.746835+00:00",
+    "id": "f408d994-6c9a-44a0-b00d-668ed898177f",
+    "last_seen": "2026-10-16T04:12:22.746835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local_program",
+    "first_seen": "2026-10-16T04:12:22.736835+00:00",
+    "id": "38f0c2b1-353b-4940-9b40-aa8cb1727e4d",
+    "last_seen": "2026-10-16T04:12:22.736835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "country_of_origin",
+    "first_seen": "2026-10-16T04:12:22.736835+00:00",
+    "id": "680ae28f-3415-4d56-b797-e0ae9b69297c",
+    "last_seen": "2026-10-16T04:12:22.736835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm_id",
+    "first_seen": "2026-10-16T04:12:22.736835+00:00",
+    "id": "87eedf46-271e-4fcd-a7aa-cc4cc70b9dc3",
+    "last_seen": "2026-10-16T04:12:22.736835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "weight",
+    "first_seen": "2026-10-16T04:12:22.726835+00:00",
+    "id": "2de091d5-612c-4695-8903-1b80a420b445",
+    "last_seen": "2026-10-16T04:12:22.726835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "JSON",
+    "first_seen": "2026-10-16T04:12:22.726835+00:00",
+    "id": "763297e1-684b-4df0-b15f-e43a3c8ada30",
+    "last_seen": "2026-10-16T04:12:22.726835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "quantity",
+    "first_seen": "2026-10-16T04:12:22.726835+00:00",
+    "id": "867d52ba-947c-4792-9a1c-4c652c0c3b64",
+    "last_seen": "2026-10-16T04:12:22.726835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Excel",
+    "first_seen": "2026-10-16T04:12:22.726835+00:00",
+    "id": "b7eb8423-00a7-4b08-aae2-2f76469eefe4",
+    "last_seen": "2026-10-16T04:12:22.726835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fresh products",
+    "first_seen": "2026-10-16T04:12:22.716835+00:00",
+    "id": "418434b7-3c47-4a78-97a8-bb1defd0424f",
+    "last_seen": "2026-10-16T04:12:22.716835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "API",
+    "first_seen": "2026-10-16T04:12:22.716835+00:00",
+    "id": "56f81d6f-1f83-4608-885c-05f32a5f42af",
+    "last_seen": "2026-10-16T04:12:22.716835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YYYY-MM-DD",
+    "first_seen": "2026-10-16T04:12:22.716835+00:00",
+    "id": "bf40d743-90d5-4be0-acfe-bac3f627a6d9",
+    "last_seen": "2026-10-16T04:12:22.716835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RFC 4180",
+    "first_seen": "2026-10-16T04:12:22.716835+00:00",
+    "id": "cbf30867-fc40-4eff-8d1b-590b430fae07",
+    "last_seen": "2026-10-16T04:12:22.716835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "file modification time",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "38be800c-2bdd-46bd-a085-f7cdb0c49821",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "open field",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "5a50110a-e287-4529-a21e-2db493dd58cc",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "irrigation infrastructure",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "6c7cf35b-e549-4287-8899-94e65ef328e1",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agricultural assets",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "925d8469-d5f1-42d2-b283-9bf8d3b557a7",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "data quality validation",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "babbd9b7-bdb0-4608-b4a3-6ea66aa6a67d",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "date palm trees",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "efa04fb8-a782-45f3-8e19-a2cc77f388e8",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Maha",
+    "first_seen": "2026-10-16T04:12:22.706835+00:00",
+    "id": "fe1bcc28-2833-4e4c-9543-d04df5ece3c8",
+    "last_seen": "2026-10-16T04:12:22.706835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Widam",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "11809faf-3f38-41b4-87a0-fe6d978684ce",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Baladna",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "1b4df840-ccd0-480c-aa11-c3df8789b3bf",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Waha",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "32bb8451-42a0-4e84-8c0e-c210abc40538",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Lulu Hypermarket",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "6ced6281-5d7b-4062-8cdf-cc9e3fbc44bf",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Athba",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "6f73f940-a2e7-49ef-a97f-faf34cfb6471",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RiyadhDoha",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "8e100e20-c41b-41f4-b332-e8e0c7604fd1",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pl_ext",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "9fdb0d16-2638-4d9c-ac39-dbe725d52ae4",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Qamra",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "afe46195-f43f-4d1d-b551-e71c66804cb9",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "year_date",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "b9cda6ee-58a0-40cc-8166-1c9277a56bfd",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dim.farm",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "d20e34e3-25b9-4e65-9f83-2ab6c60654e5",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Meera",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "d4c8b204-379c-40f2-b03c-a6fce7f04a79",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Monoprix",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "d799c13b-cd8f-4ab9-be68-aed33d758b39",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm data",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "e58a1080-22a6-4e50-b9b9-15dd08644f21",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ext.usp_get_missing_dates",
+    "first_seen": "2026-10-16T04:12:22.696835+00:00",
+    "id": "fd577f17-3735-4d66-85ee-e9012ebd1d0b",
+    "last_seen": "2026-10-16T04:12:22.696835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "EPSG:2932",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "0b41c9e0-1e7f-4d2f-be0e-035c7096b44c",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GeoTIFF",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "1d40df24-1d29-41fe-9e20-e13c890b13de",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Google Earth",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "20b08eca-90fe-4240-977b-5a3c5cf9b323",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Baladi",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "32fd7d0d-5a87-46f6-aeb8-de95f4fe920a",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "WGS 1984 UTM Zone 9N",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "346070a6-97af-436b-b455-4e99e95483f2",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CRS",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "d4cb4ae0-e1ab-44a6-a659-ba1d52641bd7",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Google Maps",
+    "first_seen": "2026-10-16T04:12:22.686835+00:00",
+    "id": "e7d12bdf-3a00-4ff6-82f3-2c0d7e1115de",
+    "last_seen": "2026-10-16T04:12:22.686835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "web application",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "0142698a-9c45-4298-a77f-b57d4aca3ad9",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "G2",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "34c1cea2-d57a-4b48-ac31-c82a6f7135ff",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "G1",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "5ead8001-0c9c-4fb9-9aa6-c77cd754a1a8",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ext.<entity>_trxn",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "7d56745f-e7c4-4dc5-8f2a-df89c8c7c1e7",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PDF",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "817f37b0-ac39-4faf-a944-d9c7b43da8ec",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm boundary",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "9f06b74f-ee35-43f2-af11-c82c6ebf68bf",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "staging table",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "b41b99fe-708f-400f-a630-27ef6454ec15",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "citra multi-temporal",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "b89ba015-7880-4290-900a-4323aebf16f6",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm inspection",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "d4258f2d-c458-4ad4-9f86-e47ff630d38a",
+    "last_seen": "2026-10-16T04:12:22.676835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "QATAR_2026_02_C050_PLE",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "0a734762-b358-4839-ab56-beb283fbf906",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ext.commercial_receipts_v",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "56e48113-2ebe-444f-a569-8529dfa7242b",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Truncate Feature Class",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "58a9a6fb-f21f-443e-9ece-e1c39f8c64cf",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Premium",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "8f9bea18-b580-4831-9244-c2497a8e6bd3",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar Farms",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "a4a967fb-225b-435b-b710-346a19583fea",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local agricultural products",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "ea83d901-38b3-4ebd-a9ee-e93a366f8554",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "QATAR_2022_04_C020_ORT",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "f74d5db1-8d0f-499c-96c0-5ed245a2ae56",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SQL views",
+    "first_seen": "2026-10-16T04:12:22.666835+00:00",
+    "id": "fb234907-2a76-479d-9460-4a76a8583be9",
+    "last_seen": "2026-10-16T04:12:22.666835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcGIS ImageServer",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "0bc47162-5212-40cc-9180-112b6b67867c",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ODS",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "57015f5d-4a3a-4dd9-9b56-6187a20bd047",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product normalization",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "76c7e736-2be6-48f3-9b0e-c0e57a333008",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "food supply and demand monitoring",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "842f4e1e-f276-4e7d-9010-f1333a27620b",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fuzzy matching",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "e07ef39d-e101-42dc-be6f-966de7b68b73",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NLP",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "eb6cf806-3f52-49f3-9876-a43138a3cbdf",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CGISRASTER",
+    "first_seen": "2026-10-16T04:12:22.656835+00:00",
+    "id": "ee2545ab-009c-4582-9f44-695be99b1f9b",
+    "last_seen": "2026-10-16T04:12:22.656835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NIR",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "0d098f4f-1baa-4ab0-81a2-220e5ca56fcc",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "citra multispektral",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "2e0079d4-9ca2-4cb6-ba5e-675652b91144",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "confidence mapping",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "89375751-2dd4-47ed-9f60-ac96cf68f9ec",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ADF",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "906f02ae-005a-4d9b-8029-6a9d6b9170af",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RGB",
+    "first_seen": "2026-10-16T04:12:22.646835+00:00",
+    "id": "c271ddec-2dce-455e-8919-bb10a06a2e50",
+    "last_seen": "2026-10-16T04:12:22.646835+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "WhatsApp",
+    "first_seen": "2026-10-16T04:12:22.232510+00:00",
+    "id": "245fba0a-5f35-42ee-93d8-6ee0563e8c70",
+    "last_seen": "2026-10-16T04:12:22.232510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Telegram",
+    "first_seen": "2026-10-16T04:12:22.222510+00:00",
+    "id": "0c292a56-d60b-4e58-a655-a23f2bc66840",
+    "last_seen": "2026-10-16T04:12:22.222510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "work",
+    "first_seen": "2026-10-16T04:12:22.222510+00:00",
+    "id": "0f86634c-53b9-42ad-9fda-12ec18bd9753",
+    "last_seen": "2026-10-16T04:12:22.222510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "study",
+    "first_seen": "2026-10-16T04:12:22.222510+00:00",
+    "id": "93344568-415f-4960-9732-68cd6cebc72e",
+    "last_seen": "2026-10-16T04:12:22.222510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local LLM inference",
+    "first_seen": "2026-10-16T04:12:22.212510+00:00",
+    "id": "06fe69df-7535-4a91-92a6-8e83c5079ca7",
+    "last_seen": "2026-10-16T04:12:22.212510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "memory systems",
+    "first_seen": "2026-10-16T04:12:22.212510+00:00",
+    "id": "8c7bfe17-10ed-4839-b243-4ba3c432250f",
+    "last_seen": "2026-10-16T04:12:22.212510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "knowledge base",
+    "first_seen": "2026-10-16T04:12:22.212510+00:00",
+    "id": "ed966479-29ed-4bc5-94e7-71b0c91e59f8",
+    "last_seen": "2026-10-16T04:12:22.212510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "autonomous agents",
+    "first_seen": "2026-10-16T04:12:22.212510+00:00",
+    "id": "ffb51674-2415-4945-96a2-592475ec7020",
+    "last_seen": "2026-10-16T04:12:22.212510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "VPS",
+    "first_seen": "2026-10-16T04:12:22.202510+00:00",
+    "id": "5a2bcadc-8b77-4887-a950-1fe66292d1ed",
+    "last_seen": "2026-10-16T04:12:22.202510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Markdown",
+    "first_seen": "2026-10-16T04:12:22.202510+00:00",
+    "id": "bba8a23d-2c88-42d3-a6cf-d458198bdee4",
+    "last_seen": "2026-10-16T04:12:22.202510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI infrastructure",
+    "first_seen": "2026-10-16T04:12:22.192510+00:00",
+    "id": "74e4327b-b1b4-4a22-8d58-8f8df7169c09",
+    "last_seen": "2026-10-16T04:12:22.192510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YouTube",
+    "first_seen": "2026-10-16T04:12:22.182510+00:00",
+    "id": "00114d6a-e33f-44d8-9d3b-90883921d2b2",
+    "last_seen": "2026-10-16T04:12:22.182510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ChatGPT",
+    "first_seen": "2026-10-16T04:12:22.182510+00:00",
+    "id": "11da91d7-f2ce-4578-81f2-defe96432ca2",
+    "last_seen": "2026-10-16T04:12:22.182510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Medium",
+    "first_seen": "2026-10-16T04:12:22.182510+00:00",
+    "id": "27d93c62-960d-4118-9559-86d82f37dbca",
+    "last_seen": "2026-10-16T04:12:22.182510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "jurnal ilmiah",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "0b196dfe-c1ce-4497-853c-ec4662466803",
+    "last_seen": "2026-10-16T04:12:22.172510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "paper",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "97fd3661-a59f-4e19-816a-449871ffffe2",
+    "last_seen": "2026-10-16T04:12:22.172510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "reflect",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "9ed3e60d-fb1e-4a03-b073-c05e96e7f5d8",
+    "last_seen": "2026-10-16T04:12:22.172510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "recall",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "c6b7a509-3fb1-47f9-8338-fd4deaa3709a",
+    "last_seen": "2026-10-16T04:12:22.172510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "retain",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "e2f1dbd8-aa4d-47bb-b4ee-165d19737e91",
+    "last_seen": "2026-10-16T04:12:22.172510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research gaps",
+    "first_seen": "2026-10-16T04:12:22.162510+00:00",
+    "id": "da966907-d9a1-4e74-bfe9-ef7510e4fcd5",
+    "last_seen": "2026-10-16T04:12:22.162510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multi-agent",
+    "first_seen": "2026-10-16T04:12:22.152510+00:00",
+    "id": "129a79c4-e251-4e9c-83f0-f3b24cb6cdc0",
+    "last_seen": "2026-10-16T04:12:22.152510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hermes memory bank",
+    "first_seen": "2026-10-16T04:12:22.152510+00:00",
+    "id": "9d4c99ed-6dc0-4e84-9dce-6dd2e60b6441",
+    "last_seen": "2026-10-16T04:12:22.152510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "OpenAI-compatible endpoint",
+    "first_seen": "2026-10-16T04:12:22.142510+00:00",
+    "id": "2d54288d-1d28-4392-85ad-2fc38eea2b35",
+    "last_seen": "2026-10-16T04:12:22.142510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "penelitian akademik",
+    "first_seen": "2026-10-16T04:12:22.142510+00:00",
+    "id": "6442c091-3a4c-4451-94a6-10ef02d8558b",
+    "last_seen": "2026-10-16T04:12:22.142510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "literatur ilmiah",
+    "first_seen": "2026-10-16T04:12:22.142510+00:00",
+    "id": "7086d650-83b8-4bd9-bd4b-beac6e39d098",
+    "last_seen": "2026-10-16T04:12:22.142510+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "police",
+    "first_seen": "2026-10-16T04:12:21.772542+00:00",
+    "id": "11344b2a-a711-4fa9-8207-405cae909812",
+    "last_seen": "2026-10-16T04:12:21.772542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "document attestation",
+    "first_seen": "2026-10-16T04:12:21.762542+00:00",
+    "id": "05f53e77-96e3-4157-b52c-e09ef7c80ba3",
+    "last_seen": "2026-10-16T04:12:21.762542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "embassy",
+    "first_seen": "2026-10-16T04:12:21.762542+00:00",
+    "id": "2783343e-688c-4b34-8d7c-37b35900d7b9",
+    "last_seen": "2026-10-16T04:12:21.762542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "company policy",
+    "first_seen": "2026-10-16T04:12:21.742542+00:00",
+    "id": "992de8d8-2b73-4fb7-8983-d67d65ccb540",
+    "last_seen": "2026-10-16T04:12:21.742542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "physical presence",
+    "first_seen": "2026-10-16T04:12:21.742542+00:00",
+    "id": "b7fc6033-b707-47c0-b489-86efef761f08",
+    "last_seen": "2026-10-16T04:12:21.742542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Samer",
+    "first_seen": "2026-10-16T04:12:21.722542+00:00",
+    "id": "6498546e-20c5-435b-9d10-63bcd4abbb5f",
+    "last_seen": "2026-10-16T04:12:21.722542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Essam",
+    "first_seen": "2026-10-16T04:12:21.712542+00:00",
+    "id": "aeb1bb4f-7617-48b6-993b-44120170a206",
+    "last_seen": "2026-10-16T04:12:21.712542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Reza",
+    "first_seen": "2026-10-16T04:12:21.702542+00:00",
+    "id": "14d7319d-083c-45b3-9439-7e7839a990f1",
+    "last_seen": "2026-10-16T04:12:21.702542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Tahir",
+    "first_seen": "2026-10-16T04:12:21.692542+00:00",
+    "id": "662adc25-6ba0-410f-bf96-1f72e987bbdb",
+    "last_seen": "2026-10-16T04:12:21.692542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ahmed",
+    "first_seen": "2026-10-16T04:12:21.682542+00:00",
+    "id": "0b51282b-7825-4df4-8ef0-a0667c487de7",
+    "last_seen": "2026-10-16T04:12:21.682542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Saad",
+    "first_seen": "2026-10-16T04:12:21.672542+00:00",
+    "id": "8da62a87-cd15-4ce8-9452-5d046b0fcfc3",
+    "last_seen": "2026-10-16T04:12:21.672542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agricultural asset identification",
+    "first_seen": "2026-10-16T04:12:21.662542+00:00",
+    "id": "d54a9f3a-6f9a-47f1-ae93-290ed08ce4e9",
+    "last_seen": "2026-10-16T04:12:21.662542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "retailers",
+    "first_seen": "2026-10-16T04:12:21.652542+00:00",
+    "id": "588facdf-761f-44c0-a401-709562e85804",
+    "last_seen": "2026-10-16T04:12:21.652542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hypermarkets",
+    "first_seen": "2026-10-16T04:12:21.652542+00:00",
+    "id": "5e9adfee-2e32-49ac-bb8d-47475ebae68e",
+    "last_seen": "2026-10-16T04:12:21.652542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "food producers",
+    "first_seen": "2026-10-16T04:12:21.652542+00:00",
+    "id": "a813bf35-2d3e-4e68-b2f7-249af45f1b24",
+    "last_seen": "2026-10-16T04:12:21.652542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "distributors",
+    "first_seen": "2026-10-16T04:12:21.652542+00:00",
+    "id": "b67722e9-63d3-4533-8c76-3296d0443bce",
+    "last_seen": "2026-10-16T04:12:21.652542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "dcaea249-730f-4692-9656-f2813257d0cb",
+    "last_seen": "2026-10-16T04:12:21.642542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ETL/ELT",
+    "first_seen": "2026-10-16T04:12:21.642542+00:00",
+    "id": "fa23112c-9a62-4123-9406-3696fffded89",
+    "last_seen": "2026-10-16T04:12:21.642542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "National Food Security Qatar",
+    "first_seen": "2026-10-16T04:12:21.632542+00:00",
+    "id": "26d07671-6131-4c95-9279-2cd3e5975266",
+    "last_seen": "2026-10-16T04:12:21.632542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agricultural information systems",
+    "first_seen": "2026-10-16T04:12:21.622542+00:00",
+    "id": "1f1f6d7b-5130-46a4-bfb8-dc975af2ae9a",
+    "last_seen": "2026-10-16T04:12:21.622542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geospatial analytics",
+    "first_seen": "2026-10-16T04:12:21.622542+00:00",
+    "id": "e908c620-44b0-48c7-9ec7-f8860ca5bbce",
+    "last_seen": "2026-10-16T04:12:21.622542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "data integration",
+    "first_seen": "2026-10-16T04:12:21.622542+00:00",
+    "id": "ed16fd05-2fd8-4a92-a50a-f48aedfb845b",
+    "last_seen": "2026-10-16T04:12:21.622542+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Data Science",
+    "first_seen": "2026-10-16T04:12:20.191963+00:00",
+    "id": "2b3c2e10-eae8-4e26-8725-6f4abfec3e06",
+    "last_seen": "2026-10-16T04:12:20.191963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "KAU",
+    "first_seen": "2026-10-16T04:12:20.181963+00:00",
+    "id": "07b7480d-13a8-4301-995b-051b9820a77c",
+    "last_seen": "2026-10-16T04:12:20.181963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "King Abdulaziz University",
+    "first_seen": "2026-10-16T04:12:20.181963+00:00",
+    "id": "216f641e-fbd0-4ab9-a643-3553492547a7",
+    "last_seen": "2026-10-16T04:12:20.181963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "jurnal Q2",
+    "first_seen": "2026-10-16T04:12:20.161963+00:00",
+    "id": "7b8d1d2f-4bb4-4384-a2cb-21f5eb82f298",
+    "last_seen": "2026-10-16T04:12:20.161963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "jurnal Q1",
+    "first_seen": "2026-10-16T04:12:20.161963+00:00",
+    "id": "7f5825b1-a79c-48d8-951a-6f408f892e39",
+    "last_seen": "2026-10-16T04:12:20.161963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kontribusi ilmiah",
+    "first_seen": "2026-10-16T04:12:20.151963+00:00",
+    "id": "e60cccd4-44ec-4d88-8bd7-bb78d5d2c473",
+    "last_seen": "2026-10-16T04:12:20.151963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dosen pembimbing",
+    "first_seen": "2026-10-16T04:12:20.141963+00:00",
+    "id": "6f56ecf5-cb39-40fe-a184-036945cd3b7f",
+    "last_seen": "2026-10-16T04:12:20.141963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Sani Muhamad Isa",
+    "first_seen": "2026-10-16T04:12:20.141963+00:00",
+    "id": "d6d525d1-0bfd-452d-b293-278abd4587aa",
+    "last_seen": "2026-10-16T04:12:20.141963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pre-thesis",
+    "first_seen": "2026-10-16T04:12:20.131963+00:00",
+    "id": "36853df7-2de5-433a-9eb7-7360b6b144c5",
+    "last_seen": "2026-10-16T04:12:20.131963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "proposal tesis",
+    "first_seen": "2026-10-16T04:12:20.131963+00:00",
+    "id": "6a7ec2c2-43fe-4df7-97fd-af1f99e29317",
+    "last_seen": "2026-10-16T04:12:20.131963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "S.Kom.",
+    "first_seen": "2026-10-16T04:12:20.091963+00:00",
+    "id": "ac4f76b6-a87a-407c-ae0f-c3dd58de6657",
+    "last_seen": "2026-10-16T04:12:20.091963+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "mlx-community/Qwen3-8B-4bit",
+    "first_seen": "2026-10-15T00:00:00.120000+00:00",
+    "id": "cc041eaa-44f6-4541-a460-8df544aa5fa2",
+    "last_seen": "2026-10-15T00:00:00.120000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Changi Airport",
+    "first_seen": "2026-10-07T15:30:00.010000+00:00",
+    "id": "314c97f5-0934-4df2-bee1-a90c6ce0eab3",
+    "last_seen": "2026-10-07T15:30:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Jewel Changi",
+    "first_seen": "2026-10-07T15:30:00.010000+00:00",
+    "id": "88aac109-e3de-44ea-a813-13c5e6163d12",
+    "last_seen": "2026-10-07T15:30:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Marina Bay Sands",
+    "first_seen": "2026-10-01T00:00:00.020000+00:00",
+    "id": "132295f7-ae64-4331-bea4-08c252051151",
+    "last_seen": "2026-10-01T00:00:00.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Store",
+    "first_seen": "2026-10-01T00:00:00.020000+00:00",
+    "id": "99e74bb9-ab37-41b5-b284-7ee6b31d128e",
+    "last_seen": "2026-10-01T00:00:00.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tabungan",
+    "first_seen": "2026-10-01T00:00:00.010000+00:00",
+    "id": "51ea39d8-16bc-4661-aa9f-d116a0489a9d",
+    "last_seen": "2026-10-01T00:00:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "USD 2.180",
+    "first_seen": "2026-10-01T00:00:00.010000+00:00",
+    "id": "a66721db-b2e3-45de-a6cf-c94d7926c5de",
+    "last_seen": "2026-10-01T00:00:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "USD 2.000",
+    "first_seen": "2026-10-01T00:00:00.010000+00:00",
+    "id": "a8a90c6b-bd03-4497-828e-13b0e6baba15",
+    "last_seen": "2026-10-01T00:00:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Makkah",
+    "first_seen": "2026-09-01T00:00:00.080000+00:00",
+    "id": "1745dd32-95b5-4c1c-872d-8602f578ff0f",
+    "last_seen": "2026-09-01T00:00:00.080000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ibu pengguna",
+    "first_seen": "2026-09-01T00:00:00.080000+00:00",
+    "id": "5868d00d-4e4c-492f-b54f-1efd0ba05034",
+    "last_seen": "2026-09-01T00:00:00.080000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Influenza A",
+    "first_seen": "2026-09-01T00:00:00.060000+00:00",
+    "id": "ee89b325-3ff4-4775-8537-f09c14a7fc63",
+    "last_seen": "2026-09-01T00:00:00.060000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  }
+]

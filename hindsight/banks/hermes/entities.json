@@ -1,0 +1,4810 @@
+[
+  {
+    "canonical_name": "user",
+    "first_seen": "2026-10-15T00:00:00.070000+00:00",
+    "id": "7a1b20c8-2d10-449e-b914-972a0964425e",
+    "last_seen": "2026-10-15T16:24:54.151031+00:00",
+    "mention_count": 366,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MacBook Pro",
+    "first_seen": "2026-10-15T13:47:02.196596+00:00",
+    "id": "8904ca69-b932-4596-9e33-f4ea7bb8f14a",
+    "last_seen": "2026-10-15T13:47:02.196596+00:00",
+    "mention_count": 15,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hermes",
+    "first_seen": "2026-10-15T13:25:11.662520+00:00",
+    "id": "4bde5033-fe05-4c1a-8251-5d66747953ec",
+    "last_seen": "2026-10-15T13:25:11.662520+00:00",
+    "mention_count": 12,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Indonesia",
+    "first_seen": "2026-10-15T13:25:11.701795+00:00",
+    "id": "05ec62c8-0b57-4962-822c-556806e5e752",
+    "last_seen": "2026-10-15T13:32:27.937479+00:00",
+    "mention_count": 10,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product mapping",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "d61ed40b-7f22-4ffd-a1f1-766037bae0eb",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 9,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar",
+    "first_seen": "2026-10-15T13:25:11.730560+00:00",
+    "id": "4438dd04-f254-40e9-ad0d-01ccd6a8199d",
+    "last_seen": "2026-10-15T16:24:53.971031+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "greenhouse",
+    "first_seen": "2026-10-15T13:25:11.800560+00:00",
+    "id": "cd6dd6de-3673-4951-a93e-1f235b6d4db1",
+    "last_seen": "2026-10-15T16:24:54.121031+00:00",
+    "mention_count": 7,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MacBook Air",
+    "first_seen": "2026-10-15T13:47:02.196596+00:00",
+    "id": "362cbc01-269d-4285-9389-5ef5386ff0ed",
+    "last_seen": "2026-10-15T13:47:02.196596+00:00",
+    "mention_count": 7,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Singapore",
+    "first_seen": "2026-10-15T13:25:11.801795+00:00",
+    "id": "5ae94845-3e26-45c3-abf1-e1dfe5f7988c",
+    "last_seen": "2026-10-15T13:32:27.977479+00:00",
+    "mention_count": 7,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "VM",
+    "first_seen": "2026-10-15T13:25:11.816162+00:00",
+    "id": "7c117a81-d0af-463a-8f09-5728e1f61edb",
+    "last_seen": "2026-10-15T13:32:27.897479+00:00",
+    "mention_count": 7,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "segmentation",
+    "first_seen": "2026-10-15T16:24:53.981031+00:00",
+    "id": "0abf6c2a-6d76-4131-b325-4871d8ec5ac7",
+    "last_seen": "2026-10-15T16:24:53.981031+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Mac mini",
+    "first_seen": "2026-10-15T13:47:02.196596+00:00",
+    "id": "053f2e6e-607a-4f8b-b428-b55a63210d22",
+    "last_seen": "2026-10-15T13:47:02.196596+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SQL Server",
+    "first_seen": "2026-10-15T13:25:11.705824+00:00",
+    "id": "6a96e5fd-4fe2-4d8e-b00f-ccfa8c8850dc",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hindsight",
+    "first_seen": "2026-10-15T13:25:11.702520+00:00",
+    "id": "bdd71245-3cee-4337-9f37-8204f6709ec3",
+    "last_seen": "2026-10-15T13:25:11.702520+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research",
+    "first_seen": "2026-10-15T13:25:11.672520+00:00",
+    "id": "83b7f2ff-eaa5-4ec2-bba0-d62bb1391138",
+    "last_seen": "2026-10-15T13:25:11.672520+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Rawabi G2",
+    "first_seen": "2025-03-08T00:00:00.010000+00:00",
+    "id": "27b4f29d-0f47-4f49-b5ac-51730d9edec2",
+    "last_seen": "2025-03-08T00:00:00.010000+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "date palm tree",
+    "first_seen": "2026-10-15T13:25:11.890560+00:00",
+    "id": "5d06cb5e-da43-407f-a589-7012fbda8d1e",
+    "last_seen": "2026-10-15T16:24:54.051031+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Siyar",
+    "first_seen": "2026-10-15T13:48:09.547920+00:00",
+    "id": "88bb9cd9-28a3-4f61-aede-692f8987c9db",
+    "last_seen": "2026-10-15T13:48:09.547920+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "application",
+    "first_seen": "2026-10-15T13:25:11.665824+00:00",
+    "id": "e437feed-61e6-4f73-8063-3a8a7dc77561",
+    "last_seen": "2026-10-15T13:48:09.547920+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "imagery",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "4e35238f-f522-4b45-a46a-255c1a69e71b",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "annotations",
+    "first_seen": "2026-10-15T13:25:11.705824+00:00",
+    "id": "64fc26a2-f148-435c-a638-bfa2c5eb47cf",
+    "last_seen": "2026-10-15T16:24:54.131031+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dataset",
+    "first_seen": "2026-10-15T13:52:40.392848+00:00",
+    "id": "f9a9f50d-fe45-4ee8-8af8-91f2b1f293b9",
+    "last_seen": "2026-10-15T16:24:54.081031+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Python",
+    "first_seen": "2026-10-15T13:25:11.665824+00:00",
+    "id": "88b126ea-a593-4aae-bf54-f7406b7b3459",
+    "last_seen": "2026-10-15T16:24:54.031031+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "object detection",
+    "first_seen": "2026-10-15T16:24:53.971031+00:00",
+    "id": "1d177634-fe56-4553-839f-9d6c45f69b18",
+    "last_seen": "2026-10-15T16:24:53.971031+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Data Engineering",
+    "first_seen": "2026-10-15T13:25:11.804352+00:00",
+    "id": "6b5fd973-6b36-4ba7-80c2-d747d3dc4796",
+    "last_seen": "2026-10-15T13:35:48.990009+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Saudi Arabia",
+    "first_seen": "2026-10-15T13:25:11.774352+00:00",
+    "id": "109b5296-9126-4725-907e-4465a9129f27",
+    "last_seen": "2026-10-15T13:35:48.960009+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Arabic",
+    "first_seen": "2026-10-15T13:25:11.741795+00:00",
+    "id": "8d098a0b-2432-4218-9317-c9920737feaf",
+    "last_seen": "2026-10-15T13:29:35.984933+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fast translation mode",
+    "first_seen": "2026-10-15T13:29:35.964933+00:00",
+    "id": "9262170e-7c63-4c74-991b-6a4606acd988",
+    "last_seen": "2026-10-15T13:29:35.964933+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "study group",
+    "first_seen": "2026-10-15T13:29:35.934933+00:00",
+    "id": "602934da-05f4-461d-b399-cecb77b5b169",
+    "last_seen": "2026-10-15T13:29:35.934933+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "expression",
+    "first_seen": "2026-10-15T13:29:35.874933+00:00",
+    "id": "421e89fe-0b7a-458b-ac86-4d26da20110d",
+    "last_seen": "2026-10-15T13:29:35.874933+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product name",
+    "first_seen": "2026-10-15T13:25:11.690560+00:00",
+    "id": "33f4a9e4-343b-41fa-a988-ee5e503594b6",
+    "last_seen": "2026-10-15T13:25:11.690560+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Warehouse",
+    "first_seen": "2026-01-12T00:00:00.020000+00:00",
+    "id": "55e996e2-77cb-4a33-abba-6411adda023f",
+    "last_seen": "2026-01-12T00:00:00.020000+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Gulf Food",
+    "first_seen": "2024-01-01T00:00:00.140000+00:00",
+    "id": "af844d8d-77c0-4413-9e46-d0928fd377bb",
+    "last_seen": "2024-01-01T00:00:00.140000+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "automation",
+    "first_seen": "2026-10-15T13:35:48.980009+00:00",
+    "id": "7d876194-c3ee-4e68-8908-c3e42b757244",
+    "last_seen": "2026-10-15T16:24:54.131031+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "imagery epoch",
+    "first_seen": "2026-10-15T16:24:54.051031+00:00",
+    "id": "4ef503d0-f6a3-4b04-a6ee-c7c7ceb14bf5",
+    "last_seen": "2026-10-15T16:24:54.051031+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "TICO-OBB",
+    "first_seen": "2026-10-15T16:24:54.021031+00:00",
+    "id": "74a72957-5117-4cb4-9e4d-20d4f9b14ba3",
+    "last_seen": "2026-10-15T16:24:54.021031+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "coordinate",
+    "first_seen": "2026-10-15T13:25:11.725824+00:00",
+    "id": "4e4106a8-cfc5-4ddd-a3dc-0dcd5896c63f",
+    "last_seen": "2026-10-15T16:24:53.971031+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "satellite imagery",
+    "first_seen": "2026-10-15T13:25:11.665824+00:00",
+    "id": "36ea31dd-a520-49ee-80d6-a6fe309ff2a8",
+    "last_seen": "2026-10-15T16:24:53.941031+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "USD",
+    "first_seen": "2026-10-15T13:47:02.126596+00:00",
+    "id": "df75a327-2d94-465f-9ad1-b1e2cf9933ce",
+    "last_seen": "2026-10-15T13:47:02.126596+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Amiyyah",
+    "first_seen": "2026-10-15T13:29:35.854933+00:00",
+    "id": "c89d43cd-513c-47ac-86f1-f378d99cfe66",
+    "last_seen": "2026-10-15T13:35:48.950009+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcGIS",
+    "first_seen": "2026-10-15T13:25:11.685824+00:00",
+    "id": "0bf42ff2-ffd5-41eb-a8f6-c6ff564e3a2b",
+    "last_seen": "2026-10-15T13:32:27.927479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "logic board",
+    "first_seen": "2026-10-15T13:32:27.917479+00:00",
+    "id": "ff9141e6-ce7d-46a1-8579-7ff33b714038",
+    "last_seen": "2026-10-15T13:32:27.917479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcGIS Pro",
+    "first_seen": "2026-10-15T13:25:11.760560+00:00",
+    "id": "db4ed552-b80f-4e4e-9547-8b835de81834",
+    "last_seen": "2026-10-15T13:32:27.867479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "macOS",
+    "first_seen": "2026-10-15T13:25:11.715824+00:00",
+    "id": "051bc2f6-b562-4d4d-bed5-95f84b473426",
+    "last_seen": "2026-10-15T13:32:27.847479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Windows",
+    "first_seen": "2026-10-15T13:32:27.837479+00:00",
+    "id": "0801ad99-3fac-4dc5-9971-c7569c52efdb",
+    "last_seen": "2026-10-15T13:32:27.837479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "M5 Pro",
+    "first_seen": "2026-10-15T13:32:27.807479+00:00",
+    "id": "6c8b8771-27cc-4039-ae41-09beee217ee8",
+    "last_seen": "2026-10-15T13:32:27.807479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GPU",
+    "first_seen": "2026-10-15T13:32:27.807479+00:00",
+    "id": "97d4ee48-751d-4510-aeab-12b568a5a62e",
+    "last_seen": "2026-10-15T13:32:27.807479+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "translations",
+    "first_seen": "2026-10-15T13:29:35.874933+00:00",
+    "id": "6ec1e439-f273-499d-9f42-eeae0313ffde",
+    "last_seen": "2026-10-15T13:29:35.874933+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Blob Storage",
+    "first_seen": "2026-10-15T13:25:11.755824+00:00",
+    "id": "cb3f037b-1ac0-4cf6-b55e-b9efb1ace384",
+    "last_seen": "2026-10-15T13:25:11.780560+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "4cc3de8b-ef93-41fb-82ae-76a0d3abe13a",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "integration",
+    "first_seen": "2026-10-15T13:25:11.682520+00:00",
+    "id": "c5e13bd0-2583-450f-baa7-13ff7ece8676",
+    "last_seen": "2026-10-15T13:25:11.686162+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product code",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "8464869d-6cb8-4c86-b58b-941b751670ef",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure SQL",
+    "first_seen": "2026-10-15T13:25:11.675824+00:00",
+    "id": "605a56b2-d095-41f8-b6c5-85b2c5ddc8e5",
+    "last_seen": "2026-10-15T13:25:11.675824+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Abu Khalifa",
+    "first_seen": "2026-08-01T00:00:00.100000+00:00",
+    "id": "2a2b24e8-1de1-4907-92ea-c64d6adf55e9",
+    "last_seen": "2026-08-01T00:00:00.100000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Dandy",
+    "first_seen": "2026-03-23T00:00:00.040000+00:00",
+    "id": "1f595d5e-e6bf-4095-b2ee-d98716494cf8",
+    "last_seen": "2026-03-23T00:00:00.040000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "visa",
+    "first_seen": "2025-01-01T00:00:00.160000+00:00",
+    "id": "c1179d50-1af5-4cbe-adfc-6492b4ccf4af",
+    "last_seen": "2025-01-01T00:00:00.160000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "validation",
+    "first_seen": "2026-10-15T13:25:11.792520+00:00",
+    "id": "0935707d-1352-4f05-afd0-b9c77d0d4963",
+    "last_seen": "2026-10-15T16:24:54.081031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "bounding box",
+    "first_seen": "2026-10-15T16:24:54.031031+00:00",
+    "id": "31d5571f-561f-46ae-9309-7aa5becbcef8",
+    "last_seen": "2026-10-15T16:24:54.031031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "QGIS",
+    "first_seen": "2026-10-15T16:24:54.021031+00:00",
+    "id": "5d598c8b-7620-41b9-9845-87203797e046",
+    "last_seen": "2026-10-15T16:24:54.021031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YOLO11",
+    "first_seen": "2026-10-15T16:24:54.001031+00:00",
+    "id": "10b13499-5838-465b-9207-5f037bb89373",
+    "last_seen": "2026-10-15T16:24:54.001031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YOLO",
+    "first_seen": "2026-10-15T13:32:27.807479+00:00",
+    "id": "4b1eedb2-83cf-4655-b2c6-d679c8164c1c",
+    "last_seen": "2026-10-15T16:24:53.991031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "area pertanian aktif",
+    "first_seen": "2026-10-15T16:24:53.991031+00:00",
+    "id": "b1359cbb-34aa-465f-b4c1-cef85df2c278",
+    "last_seen": "2026-10-15T16:24:53.991031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "temporal consistency",
+    "first_seen": "2026-10-15T16:24:53.971031+00:00",
+    "id": "0f68bdf6-7165-478d-ada7-d722ff34a75c",
+    "last_seen": "2026-10-15T16:24:53.971031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "cultivated area",
+    "first_seen": "2026-10-15T16:24:53.971031+00:00",
+    "id": "c36998ba-1dbe-4f75-be4a-f731b039a1b9",
+    "last_seen": "2026-10-15T16:24:53.971031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "atap",
+    "first_seen": "2026-10-15T16:24:53.941031+00:00",
+    "id": "5ecd5f9f-998f-4f7e-a515-420d4edcc50d",
+    "last_seen": "2026-10-15T16:24:53.941031+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "reviewable format",
+    "first_seen": "2026-10-15T13:25:11.832520+00:00",
+    "id": "5f8023f0-0114-483e-8031-51d1f8087dcc",
+    "last_seen": "2026-10-15T13:52:40.462848+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "documents",
+    "first_seen": "2026-10-15T13:52:40.442848+00:00",
+    "id": "d22d3d67-fb47-4704-8868-5407b1bc6f5d",
+    "last_seen": "2026-10-15T13:52:40.442848+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "scientific contribution",
+    "first_seen": "2026-10-15T13:25:11.744352+00:00",
+    "id": "fad9baa8-07e7-459e-bdff-6f397e6e0141",
+    "last_seen": "2026-10-15T13:52:40.342848+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI agents",
+    "first_seen": "2026-10-15T13:35:48.980009+00:00",
+    "id": "5fa6beab-e91d-4f1c-aee3-1975ae55be2e",
+    "last_seen": "2026-10-15T13:48:09.597920+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "home lab",
+    "first_seen": "2026-10-15T13:35:48.970009+00:00",
+    "id": "25126902-f46b-4540-813d-0c0a8d7dd18a",
+    "last_seen": "2026-10-15T13:35:48.970009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Fusha",
+    "first_seen": "2026-10-15T13:29:35.914933+00:00",
+    "id": "06943fca-9249-44be-8e30-5ea61c8cd88a",
+    "last_seen": "2026-10-15T13:35:48.950009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Arabic language",
+    "first_seen": "2026-10-15T13:29:35.834933+00:00",
+    "id": "b2042a51-3d70-4477-8a30-84f5e4258383",
+    "last_seen": "2026-10-15T13:35:48.950009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI",
+    "first_seen": "2026-10-15T13:25:11.804352+00:00",
+    "id": "ca726e5d-a346-45c1-8b73-96b8b1e4c7d1",
+    "last_seen": "2026-10-15T13:35:48.910009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Computer Vision",
+    "first_seen": "2026-10-15T13:25:11.804352+00:00",
+    "id": "708fb165-c5c5-4377-ad84-42c7f49c7b98",
+    "last_seen": "2026-10-15T13:35:48.900009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "remote sensing",
+    "first_seen": "2026-10-15T13:25:11.804352+00:00",
+    "id": "b9cab991-bc50-4627-ae2d-0524ccc1739d",
+    "last_seen": "2026-10-15T13:35:48.900009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "KAUST",
+    "first_seen": "2026-10-15T13:25:11.784352+00:00",
+    "id": "a4269654-96c0-4ec2-85b9-5a9575729d91",
+    "last_seen": "2026-10-15T13:35:48.890009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Information Technology",
+    "first_seen": "2026-10-15T13:25:11.674352+00:00",
+    "id": "343f4a35-2f9b-489e-8aea-35decae94164",
+    "last_seen": "2026-10-15T13:35:48.870009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "BINUS University",
+    "first_seen": "2026-10-15T13:25:11.674352+00:00",
+    "id": "3bbef829-102d-441a-b995-a47c527b2d2c",
+    "last_seen": "2026-10-15T13:35:48.870009+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "friend",
+    "first_seen": "2026-10-15T13:32:27.967479+00:00",
+    "id": "b2be57ae-f7f9-4bf6-bf75-751aa95a83ca",
+    "last_seen": "2026-10-15T13:32:27.967479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "budget",
+    "first_seen": "2026-10-15T13:32:27.917479+00:00",
+    "id": "e8c3e82f-8776-4c73-ac48-f4f2f2636843",
+    "last_seen": "2026-10-15T13:32:27.917479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "13-inch",
+    "first_seen": "2026-10-15T13:32:27.887479+00:00",
+    "id": "75294e89-0e55-44d7-a1e0-1e79d17ebbd0",
+    "last_seen": "2026-10-15T13:32:27.887479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "M5",
+    "first_seen": "2026-10-15T13:32:27.887479+00:00",
+    "id": "ea1afa9a-f9f1-4c3e-9718-761cdae5811c",
+    "last_seen": "2026-10-15T13:32:27.887479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "M6",
+    "first_seen": "2026-10-15T13:32:27.877479+00:00",
+    "id": "35167a52-0e2f-46d3-bca3-39e2f32d3ab9",
+    "last_seen": "2026-10-15T13:32:27.877479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GIS",
+    "first_seen": "2026-10-15T13:25:11.815824+00:00",
+    "id": "21615d99-055a-4cc9-8ac9-d64587a31e82",
+    "last_seen": "2026-10-15T13:32:27.837479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CPU",
+    "first_seen": "2026-10-15T13:32:27.827479+00:00",
+    "id": "c935d403-711f-4525-b034-8c7a372a7182",
+    "last_seen": "2026-10-15T13:32:27.827479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MacBook",
+    "first_seen": "2026-10-15T13:32:27.807479+00:00",
+    "id": "0ddc67ab-19d0-4846-aab5-c87c96aee870",
+    "last_seen": "2026-10-15T13:32:27.807479+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "study session",
+    "first_seen": "2026-10-15T13:29:35.944933+00:00",
+    "id": "4d5f6159-7867-4667-9d64-3f9f6e0272a7",
+    "last_seen": "2026-10-15T13:29:35.944933+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "teacher",
+    "first_seen": "2026-10-15T13:29:35.924933+00:00",
+    "id": "d8550f00-0c25-4c44-aea1-52de7626d374",
+    "last_seen": "2026-10-15T13:29:35.924933+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Saudi dialect",
+    "first_seen": "2026-10-15T13:29:35.854933+00:00",
+    "id": "ea79d294-fde3-46f7-a4e8-4295fb17a9c9",
+    "last_seen": "2026-10-15T13:29:35.854933+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "transitive verb",
+    "first_seen": "2026-10-15T13:29:35.844933+00:00",
+    "id": "f34e270d-ceda-413b-b6ea-a5ffb77139e6",
+    "last_seen": "2026-10-15T13:29:35.844933+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "mosque manager",
+    "first_seen": "2026-10-15T13:29:35.834933+00:00",
+    "id": "87a7826a-60cf-4ea0-9cd8-ddf4df989bf0",
+    "last_seen": "2026-10-15T13:29:35.834933+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SQL views",
+    "first_seen": "2026-10-15T13:25:11.845824+00:00",
+    "id": "0b2dffd1-d513-473b-a117-3b82442d6341",
+    "last_seen": "2026-10-15T13:25:11.845824+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "inspection data",
+    "first_seen": "2026-10-15T13:25:11.675824+00:00",
+    "id": "b3685bb9-b9ee-41e9-8d17-3174e4d2c503",
+    "last_seen": "2026-10-15T13:25:11.840560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "watermark",
+    "first_seen": "2026-10-15T13:25:11.830560+00:00",
+    "id": "cb406b9d-d762-42c2-9ed3-accd12421731",
+    "last_seen": "2026-10-15T13:25:11.830560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "map",
+    "first_seen": "2026-10-15T13:25:11.765824+00:00",
+    "id": "dc24c94d-1f09-4e22-be13-3d338adfd141",
+    "last_seen": "2026-10-15T13:25:11.830560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcPy",
+    "first_seen": "2026-10-15T13:25:11.815824+00:00",
+    "id": "558ca967-c9fb-4cef-83a3-64b040be6bf5",
+    "last_seen": "2026-10-15T13:25:11.815824+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Obsidian",
+    "first_seen": "2026-10-15T13:25:11.802520+00:00",
+    "id": "7cd90aa2-5f30-4b08-be5a-75d48341b4db",
+    "last_seen": "2026-10-15T13:25:11.802520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MapLibre",
+    "first_seen": "2026-10-15T13:25:11.785824+00:00",
+    "id": "b4555981-8e7c-4757-abcc-f1238016bb93",
+    "last_seen": "2026-10-15T13:25:11.785824+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "feature classes",
+    "first_seen": "2026-10-15T13:25:11.780560+00:00",
+    "id": "5bbb7868-3726-4df7-8a2b-9aeb901afa44",
+    "last_seen": "2026-10-15T13:25:11.780560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Carrefour",
+    "first_seen": "2026-10-15T13:25:11.780560+00:00",
+    "id": "c4e5c9dc-9625-48fa-8ca5-b08136e8afc8",
+    "last_seen": "2026-10-15T13:25:11.780560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure Data Factory",
+    "first_seen": "2026-10-15T13:25:11.770560+00:00",
+    "id": "6d9cd4ae-0a16-4a65-b881-068cdb0282bc",
+    "last_seen": "2026-10-15T13:25:11.770560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GitHub",
+    "first_seen": "2026-10-15T13:25:11.762520+00:00",
+    "id": "0cfaea3b-88ce-4c1e-9b0b-1a4094b5f758",
+    "last_seen": "2026-10-15T13:25:11.762520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Orchestrator",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "1d903988-4f02-42c8-aaab-e7bbb9fae23d",
+    "last_seen": "2026-10-15T13:25:11.761795+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "memory engine",
+    "first_seen": "2026-10-15T13:25:11.702520+00:00",
+    "id": "245a46d2-6290-4ca3-82af-08715b1d420d",
+    "last_seen": "2026-10-15T13:25:11.761795+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "weight",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "4d2aebad-1d0e-49b3-a26e-9882f34b6df9",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "quantity",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "e2621cb8-c250-4394-9513-017855bf8e20",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure Identity",
+    "first_seen": "2026-10-15T13:25:11.745824+00:00",
+    "id": "97c48161-ef02-44da-ac50-ceaa87596197",
+    "last_seen": "2026-10-15T13:25:11.745824+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "implementations",
+    "first_seen": "2026-10-15T13:25:11.742520+00:00",
+    "id": "05b1c497-4490-4868-806b-6c337dfec39e",
+    "last_seen": "2026-10-15T13:25:11.742520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2026",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "465e0f6c-5741-4b42-8599-d49679cfc366",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Rawdah",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "513415fb-e5a0-4f50-828e-e7d37fc5bb42",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "English",
+    "first_seen": "2026-10-15T13:25:11.731795+00:00",
+    "id": "2bfcb1a5-0416-4aa9-943d-482225e8f931",
+    "last_seen": "2026-10-15T13:25:11.731795+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "critic",
+    "first_seen": "2026-10-15T13:25:11.722520+00:00",
+    "id": "a25bf3c8-fc2b-4538-bf78-c56b51075993",
+    "last_seen": "2026-10-15T13:25:11.722520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "vLLM-MLX",
+    "first_seen": "2026-10-15T13:25:11.722520+00:00",
+    "id": "c4d800f3-60d5-4099-9a68-2b2a7bdd61c8",
+    "last_seen": "2026-10-15T13:25:11.722520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ministry of Municipality, Qatar",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "4be342dc-23ff-4a58-b604-6d712848364d",
+    "last_seen": "2026-10-15T13:25:11.696162+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pyodbc",
+    "first_seen": "2026-10-15T13:25:11.695824+00:00",
+    "id": "8db64616-1f15-46b0-8926-72a5140d2af5",
+    "last_seen": "2026-10-15T13:25:11.695824+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "WhatsApp",
+    "first_seen": "2026-10-15T13:25:11.682520+00:00",
+    "id": "9cafaf26-984d-46fd-8539-881742f1600d",
+    "last_seen": "2026-10-15T13:25:11.682520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "S.Kom.",
+    "first_seen": "2026-10-15T13:25:11.681795+00:00",
+    "id": "388719f7-f7b9-4b69-9222-75fe93155b0a",
+    "last_seen": "2026-10-15T13:25:11.681795+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ext.usp_get_missing_dates",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "1589334e-2de8-4d04-81a3-9cc6cc916634",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Microsoft Entra",
+    "first_seen": "2026-10-15T13:25:11.675824+00:00",
+    "id": "3ac1f76d-4557-47ff-9646-c2dc9c2b9ef4",
+    "last_seen": "2026-10-15T13:25:11.675824+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Taufiq",
+    "first_seen": "2026-10-15T13:25:11.671795+00:00",
+    "id": "fca286dd-58c8-407f-b768-ed8edf8694ad",
+    "last_seen": "2026-10-15T13:25:11.671795+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PhD",
+    "first_seen": "2026-10-15T13:25:11.664352+00:00",
+    "id": "22dd062a-6b95-4456-a19e-7d89d0f96e97",
+    "last_seen": "2026-10-15T13:25:11.664352+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "knowledge",
+    "first_seen": "2026-10-15T13:25:11.662520+00:00",
+    "id": "262b97c7-6074-40cc-be0d-e87ddb1ab845",
+    "last_seen": "2026-10-15T13:25:11.662520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "conversations",
+    "first_seen": "2026-10-15T13:25:11.662520+00:00",
+    "id": "c241fc59-df5c-4de6-8ac8-173b91d7023b",
+    "last_seen": "2026-10-15T13:25:11.662520+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Jewel Changi",
+    "first_seen": "2026-10-01T00:00:00.040000+00:00",
+    "id": "67694062-26ac-49c8-9ce4-9760eee971dc",
+    "last_seen": "2026-10-01T00:00:00.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bugis",
+    "first_seen": "2026-10-01T00:00:00.010000+00:00",
+    "id": "ecc95ece-9180-42a0-8c83-07b788efa3b4",
+    "last_seen": "2026-10-01T00:00:00.010000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hardware failure",
+    "first_seen": "2026-09-30T00:00:00.050000+00:00",
+    "id": "0b8760ea-04bb-4de7-a95c-c576720719d9",
+    "last_seen": "2026-09-30T00:00:00.050000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Mazzraty",
+    "first_seen": "2026-03-01T00:00:00.060000+00:00",
+    "id": "f4b77f50-d30d-4bc6-93bb-e89b8cc0ea38",
+    "last_seen": "2026-03-01T00:00:00.060000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "storage",
+    "first_seen": "2026-01-01T00:00:00.110000+00:00",
+    "id": "4d36e529-e64c-41cd-8b6b-38b0166a9331",
+    "last_seen": "2026-01-01T00:00:00.110000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pre-thesis",
+    "first_seen": "2026-01-01T00:00:00.040000+00:00",
+    "id": "f3d962fe-8ede-47db-b593-bd01b4d0b70f",
+    "last_seen": "2026-01-01T00:00:00.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "issue",
+    "first_seen": "2025-12-01T00:00:00.010000+00:00",
+    "id": "bef2142c-bdf0-482a-bec1-0c7ab8c1da43",
+    "last_seen": "2025-12-01T00:00:00.010000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Shamal",
+    "first_seen": "2025-06-24T00:00:00.070000+00:00",
+    "id": "943cfb22-9f41-474d-8fc1-66f6bf595f9e",
+    "last_seen": "2025-06-24T00:00:00.070000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "weakly supervised learning",
+    "first_seen": "2026-10-15T16:24:54.151031+00:00",
+    "id": "14042b2f-e387-424b-a841-ac938437a010",
+    "last_seen": "2026-10-15T16:24:54.151031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "evaluation",
+    "first_seen": "2026-10-15T16:24:54.141031+00:00",
+    "id": "e00e3e66-74bc-418d-8c83-e675eacd95eb",
+    "last_seen": "2026-10-15T16:24:54.141031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "gold-standard dataset",
+    "first_seen": "2026-10-15T16:24:54.141031+00:00",
+    "id": "ff4f5d76-8c55-4d96-81ac-4fa4ae2b67b0",
+    "last_seen": "2026-10-15T16:24:54.141031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "70%",
+    "first_seen": "2026-10-15T16:24:54.131031+00:00",
+    "id": "8c52d8ae-1b6a-4720-8c24-4711be59ef9f",
+    "last_seen": "2026-10-15T16:24:54.131031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "background",
+    "first_seen": "2026-10-15T16:24:54.111031+00:00",
+    "id": "e82187f1-e0db-4090-9af9-fcc583298550",
+    "last_seen": "2026-10-15T16:24:54.111031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SAM2",
+    "first_seen": "2026-10-15T16:24:54.101031+00:00",
+    "id": "23abab0e-ccd5-405a-97c7-0e12ef9c45dd",
+    "last_seen": "2026-10-15T16:24:54.101031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "orientation",
+    "first_seen": "2026-10-15T16:24:54.091031+00:00",
+    "id": "6203c058-187e-481a-bb17-3b943f9842d2",
+    "last_seen": "2026-10-15T16:24:54.091031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "thesis",
+    "first_seen": "2026-10-15T16:24:54.091031+00:00",
+    "id": "a474441b-c783-416a-a2a1-588b5f1f054f",
+    "last_seen": "2026-10-15T16:24:54.091031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "standalone paper",
+    "first_seen": "2026-10-15T16:24:54.091031+00:00",
+    "id": "a53bfa29-4d7f-468b-a039-37c787fa5916",
+    "last_seen": "2026-10-15T16:24:54.091031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "test",
+    "first_seen": "2026-10-15T16:24:54.081031+00:00",
+    "id": "0ba0475d-489e-40e9-8d8e-8a7a3ba9b496",
+    "last_seen": "2026-10-15T16:24:54.081031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model generalization",
+    "first_seen": "2026-10-15T16:24:54.081031+00:00",
+    "id": "39b80e16-bdfd-417c-a0c5-81931532767e",
+    "last_seen": "2026-10-15T16:24:54.081031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "manual annotation",
+    "first_seen": "2026-10-15T16:24:54.081031+00:00",
+    "id": "77fbf44f-0849-463c-88d1-2df37e660439",
+    "last_seen": "2026-10-15T16:24:54.081031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "train",
+    "first_seen": "2026-10-15T16:24:54.081031+00:00",
+    "id": "95f03ca1-3c78-4e8d-8d6e-65f0ef0d2352",
+    "last_seen": "2026-10-15T16:24:54.081031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "training images",
+    "first_seen": "2026-10-15T16:24:54.071031+00:00",
+    "id": "2b696742-cf19-4ffc-b8ff-9bfccd54bb57",
+    "last_seen": "2026-10-15T16:24:54.071031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "label propagation",
+    "first_seen": "2026-10-15T16:24:54.071031+00:00",
+    "id": "8f198141-4177-4c58-9c9c-f2ad15564b9c",
+    "last_seen": "2026-10-15T16:24:54.071031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Gibril",
+    "first_seen": "2026-10-15T16:24:54.071031+00:00",
+    "id": "8ff4aa0d-8633-4c2a-8dd7-ddbe149ea81e",
+    "last_seen": "2026-10-15T16:24:54.071031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geospatial coordinates",
+    "first_seen": "2026-10-15T16:24:54.071031+00:00",
+    "id": "9a0d70da-39b8-4851-827a-55287dcb5b34",
+    "last_seen": "2026-10-15T16:24:54.071031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "rekan",
+    "first_seen": "2026-10-15T16:24:54.071031+00:00",
+    "id": "d08940f6-8d59-4381-9847-ea383f0836e0",
+    "last_seen": "2026-10-15T16:24:54.071031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2023",
+    "first_seen": "2026-10-15T16:24:54.071031+00:00",
+    "id": "dc3ccbc9-af38-465d-ad48-12c4511910a0",
+    "last_seen": "2026-10-15T16:24:54.071031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Palm Tree",
+    "first_seen": "2026-10-15T16:24:54.061031+00:00",
+    "id": "81214827-d2c9-442f-8c16-a313dcbf4bab",
+    "last_seen": "2026-10-15T16:24:54.061031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "trained_models",
+    "first_seen": "2026-10-15T16:24:54.061031+00:00",
+    "id": "ac0d48fd-834e-432e-bc90-6c4308f1f0be",
+    "last_seen": "2026-10-15T16:24:54.061031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model DeepLabV3",
+    "first_seen": "2026-10-15T16:24:54.051031+00:00",
+    "id": "68ce6a92-4503-4e6f-942b-98ef0960e274",
+    "last_seen": "2026-10-15T16:24:54.051031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ellipse",
+    "first_seen": "2026-10-15T16:24:54.051031+00:00",
+    "id": "da3a49b3-faea-42cc-a50a-e4e21d97176d",
+    "last_seen": "2026-10-15T16:24:54.051031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CVAT",
+    "first_seen": "2026-10-15T16:24:54.041031+00:00",
+    "id": "8adea0b9-258a-4503-acb7-49f341754afd",
+    "last_seen": "2026-10-15T16:24:54.041031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model ONNX",
+    "first_seen": "2026-10-15T16:24:54.041031+00:00",
+    "id": "dd488aea-b585-45a3-95b4-4f42e26e4131",
+    "last_seen": "2026-10-15T16:24:54.041031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "image annotation",
+    "first_seen": "2026-10-15T16:24:54.041031+00:00",
+    "id": "fc167cdd-dbf4-4bb5-b749-ebc15d28320a",
+    "last_seen": "2026-10-15T16:24:54.041031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Temporal-Invariance Consistency for Oriented Detection",
+    "first_seen": "2026-10-15T16:24:54.031031+00:00",
+    "id": "13347f09-ef4e-4231-a620-afe04501f1e8",
+    "last_seen": "2026-10-15T16:24:54.031031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GDAL",
+    "first_seen": "2026-10-15T16:24:54.031031+00:00",
+    "id": "f46294b9-13c5-4e02-b015-b2f8eb2478e3",
+    "last_seen": "2026-10-15T16:24:54.031031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PALMSCNN",
+    "first_seen": "2026-10-15T16:24:54.021031+00:00",
+    "id": "0995f1f4-f522-4f25-8f37-2f8f4ba3dd3a",
+    "last_seen": "2026-10-15T16:24:54.021031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YOLO11x-OBB",
+    "first_seen": "2026-10-15T16:24:54.021031+00:00",
+    "id": "48d11d46-beb2-485f-ad46-8319eaab62f7",
+    "last_seen": "2026-10-15T16:24:54.021031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "teacher-student architecture",
+    "first_seen": "2026-10-15T16:24:54.011031+00:00",
+    "id": "06be57ed-0eb7-4c31-a4e0-58751987f018",
+    "last_seen": "2026-10-15T16:24:54.011031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "area terbuka",
+    "first_seen": "2026-10-15T16:24:54.011031+00:00",
+    "id": "4e0a49e5-a36d-430a-9d05-78917bb91284",
+    "last_seen": "2026-10-15T16:24:54.011031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Scale-MAE",
+    "first_seen": "2026-10-15T16:24:54.001031+00:00",
+    "id": "0df5a974-39b9-4d0e-95ec-bd134c191f93",
+    "last_seen": "2026-10-15T16:24:54.001031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SpectralGPT",
+    "first_seen": "2026-10-15T16:24:54.001031+00:00",
+    "id": "187ff196-eec6-4f36-b002-b657ed532b8c",
+    "last_seen": "2026-10-15T16:24:54.001031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "remote sensing foundation models",
+    "first_seen": "2026-10-15T16:24:53.991031+00:00",
+    "id": "caef0641-2ed1-4e7d-9947-3de0e7166e8f",
+    "last_seen": "2026-10-15T16:24:53.991031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "unlabeled multi-temporal imagery",
+    "first_seen": "2026-10-15T16:24:53.981031+00:00",
+    "id": "2c3bb898-9cb3-4605-a217-394fad4ad703",
+    "last_seen": "2026-10-15T16:24:53.981031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deep learning",
+    "first_seen": "2026-10-15T16:24:53.981031+00:00",
+    "id": "9db4498f-aaff-4eb7-a1f2-fdd12326bd6a",
+    "last_seen": "2026-10-15T16:24:53.981031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NDVI",
+    "first_seen": "2026-10-15T16:24:53.981031+00:00",
+    "id": "d4a59e3a-ec71-41eb-aa9c-cf4c2ce7048e",
+    "last_seen": "2026-10-15T16:24:53.981031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "cross-sensor generalization",
+    "first_seen": "2026-10-15T16:24:53.961031+00:00",
+    "id": "c3df98e7-938d-4eea-b53b-9e15c7cdad6a",
+    "last_seen": "2026-10-15T16:24:53.961031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "location",
+    "first_seen": "2026-10-15T16:24:53.961031+00:00",
+    "id": "d4a1f614-c3cf-4a71-84a3-75859445c072",
+    "last_seen": "2026-10-15T16:24:53.961031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "bentuk",
+    "first_seen": "2026-10-15T16:24:53.961031+00:00",
+    "id": "ec609af7-aa71-4450-91a1-a8b0d81a788a",
+    "last_seen": "2026-10-15T16:24:53.961031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PointOBB",
+    "first_seen": "2026-10-15T16:24:53.951031+00:00",
+    "id": "13280911-27cd-48a6-92cd-18218a44ec11",
+    "last_seen": "2026-10-15T16:24:53.951031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Point2RBox",
+    "first_seen": "2026-10-15T16:24:53.951031+00:00",
+    "id": "571e5339-1a41-4530-9c2e-1af68e0b81d6",
+    "last_seen": "2026-10-15T16:24:53.951031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agriculture",
+    "first_seen": "2026-10-15T16:24:53.951031+00:00",
+    "id": "5c4943a0-29cf-4c70-b9a1-89b35613efa7",
+    "last_seen": "2026-10-15T16:24:53.951031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "warna",
+    "first_seen": "2026-10-15T16:24:53.941031+00:00",
+    "id": "34cd5035-dead-45fa-8f84-4c566cede674",
+    "last_seen": "2026-10-15T16:24:53.941031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "point-supervised object detection",
+    "first_seen": "2026-10-15T16:24:53.941031+00:00",
+    "id": "b07700c6-72b8-4567-aa0f-9ab817bcd171",
+    "last_seen": "2026-10-15T16:24:53.941031+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "resource limitations",
+    "first_seen": "2026-10-15T13:52:40.522848+00:00",
+    "id": "4cda5135-27b7-4d8b-bbc4-bb4742b4f93b",
+    "last_seen": "2026-10-15T13:52:40.522848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pragmatic solutions",
+    "first_seen": "2026-10-15T13:52:40.522848+00:00",
+    "id": "6576c134-fae5-4a67-802b-cc4556482772",
+    "last_seen": "2026-10-15T13:52:40.522848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "long-term consequences",
+    "first_seen": "2026-10-15T13:52:40.512848+00:00",
+    "id": "89955bef-d262-48bd-bfdb-9d2ee49ace28",
+    "last_seen": "2026-10-15T13:52:40.512848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "technical decisions",
+    "first_seen": "2026-10-15T13:52:40.512848+00:00",
+    "id": "b92db50f-846b-484c-adbe-a68be6a1652a",
+    "last_seen": "2026-10-15T13:52:40.512848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "technical factors",
+    "first_seen": "2026-10-15T13:52:40.502848+00:00",
+    "id": "59cd38fc-6933-4562-b818-a6abee2a5f7a",
+    "last_seen": "2026-10-15T13:52:40.502848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "financial factors",
+    "first_seen": "2026-10-15T13:52:40.502848+00:00",
+    "id": "a9a46192-ce2e-41c5-b6ff-6481bf51e2e0",
+    "last_seen": "2026-10-15T13:52:40.502848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "decision making",
+    "first_seen": "2026-10-15T13:52:40.492848+00:00",
+    "id": "b5a87f0f-7f53-42ac-95be-c33f61a9035c",
+    "last_seen": "2026-10-15T13:52:40.492848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "evaluation of options",
+    "first_seen": "2026-10-15T13:52:40.492848+00:00",
+    "id": "e33dfd15-3a89-4880-a613-bb30d9cca768",
+    "last_seen": "2026-10-15T13:52:40.492848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ASCII diagram",
+    "first_seen": "2026-10-15T13:52:40.482848+00:00",
+    "id": "4e024e4d-7598-41a6-a345-f3665b096c09",
+    "last_seen": "2026-10-15T13:52:40.482848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "technical pipeline",
+    "first_seen": "2026-10-15T13:52:40.482848+00:00",
+    "id": "6a449471-c769-4a85-977d-9de950ae8c9b",
+    "last_seen": "2026-10-15T13:52:40.482848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Mermaid diagram",
+    "first_seen": "2026-10-15T13:52:40.482848+00:00",
+    "id": "8c4ab40d-3743-4580-87a8-27e82d97e58a",
+    "last_seen": "2026-10-15T13:52:40.482848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "formatting",
+    "first_seen": "2026-10-15T13:52:40.472848+00:00",
+    "id": "194246c1-0140-4e07-941c-d6a57a67d6c5",
+    "last_seen": "2026-10-15T13:52:40.472848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "layout",
+    "first_seen": "2026-10-15T13:52:40.472848+00:00",
+    "id": "9585ec7d-a310-4460-8b46-51f6ee4c5ffc",
+    "last_seen": "2026-10-15T13:52:40.472848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "manual adjustment",
+    "first_seen": "2026-10-15T13:52:40.462848+00:00",
+    "id": "47b38461-f203-4b44-9901-a78d0e3a3190",
+    "last_seen": "2026-10-15T13:52:40.462848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "DOCX",
+    "first_seen": "2026-10-15T13:52:40.462848+00:00",
+    "id": "c4099297-50e3-4a81-9b57-42c74d78acc5",
+    "last_seen": "2026-10-15T13:52:40.462848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "copy-paste format",
+    "first_seen": "2026-10-15T13:52:40.452848+00:00",
+    "id": "4092ae0e-80c7-4c9b-acfc-ce25ce7371bd",
+    "last_seen": "2026-10-15T13:52:40.452848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "plain text",
+    "first_seen": "2026-10-15T13:52:40.442848+00:00",
+    "id": "84f9c92b-9d8e-4b93-b40a-965cc9d376bd",
+    "last_seen": "2026-10-15T13:52:40.442848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "files",
+    "first_seen": "2026-10-15T13:52:40.442848+00:00",
+    "id": "cf19f286-5630-474b-a1e7-0ff7d410a5cb",
+    "last_seen": "2026-10-15T13:52:40.442848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "APA 7th edition",
+    "first_seen": "2026-10-15T13:52:40.432848+00:00",
+    "id": "6ee6d1a6-4551-46f0-866b-5e00d96d8a21",
+    "last_seen": "2026-10-15T13:52:40.432848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "academic reference",
+    "first_seen": "2026-10-15T13:52:40.432848+00:00",
+    "id": "fc7b6753-4dc3-46fc-8344-3aba4693bdf7",
+    "last_seen": "2026-10-15T13:52:40.432848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "structured academic writing",
+    "first_seen": "2026-10-15T13:52:40.422848+00:00",
+    "id": "40b2826b-2fb6-453a-a6c0-f37e02d92970",
+    "last_seen": "2026-10-15T13:52:40.422848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "action verbs",
+    "first_seen": "2026-10-15T13:52:40.412848+00:00",
+    "id": "2fd1d9cc-843f-48db-ac0d-5021a270f567",
+    "last_seen": "2026-10-15T13:52:40.412848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CV bullet points",
+    "first_seen": "2026-10-15T13:52:40.412848+00:00",
+    "id": "fbb7f4f2-62de-4903-8983-9a5c5e1a4ff3",
+    "last_seen": "2026-10-15T13:52:40.412848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "concise English",
+    "first_seen": "2026-10-15T13:52:40.402848+00:00",
+    "id": "17c23308-e1a0-428a-ac73-fa1e53cac1a6",
+    "last_seen": "2026-10-15T13:52:40.402848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "professional English",
+    "first_seen": "2026-10-15T13:52:40.402848+00:00",
+    "id": "83c23835-48a7-473e-b6ba-9a4cf27a651d",
+    "last_seen": "2026-10-15T13:52:40.402848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "work communication",
+    "first_seen": "2026-10-15T13:52:40.402848+00:00",
+    "id": "dac89150-420d-4e57-ad1b-252b7b418378",
+    "last_seen": "2026-10-15T13:52:40.402848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "compute",
+    "first_seen": "2026-10-15T13:52:40.392848+00:00",
+    "id": "4a90a5ce-596e-4849-aa74-4761f4d9bfd2",
+    "last_seen": "2026-10-15T13:52:40.392848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "time",
+    "first_seen": "2026-10-15T13:52:40.392848+00:00",
+    "id": "c7557e58-35bd-4fb3-919d-a09a49b0a6ec",
+    "last_seen": "2026-10-15T13:52:40.392848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research method",
+    "first_seen": "2026-10-15T13:52:40.392848+00:00",
+    "id": "e6ec494e-243d-402a-a297-e4f1f30fb76d",
+    "last_seen": "2026-10-15T13:52:40.392848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "feasibility",
+    "first_seen": "2026-10-15T13:52:40.382848+00:00",
+    "id": "77aaa266-476b-4248-a3a3-02aba04b3ff6",
+    "last_seen": "2026-10-15T13:52:40.382848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "method",
+    "first_seen": "2026-10-15T13:52:40.382848+00:00",
+    "id": "7951f388-291e-4baa-9082-6264977ced74",
+    "last_seen": "2026-10-15T13:52:40.382848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research idea",
+    "first_seen": "2026-10-15T13:52:40.372848+00:00",
+    "id": "35721981-4d4b-4882-8e53-90c2180ae4c3",
+    "last_seen": "2026-10-15T13:52:40.372848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "critical evaluation",
+    "first_seen": "2026-10-15T13:52:40.372848+00:00",
+    "id": "be823803-9db3-4052-a349-060fce981b6d",
+    "last_seen": "2026-10-15T13:52:40.372848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "technical implementation",
+    "first_seen": "2026-10-15T13:52:40.362848+00:00",
+    "id": "07c69100-afe3-4fe7-be8c-cb9dfc578be4",
+    "last_seen": "2026-10-15T13:52:40.362848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research novelty",
+    "first_seen": "2026-10-15T13:52:40.362848+00:00",
+    "id": "96590faf-7881-4f47-8fd4-40773532d981",
+    "last_seen": "2026-10-15T13:52:40.362848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "scientific publication",
+    "first_seen": "2026-10-15T13:52:40.352848+00:00",
+    "id": "a3f3df20-d652-4862-bbd0-07017c52fecd",
+    "last_seen": "2026-10-15T13:52:40.352848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "academic discussion",
+    "first_seen": "2026-10-15T13:52:40.342848+00:00",
+    "id": "ca4fb445-14d5-4815-b3d2-d0d801106bd0",
+    "last_seen": "2026-10-15T13:52:40.342848+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Digmi Laboratorium",
+    "first_seen": "2026-10-15T13:48:09.607920+00:00",
+    "id": "f7ed542c-6ecf-4c92-b308-ebb5051ad942",
+    "last_seen": "2026-10-15T13:48:09.607920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pixel art",
+    "first_seen": "2026-10-15T13:48:09.597920+00:00",
+    "id": "a3ab5ede-d652-4e7a-ab13-8026cb617b66",
+    "last_seen": "2026-10-15T13:48:09.597920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "global",
+    "first_seen": "2026-10-15T13:48:09.587920+00:00",
+    "id": "8d08747e-9ed1-40b3-884b-390b1021a15b",
+    "last_seen": "2026-10-15T13:48:09.587920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Siyar A'lam An-Nubala",
+    "first_seen": "2026-10-15T13:48:09.567920+00:00",
+    "id": "ed1c11bd-4efb-49d6-8744-4a6452f28493",
+    "last_seen": "2026-10-15T13:48:09.567920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Living Atlas of Islamic Scholarship",
+    "first_seen": "2026-10-15T13:48:09.557920+00:00",
+    "id": "997a9f93-0266-40ef-bdea-7909d96913cd",
+    "last_seen": "2026-10-15T13:48:09.557920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kettlebell",
+    "first_seen": "2026-10-15T13:48:09.537920+00:00",
+    "id": "8383ff1b-0230-40c6-97c3-4e6609452d8b",
+    "last_seen": "2026-10-15T13:48:09.537920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "workout bench",
+    "first_seen": "2026-10-15T13:48:09.527920+00:00",
+    "id": "514c935d-7751-4f36-87ca-8a6d58877723",
+    "last_seen": "2026-10-15T13:48:09.527920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "resistance band",
+    "first_seen": "2026-10-15T13:48:09.517920+00:00",
+    "id": "08b0eaf4-533f-4726-ba5c-17f6d150ec1a",
+    "last_seen": "2026-10-15T13:48:09.517920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dumbbells",
+    "first_seen": "2026-10-15T13:48:09.507920+00:00",
+    "id": "9f58b548-da86-4c63-8b36-4b73b516498d",
+    "last_seen": "2026-10-15T13:48:09.507920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "3 kg",
+    "first_seen": "2026-10-15T13:48:09.507920+00:00",
+    "id": "faef0d9a-8a65-44fd-b963-ee5b03aad326",
+    "last_seen": "2026-10-15T13:48:09.507920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "weight plates",
+    "first_seen": "2026-10-15T13:48:09.497920+00:00",
+    "id": "a215f55b-8992-435e-93dd-554b3dcfcf3a",
+    "last_seen": "2026-10-15T13:48:09.497920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "10 kg",
+    "first_seen": "2026-10-15T13:48:09.497920+00:00",
+    "id": "c764bc9f-2e6d-4666-93c6-53ee2e0eca1a",
+    "last_seen": "2026-10-15T13:48:09.497920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "barbell bar",
+    "first_seen": "2026-10-15T13:48:09.487920+00:00",
+    "id": "2f5f32ee-c20c-4d72-913e-53a784a69986",
+    "last_seen": "2026-10-15T13:48:09.487920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "home exercise equipment",
+    "first_seen": "2026-10-15T13:48:09.477920+00:00",
+    "id": "a9c977ca-735d-469c-93df-9f94c8a7f1c9",
+    "last_seen": "2026-10-15T13:48:09.477920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ROM storage format",
+    "first_seen": "2026-10-15T13:48:09.467920+00:00",
+    "id": "31fb92d5-5351-4292-b7ee-56b0cda59b03",
+    "last_seen": "2026-10-15T13:48:09.467920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "game quality",
+    "first_seen": "2026-10-15T13:48:09.467920+00:00",
+    "id": "c73fc070-0f83-4aff-9dd6-19037f1a6beb",
+    "last_seen": "2026-10-15T13:48:09.467920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Redump",
+    "first_seen": "2026-10-15T13:48:09.457920+00:00",
+    "id": "521243bc-d340-43f4-9c4f-9c995c3fae00",
+    "last_seen": "2026-10-15T13:48:09.457920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CHD",
+    "first_seen": "2026-10-15T13:48:09.457920+00:00",
+    "id": "caf5196a-e777-417c-bc95-d583fcf63d23",
+    "last_seen": "2026-10-15T13:48:09.457920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "BIOS emulator",
+    "first_seen": "2026-10-15T13:48:09.447920+00:00",
+    "id": "77f22a1f-979a-49b5-88f9-62fd35622a43",
+    "last_seen": "2026-10-15T13:48:09.447920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PS1",
+    "first_seen": "2026-10-15T13:48:09.447920+00:00",
+    "id": "7f063098-9e15-428e-bfd0-58f61f6ff27d",
+    "last_seen": "2026-10-15T13:48:09.447920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PS2",
+    "first_seen": "2026-10-15T13:48:09.447920+00:00",
+    "id": "d0dfef27-8654-4d87-99de-6921154cf3dd",
+    "last_seen": "2026-10-15T13:48:09.447920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PlayStation 2",
+    "first_seen": "2026-10-15T13:48:09.437920+00:00",
+    "id": "a33cb087-303a-431c-ad57-8c61a7256edf",
+    "last_seen": "2026-10-15T13:48:09.437920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PlayStation 1",
+    "first_seen": "2026-10-15T13:48:09.427920+00:00",
+    "id": "50054abe-952c-494e-b2fc-c65978d776c8",
+    "last_seen": "2026-10-15T13:48:09.427920+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "IDR",
+    "first_seen": "2026-10-15T13:47:02.126596+00:00",
+    "id": "5e126f24-e4dd-44a5-97d5-0fd9d776869e",
+    "last_seen": "2026-10-15T13:47:02.126596+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SGD",
+    "first_seen": "2026-10-15T13:47:02.126596+00:00",
+    "id": "b2486c58-fff0-455c-86de-3008919c7d99",
+    "last_seen": "2026-10-15T13:47:02.126596+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI in agriculture",
+    "first_seen": "2026-10-15T13:35:48.990009+00:00",
+    "id": "a4b3d15c-d9fa-45c9-8dcf-cc90adb2dd0a",
+    "last_seen": "2026-10-15T13:35:48.990009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geospatial systems",
+    "first_seen": "2026-10-15T13:35:48.990009+00:00",
+    "id": "f933e4ce-b87f-461b-84c9-a0ceccf80a24",
+    "last_seen": "2026-10-15T13:35:48.990009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research processes",
+    "first_seen": "2026-10-15T13:35:48.980009+00:00",
+    "id": "33f7eb5b-d21b-4e55-98f8-dc0ad59231fb",
+    "last_seen": "2026-10-15T13:35:48.980009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI experiments",
+    "first_seen": "2026-10-15T13:35:48.970009+00:00",
+    "id": "0c300f30-57e0-4552-aa68-5c17658a4fde",
+    "last_seen": "2026-10-15T13:35:48.970009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "LLM",
+    "first_seen": "2026-10-15T13:35:48.970009+00:00",
+    "id": "1fb53fd1-10d4-4e40-91a7-8303e2377f8e",
+    "last_seen": "2026-10-15T13:35:48.970009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "knowledge management system",
+    "first_seen": "2026-10-15T13:35:48.940009+00:00",
+    "id": "d82386f1-efd5-4dd3-b9a3-1187875cda4f",
+    "last_seen": "2026-10-15T13:35:48.940009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI interaction",
+    "first_seen": "2026-10-15T13:35:48.930009+00:00",
+    "id": "51f3ef5f-842e-4bf0-b50c-f2389d4e09ff",
+    "last_seen": "2026-10-15T13:35:48.930009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "persistent memory",
+    "first_seen": "2026-10-15T13:35:48.930009+00:00",
+    "id": "e72bc2d6-23cb-44ae-bcb0-7d350c2cc8e3",
+    "last_seen": "2026-10-15T13:35:48.930009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "personal AI agent",
+    "first_seen": "2026-10-15T13:35:48.920009+00:00",
+    "id": "f23d665d-c96a-41c3-8366-8a8511e21310",
+    "last_seen": "2026-10-15T13:35:48.920009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "machine learning",
+    "first_seen": "2026-10-15T13:35:48.910009+00:00",
+    "id": "9255d391-c1c8-41b3-8cd3-62afe773a83a",
+    "last_seen": "2026-10-15T13:35:48.910009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "international journals",
+    "first_seen": "2026-10-15T13:35:48.880009+00:00",
+    "id": "48a42ea8-451c-4606-8846-100300089c74",
+    "last_seen": "2026-10-15T13:35:48.880009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Master's",
+    "first_seen": "2026-10-15T13:35:48.870009+00:00",
+    "id": "87219836-3905-40ea-ae12-743430d0efd3",
+    "last_seen": "2026-10-15T13:35:48.870009+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ASUS ROG Zephyrus G14 2024",
+    "first_seen": "2026-10-15T13:32:27.987479+00:00",
+    "id": "043c2cd9-9f27-462c-99c5-b876e0787e0e",
+    "last_seen": "2026-10-15T13:32:27.987479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NVIDIA RTX 4050 Laptop GPU",
+    "first_seen": "2026-10-15T13:32:27.987479+00:00",
+    "id": "ef018c5c-2356-4860-9e9b-4d46a82e0331",
+    "last_seen": "2026-10-15T13:32:27.987479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GST refund",
+    "first_seen": "2026-10-15T13:32:27.977479+00:00",
+    "id": "0116b874-35a2-4848-be91-d73f1982f2bd",
+    "last_seen": "2026-10-15T13:32:27.977479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "resale value",
+    "first_seen": "2026-10-15T13:32:27.967479+00:00",
+    "id": "fe278bdf-8de1-4af5-8a17-425c95da36b4",
+    "last_seen": "2026-10-15T13:32:27.967479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "session",
+    "first_seen": "2026-10-15T13:32:27.957479+00:00",
+    "id": "05f487be-6b89-4824-ae0b-24d4b30acf9d",
+    "last_seen": "2026-10-15T13:32:27.957479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hermes Agent",
+    "first_seen": "2026-10-15T13:32:27.957479+00:00",
+    "id": "2ec8356f-a49c-4949-b87e-e3857ea59f55",
+    "last_seen": "2026-10-15T13:32:27.957479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "setup",
+    "first_seen": "2026-10-15T13:32:27.957479+00:00",
+    "id": "999220f3-34db-4f9d-b5c9-04edd2f0152c",
+    "last_seen": "2026-10-15T13:32:27.957479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "reselling",
+    "first_seen": "2026-10-15T13:32:27.957479+00:00",
+    "id": "ef9ab032-6d02-4f38-83a8-98b61edaf7a1",
+    "last_seen": "2026-10-15T13:32:27.957479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research results",
+    "first_seen": "2026-10-15T13:32:27.947479+00:00",
+    "id": "0568c6e2-5b83-44fb-84ec-ccae52746291",
+    "last_seen": "2026-10-15T13:32:27.947479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Trade In",
+    "first_seen": "2026-10-15T13:32:27.947479+00:00",
+    "id": "54540674-0b1a-4ca9-a45f-ded75d7bb1d7",
+    "last_seen": "2026-10-15T13:32:27.947479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "thesis dataset",
+    "first_seen": "2026-10-15T13:32:27.947479+00:00",
+    "id": "e081f3eb-1d4b-48e5-abc0-fdc7bbcc8bf3",
+    "last_seen": "2026-10-15T13:32:27.947479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "data loss",
+    "first_seen": "2026-10-15T13:32:27.937479+00:00",
+    "id": "02d497af-db8c-4098-8229-77a5e812d94f",
+    "last_seen": "2026-10-15T13:32:27.937479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple prices",
+    "first_seen": "2026-10-15T13:32:27.937479+00:00",
+    "id": "4fa020f4-13ef-4bd6-8ac6-5bb36ba50d84",
+    "last_seen": "2026-10-15T13:32:27.937479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "display",
+    "first_seen": "2026-10-15T13:32:27.927479+00:00",
+    "id": "9ebe0613-fa7e-4adc-8df0-8d827400725e",
+    "last_seen": "2026-10-15T13:32:27.927479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "USD 2,000",
+    "first_seen": "2026-10-15T13:32:27.927479+00:00",
+    "id": "c25a1acc-9b4f-484b-884d-cd5a3f6cf662",
+    "last_seen": "2026-10-15T13:32:27.927479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "resource usage",
+    "first_seen": "2026-10-15T13:32:27.927479+00:00",
+    "id": "c7845fe8-3ca7-4675-bb7f-af1ae50860eb",
+    "last_seen": "2026-10-15T13:32:27.927479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "USD 2,180",
+    "first_seen": "2026-10-15T13:32:27.917479+00:00",
+    "id": "fb71027d-0865-4569-9183-9198c475c04e",
+    "last_seen": "2026-10-15T13:32:27.917479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple",
+    "first_seen": "2026-10-15T13:32:27.907479+00:00",
+    "id": "bc3e6e22-f6bb-43d3-9138-06f8a44254a1",
+    "last_seen": "2026-10-15T13:32:27.907479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "16 GB RAM",
+    "first_seen": "2026-10-15T13:32:27.907479+00:00",
+    "id": "dbab4742-29f5-4307-bce6-948373e5935f",
+    "last_seen": "2026-10-15T13:32:27.907479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "32 GB memory",
+    "first_seen": "2026-10-15T13:32:27.897479+00:00",
+    "id": "9ed4b22f-a5da-4514-b9a4-ba252ab03b46",
+    "last_seen": "2026-10-15T13:32:27.897479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "internet connection",
+    "first_seen": "2026-10-15T13:32:27.897479+00:00",
+    "id": "be4e8858-194c-4ac8-ac14-1d3b3c73af41",
+    "last_seen": "2026-10-15T13:32:27.897479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Store Marina Bay Sands",
+    "first_seen": "2026-10-15T13:32:27.897479+00:00",
+    "id": "f2e0e927-09f2-42ff-8187-ae7aedae160a",
+    "last_seen": "2026-10-15T13:32:27.897479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "external monitor",
+    "first_seen": "2026-10-15T13:32:27.887479+00:00",
+    "id": "c57f68f0-dd8b-40fb-baef-ec4645050e7b",
+    "last_seen": "2026-10-15T13:32:27.887479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "display malfunction",
+    "first_seen": "2026-10-15T13:32:27.877479+00:00",
+    "id": "21720ab1-ce6b-43ac-8126-3294fd54a4ff",
+    "last_seen": "2026-10-15T13:32:27.877479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "virtual processors",
+    "first_seen": "2026-10-15T13:32:27.877479+00:00",
+    "id": "7b74ea54-6864-4bcb-852c-cdff2fcc1050",
+    "last_seen": "2026-10-15T13:32:27.877479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "startup sound",
+    "first_seen": "2026-10-15T13:32:27.877479+00:00",
+    "id": "93a95fd7-fd78-4ca9-8db5-d2759b2bf5d3",
+    "last_seen": "2026-10-15T13:32:27.877479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "booting issues",
+    "first_seen": "2026-10-15T13:32:27.867479+00:00",
+    "id": "37a1c730-f791-44b3-b366-3a89f4c9bce9",
+    "last_seen": "2026-10-15T13:32:27.867479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "black screen",
+    "first_seen": "2026-10-15T13:32:27.867479+00:00",
+    "id": "4e246b4e-5421-48ee-8b8f-d5d7c53d484f",
+    "last_seen": "2026-10-15T13:32:27.867479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local AI experimentation",
+    "first_seen": "2026-10-15T13:32:27.857479+00:00",
+    "id": "02d84e6d-7e08-4181-a693-09623e369798",
+    "last_seen": "2026-10-15T13:32:27.857479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "portability",
+    "first_seen": "2026-10-15T13:32:27.857479+00:00",
+    "id": "2913a1fe-bb68-46b8-9cf5-590838f7ca5e",
+    "last_seen": "2026-10-15T13:32:27.857479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "office VM",
+    "first_seen": "2026-10-15T13:32:27.857479+00:00",
+    "id": "851798d3-bb48-4604-9140-78cabbe85c8b",
+    "last_seen": "2026-10-15T13:32:27.857479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "iBox",
+    "first_seen": "2026-10-15T13:32:27.847479+00:00",
+    "id": "31e0e2ee-d293-4f15-a225-d50c5128c262",
+    "last_seen": "2026-10-15T13:32:27.847479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "portable work device",
+    "first_seen": "2026-10-15T13:32:27.847479+00:00",
+    "id": "dcd1e442-1f2e-4ba1-9b8c-8bd1174cd363",
+    "last_seen": "2026-10-15T13:32:27.847479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI server",
+    "first_seen": "2026-10-15T13:32:27.837479+00:00",
+    "id": "155e9dfa-2675-4863-82a5-0da38263adb4",
+    "last_seen": "2026-10-15T13:32:27.837479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "virtual machine",
+    "first_seen": "2026-10-15T13:32:27.837479+00:00",
+    "id": "eaf9443c-dc7b-4350-b80e-8a5ab1d04bac",
+    "last_seen": "2026-10-15T13:32:27.837479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Neural Engine",
+    "first_seen": "2026-10-15T13:32:27.827479+00:00",
+    "id": "0a1f3c90-b2a4-4fe5-8ca3-de7105c076e5",
+    "last_seen": "2026-10-15T13:32:27.827479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NVIDIA",
+    "first_seen": "2026-10-15T13:32:27.827479+00:00",
+    "id": "75c5b7be-7be2-47c0-a91a-cbbd4d92c354",
+    "last_seen": "2026-10-15T13:32:27.827479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Silicon",
+    "first_seen": "2026-10-15T13:32:27.827479+00:00",
+    "id": "80ee3932-25eb-44a6-a76b-c0dbb7b13a89",
+    "last_seen": "2026-10-15T13:32:27.827479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "VRAM",
+    "first_seen": "2026-10-15T13:32:27.817479+00:00",
+    "id": "218ea3ae-d2f2-4b25-8c5b-7898c20e602d",
+    "last_seen": "2026-10-15T13:32:27.817479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SSD",
+    "first_seen": "2026-10-15T13:32:27.817479+00:00",
+    "id": "5c4431f3-1dae-4a43-a61c-28acbeb067ed",
+    "last_seen": "2026-10-15T13:32:27.817479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "repair",
+    "first_seen": "2026-10-15T13:32:27.817479+00:00",
+    "id": "68856486-f4c8-43d3-9ebb-6d127743e326",
+    "last_seen": "2026-10-15T13:32:27.817479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "unified memory",
+    "first_seen": "2026-10-15T13:32:27.817479+00:00",
+    "id": "fb02ac28-4ac4-49ea-92a8-1e1552a62dd2",
+    "last_seen": "2026-10-15T13:32:27.817479+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'il amr",
+    "first_seen": "2026-10-15T13:29:36.034933+00:00",
+    "id": "41ee43e2-5d76-4f7a-a4ea-8fa9fc29e613",
+    "last_seen": "2026-10-15T13:29:36.034933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'il mudhari'",
+    "first_seen": "2026-10-15T13:29:36.024933+00:00",
+    "id": "de14a31b-51ee-4023-9106-c0df4dbc4041",
+    "last_seen": "2026-10-15T13:29:36.024933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Maghrib",
+    "first_seen": "2026-10-15T13:29:36.024933+00:00",
+    "id": "ed4fe44a-1baf-4dbc-9e07-274489faa3d6",
+    "last_seen": "2026-10-15T13:29:36.024933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Wednesday",
+    "first_seen": "2026-10-15T13:29:36.024933+00:00",
+    "id": "f1342e33-bee0-4aad-a356-3eafbdad7884",
+    "last_seen": "2026-10-15T13:29:36.024933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Abdul Wahhab, Lc., M.A.",
+    "first_seen": "2026-10-15T13:29:36.014933+00:00",
+    "id": "89a0d5e6-392b-49f1-b22d-54bce179c30c",
+    "last_seen": "2026-10-15T13:29:36.014933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'il madhi",
+    "first_seen": "2026-10-15T13:29:36.014933+00:00",
+    "id": "d0ab6737-bd83-4c3d-9a99-e8c541901848",
+    "last_seen": "2026-10-15T13:29:36.014933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ismiyyah",
+    "first_seen": "2026-10-15T13:29:36.004933+00:00",
+    "id": "27c0eea1-47ed-4b65-a8e1-c1bf49a991a8",
+    "last_seen": "2026-10-15T13:29:36.004933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fi'liyyah",
+    "first_seen": "2026-10-15T13:29:36.004933+00:00",
+    "id": "42079d7c-30a3-4457-a2cf-31cb912187aa",
+    "last_seen": "2026-10-15T13:29:36.004933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "participants",
+    "first_seen": "2026-10-15T13:29:35.994933+00:00",
+    "id": "9d56d311-5dc1-4d09-89f6-939022e9ed92",
+    "last_seen": "2026-10-15T13:29:35.994933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "lengthy explanations",
+    "first_seen": "2026-10-15T13:29:35.994933+00:00",
+    "id": "dacade88-b011-4117-bb05-4c59a72c6da8",
+    "last_seen": "2026-10-15T13:29:35.994933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ar:",
+    "first_seen": "2026-10-15T13:29:35.984933+00:00",
+    "id": "c7214837-ac6c-4f7f-9230-ede687258d6e",
+    "last_seen": "2026-10-15T13:29:35.984933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Makkah & Madinah Mengaji",
+    "first_seen": "2026-10-15T13:29:35.984933+00:00",
+    "id": "ed504c50-12a1-46eb-abee-43b492d91cd9",
+    "last_seen": "2026-10-15T13:29:35.984933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "in:",
+    "first_seen": "2026-10-15T13:29:35.974933+00:00",
+    "id": "49186781-680a-43b7-ae3c-2da946704ac8",
+    "last_seen": "2026-10-15T13:29:35.974933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ihya Ulumuddin",
+    "first_seen": "2026-10-15T13:29:35.974933+00:00",
+    "id": "bb6943d7-5a65-41e8-a9ce-050de2ee8adf",
+    "last_seen": "2026-10-15T13:29:35.974933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Salafi scholars",
+    "first_seen": "2026-10-15T13:29:35.974933+00:00",
+    "id": "c59b6d44-962f-4bc0-946d-ab4afe717890",
+    "last_seen": "2026-10-15T13:29:35.974933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Ahmad bin Hanbal",
+    "first_seen": "2026-10-15T13:29:35.964933+00:00",
+    "id": "539f31fb-19a6-4811-ac3e-fdd5783940c2",
+    "last_seen": "2026-10-15T13:29:35.964933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ushul As-Sunnah",
+    "first_seen": "2026-10-15T13:29:35.964933+00:00",
+    "id": "d6a95968-48dd-4c05-b56d-0febfd00f7bf",
+    "last_seen": "2026-10-15T13:29:35.964933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Ushul As-Sittah",
+    "first_seen": "2026-10-15T13:29:35.954933+00:00",
+    "id": "798b1bee-e6c0-49da-9a49-fd58fa7d0216",
+    "last_seen": "2026-10-15T13:29:35.954933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "side by side",
+    "first_seen": "2026-10-15T13:29:35.954933+00:00",
+    "id": "9b666aca-8b33-4a2c-9b1f-f328bf152c65",
+    "last_seen": "2026-10-15T13:29:35.954933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Syaikh Muhammad bin Abdul Wahhab",
+    "first_seen": "2026-10-15T13:29:35.954933+00:00",
+    "id": "aba2b16f-2f17-46d1-bc54-32c3dedb4c11",
+    "last_seen": "2026-10-15T13:29:35.954933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "clearly separated",
+    "first_seen": "2026-10-15T13:29:35.954933+00:00",
+    "id": "bd8adcd5-bb06-4fd8-810b-3526148ea4ff",
+    "last_seen": "2026-10-15T13:29:35.954933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multi-sentence exercises",
+    "first_seen": "2026-10-15T13:29:35.944933+00:00",
+    "id": "30df083b-9ffb-41c5-b7b4-155cbbbe5300",
+    "last_seen": "2026-10-15T13:29:35.944933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tables",
+    "first_seen": "2026-10-15T13:29:35.944933+00:00",
+    "id": "5f3f9696-2dfd-40df-8b99-493c746a5ac3",
+    "last_seen": "2026-10-15T13:29:35.944933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Arabic text",
+    "first_seen": "2026-10-15T13:29:35.944933+00:00",
+    "id": "62e06742-b228-49f0-be5a-b72934bef3c4",
+    "last_seen": "2026-10-15T13:29:35.944933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Riyadhus Shalihin",
+    "first_seen": "2026-10-15T13:29:35.944933+00:00",
+    "id": "99555b4f-5824-49f7-aa09-d45bf87ace49",
+    "last_seen": "2026-10-15T13:29:35.944933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Indonesian translation",
+    "first_seen": "2026-10-15T13:29:35.944933+00:00",
+    "id": "c32aa94b-783a-4b73-a9bc-5b8f9305d855",
+    "last_seen": "2026-10-15T13:29:35.944933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Islamic study",
+    "first_seen": "2026-10-15T13:29:35.934933+00:00",
+    "id": "af6298a4-52fe-4642-9f8b-9253b1262e39",
+    "last_seen": "2026-10-15T13:29:35.934933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "short exercises",
+    "first_seen": "2026-10-15T13:29:35.934933+00:00",
+    "id": "ce96944b-93a8-4ad0-ad2e-2058ebdefbb2",
+    "last_seen": "2026-10-15T13:29:35.934933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "short answers",
+    "first_seen": "2026-10-15T13:29:35.934933+00:00",
+    "id": "edca4301-6256-4daf-8566-2240258dbb68",
+    "last_seen": "2026-10-15T13:29:35.934933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Arabic communication",
+    "first_seen": "2026-10-15T13:29:35.924933+00:00",
+    "id": "9cdd951b-07c3-41fa-9c7b-fb2c5a43a9a1",
+    "last_seen": "2026-10-15T13:29:35.924933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "study friends",
+    "first_seen": "2026-10-15T13:29:35.924933+00:00",
+    "id": "9fbbfc98-ee59-4adb-8518-d820610a706f",
+    "last_seen": "2026-10-15T13:29:35.924933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "text without harakat",
+    "first_seen": "2026-10-15T13:29:35.924933+00:00",
+    "id": "f96a5638-0bee-4c66-9351-f3320d2054ab",
+    "last_seen": "2026-10-15T13:29:35.924933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "harakat",
+    "first_seen": "2026-10-15T13:29:35.904933+00:00",
+    "id": "179a76c9-e3cb-4b53-bd53-fd942a63598f",
+    "last_seen": "2026-10-15T13:29:35.904933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Arabic responses",
+    "first_seen": "2026-10-15T13:29:35.904933+00:00",
+    "id": "26ebbfd2-29c7-4a38-89ea-4f6e0d9c1b53",
+    "last_seen": "2026-10-15T13:29:35.904933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "punctuation marks",
+    "first_seen": "2026-10-15T13:29:35.904933+00:00",
+    "id": "4297de51-c264-4ae5-980b-2e80bcdde9f0",
+    "last_seen": "2026-10-15T13:29:35.904933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "لَبَن",
+    "first_seen": "2026-10-15T13:29:35.894933+00:00",
+    "id": "0218c9df-4f41-46d9-8191-148aa58c1fc4",
+    "last_seen": "2026-10-15T13:29:35.894933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "حَلِيب",
+    "first_seen": "2026-10-15T13:29:35.894933+00:00",
+    "id": "06084e4c-40ab-4b61-b483-70aa09b578c1",
+    "last_seen": "2026-10-15T13:29:35.894933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "contextually inappropriate translations",
+    "first_seen": "2026-10-15T13:29:35.894933+00:00",
+    "id": "20df4e79-3266-4912-a7a9-38937467dbb2",
+    "last_seen": "2026-10-15T13:29:35.894933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "بِالتَّأْكِيدِ",
+    "first_seen": "2026-10-15T13:29:35.884933+00:00",
+    "id": "fc825bb4-2df1-4ae4-8309-5382041e8fea",
+    "last_seen": "2026-10-15T13:29:35.884933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "corrections",
+    "first_seen": "2026-10-15T13:29:35.884933+00:00",
+    "id": "fffbe3a0-91dc-4f2a-a150-dc2e01d5427f",
+    "last_seen": "2026-10-15T13:29:35.884933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "idiomatic expressions",
+    "first_seen": "2026-10-15T13:29:35.874933+00:00",
+    "id": "6774274e-0b86-4689-81b0-8dd624a4d311",
+    "last_seen": "2026-10-15T13:29:35.874933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "natural expressions",
+    "first_seen": "2026-10-15T13:29:35.874933+00:00",
+    "id": "6f34d592-bda7-448a-817d-d3b42e657b3a",
+    "last_seen": "2026-10-15T13:29:35.874933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "سَمّ",
+    "first_seen": "2026-10-15T13:29:35.874933+00:00",
+    "id": "df5a7633-a654-486a-9219-18fe883dc8da",
+    "last_seen": "2026-10-15T13:29:35.874933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Saudi speakers",
+    "first_seen": "2026-10-15T13:29:35.864933+00:00",
+    "id": "555ace0b-0b87-4ed7-a1b9-9546c15e38d4",
+    "last_seen": "2026-10-15T13:29:35.864933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "small talk",
+    "first_seen": "2026-10-15T13:29:35.864933+00:00",
+    "id": "7dab29c0-cb81-4360-baeb-0c79bab9bdf1",
+    "last_seen": "2026-10-15T13:29:35.864933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Saudi greeting",
+    "first_seen": "2026-10-15T13:29:35.864933+00:00",
+    "id": "c3c5e82c-2ac1-4ffa-b5ae-f7b4183bdb7e",
+    "last_seen": "2026-10-15T13:29:35.864933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "education",
+    "first_seen": "2026-10-15T13:29:35.854933+00:00",
+    "id": "11f33885-bc56-478c-aa7e-32474c6cede2",
+    "last_seen": "2026-10-15T13:29:35.854933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "travel",
+    "first_seen": "2026-10-15T13:29:35.854933+00:00",
+    "id": "62a2b3d1-0bb4-4a1e-bfce-7b2532601a82",
+    "last_seen": "2026-10-15T13:29:35.854933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "daily activities",
+    "first_seen": "2026-10-15T13:29:35.854933+00:00",
+    "id": "691f892f-5018-42ab-9d18-2d690063878a",
+    "last_seen": "2026-10-15T13:29:35.854933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "vocabulary",
+    "first_seen": "2026-10-15T13:29:35.854933+00:00",
+    "id": "c2e188f6-385f-4818-b017-54a08c22c0f8",
+    "last_seen": "2026-10-15T13:29:35.854933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Fusha Arabic",
+    "first_seen": "2026-10-15T13:29:35.844933+00:00",
+    "id": "51ec2dab-23ca-4364-a4aa-934d112baf81",
+    "last_seen": "2026-10-15T13:29:35.844933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "verb conjugation",
+    "first_seen": "2026-10-15T13:29:35.834933+00:00",
+    "id": "09276c22-0f49-4f7a-b6a7-13744c5850fe",
+    "last_seen": "2026-10-15T13:29:35.834933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "subject",
+    "first_seen": "2026-10-15T13:29:35.834933+00:00",
+    "id": "9a7b44fc-16d4-4a1b-836e-50af1044f4dc",
+    "last_seen": "2026-10-15T13:29:35.834933+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "high-resolution satellite imagery",
+    "first_seen": "2026-10-15T13:25:11.900560+00:00",
+    "id": "58ce155c-0c5e-4821-adee-18116969e7e4",
+    "last_seen": "2026-10-15T13:25:11.900560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Farm",
+    "first_seen": "2026-10-15T13:25:11.875824+00:00",
+    "id": "da27f26f-888c-41e4-9ec5-2386677249a8",
+    "last_seen": "2026-10-15T13:25:11.875824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Asset",
+    "first_seen": "2026-10-15T13:25:11.875824+00:00",
+    "id": "f3388526-0641-4bae-b503-915b1897e292",
+    "last_seen": "2026-10-15T13:25:11.875824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Boundary",
+    "first_seen": "2026-10-15T13:25:11.875824+00:00",
+    "id": "f5585817-44dc-49e0-9d90-843037a5b60d",
+    "last_seen": "2026-10-15T13:25:11.875824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "irrigation infrastructure",
+    "first_seen": "2026-10-15T13:25:11.870560+00:00",
+    "id": "9d6323e9-7dd2-463e-acd0-7e7773389555",
+    "last_seen": "2026-10-15T13:25:11.870560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MapLibreMapService",
+    "first_seen": "2026-10-15T13:25:11.865824+00:00",
+    "id": "45a27a70-be11-42fe-8e65-f1ba150a0984",
+    "last_seen": "2026-10-15T13:25:11.865824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pool",
+    "first_seen": "2026-10-15T13:25:11.860560+00:00",
+    "id": "34a78a2f-3501-450f-a783-23de74d61cab",
+    "last_seen": "2026-10-15T13:25:11.860560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pond",
+    "first_seen": "2026-10-15T13:25:11.860560+00:00",
+    "id": "b77f8550-4d87-4ff4-86a0-0ed5e3a3c769",
+    "last_seen": "2026-10-15T13:25:11.860560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "stored procedures",
+    "first_seen": "2026-10-15T13:25:11.855824+00:00",
+    "id": "30b15a87-78d8-4595-84c8-6953deff7aec",
+    "last_seen": "2026-10-15T13:25:11.855824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "IMapService",
+    "first_seen": "2026-10-15T13:25:11.855824+00:00",
+    "id": "45725f2a-8ee3-4877-ab34-4086b3384ac8",
+    "last_seen": "2026-10-15T13:25:11.855824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "VPS",
+    "first_seen": "2026-10-15T13:25:11.852520+00:00",
+    "id": "7c6e6734-7015-48b0-86c1-dbad774f4fca",
+    "last_seen": "2026-10-15T13:25:11.852520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pl_ext",
+    "first_seen": "2026-10-15T13:25:11.850560+00:00",
+    "id": "1f49345a-e5ce-4ff1-9fa9-9cb9ac043620",
+    "last_seen": "2026-10-15T13:25:11.850560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Waha",
+    "first_seen": "2026-10-15T13:25:11.850560+00:00",
+    "id": "31601fda-27a7-43af-8776-3784cb758c28",
+    "last_seen": "2026-10-15T13:25:11.850560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "building",
+    "first_seen": "2026-10-15T13:25:11.850560+00:00",
+    "id": "a0649953-de07-4a67-af95-80531d8c843c",
+    "last_seen": "2026-10-15T13:25:11.850560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deck.gl",
+    "first_seen": "2026-10-15T13:25:11.845824+00:00",
+    "id": "dfd497b5-3020-4d4c-9c1f-e50bd74c1b89",
+    "last_seen": "2026-10-15T13:25:11.845824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "continuously available",
+    "first_seen": "2026-10-15T13:25:11.842520+00:00",
+    "id": "df6eaca1-6514-4813-9ee2-0750cf8066a5",
+    "last_seen": "2026-10-15T13:25:11.842520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AI infrastructure",
+    "first_seen": "2026-10-15T13:25:11.842520+00:00",
+    "id": "e3435d37-31f5-4134-b63e-ce8f003babfb",
+    "last_seen": "2026-10-15T13:25:11.842520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "independent",
+    "first_seen": "2026-10-15T13:25:11.842520+00:00",
+    "id": "e36b7133-04d5-4c61-a1d2-f2b5f5188ad6",
+    "last_seen": "2026-10-15T13:25:11.842520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "road",
+    "first_seen": "2026-10-15T13:25:11.840560+00:00",
+    "id": "483eaf04-cf8e-429a-8d33-22b4bcb2f4b0",
+    "last_seen": "2026-10-15T13:25:11.840560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "duration",
+    "first_seen": "2026-10-15T13:25:11.840560+00:00",
+    "id": "c6415bd6-00ec-4138-acd7-3a141c8392ab",
+    "last_seen": "2026-10-15T13:25:11.840560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "priority",
+    "first_seen": "2026-10-15T13:25:11.840560+00:00",
+    "id": "dd3f2187-2690-4129-943e-7016ba78f366",
+    "last_seen": "2026-10-15T13:25:11.840560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GSAP",
+    "first_seen": "2026-10-15T13:25:11.835824+00:00",
+    "id": "c53e6888-a619-472c-bd5c-7cdc26b20145",
+    "last_seen": "2026-10-15T13:25:11.835824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "historical knowledge",
+    "first_seen": "2026-10-15T13:25:11.832520+00:00",
+    "id": "2cbdab97-25e8-4ad3-a3c4-94fa59c71e49",
+    "last_seen": "2026-10-15T13:25:11.832520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "initial memory seeding",
+    "first_seen": "2026-10-15T13:25:11.832520+00:00",
+    "id": "8ce54711-7a2b-4be9-8e29-135b611535d5",
+    "last_seen": "2026-10-15T13:25:11.832520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ChatGPT",
+    "first_seen": "2026-10-15T13:25:11.832520+00:00",
+    "id": "cf4e8df4-080d-4d1e-8e4c-b659ecf05b9f",
+    "last_seen": "2026-10-15T13:25:11.832520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "scientific explorations",
+    "first_seen": "2026-10-15T13:25:11.832520+00:00",
+    "id": "f520865a-1c49-4a5f-9380-2425bfdf6b84",
+    "last_seen": "2026-10-15T13:25:11.832520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Makkah",
+    "first_seen": "2026-10-15T13:25:11.831795+00:00",
+    "id": "9b268386-6d59-433b-a8c2-92371092b0f7",
+    "last_seen": "2026-10-15T13:25:11.831795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "well",
+    "first_seen": "2026-10-15T13:25:11.830560+00:00",
+    "id": "ccedf59d-e9e9-4c63-a34f-d5d437087cbd",
+    "last_seen": "2026-10-15T13:25:11.830560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm inspection",
+    "first_seen": "2026-10-15T13:25:11.830560+00:00",
+    "id": "f2077539-cbec-4b6d-9dd8-83eee975d636",
+    "last_seen": "2026-10-15T13:25:11.830560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ansar Gallery",
+    "first_seen": "2026-10-15T13:25:11.830560+00:00",
+    "id": "f8a5d02c-24a6-465f-8eb4-8670f495e3a4",
+    "last_seen": "2026-10-15T13:25:11.830560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apache ECharts",
+    "first_seen": "2026-10-15T13:25:11.825824+00:00",
+    "id": "09996566-9dca-4fc9-a26d-0c9ac81e1327",
+    "last_seen": "2026-10-15T13:25:11.825824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "retain",
+    "first_seen": "2026-10-15T13:25:11.822520+00:00",
+    "id": "219bf8bc-d4a6-4218-b471-6b34e512c91b",
+    "last_seen": "2026-10-15T13:25:11.822520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "github.com/imamdigmi/brain",
+    "first_seen": "2026-10-15T13:25:11.822520+00:00",
+    "id": "ac2330c3-2f5b-4b18-a6cd-57dfc4f5caf8",
+    "last_seen": "2026-10-15T13:25:11.822520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "recall",
+    "first_seen": "2026-10-15T13:25:11.822520+00:00",
+    "id": "cdd618dd-dac7-4e21-850e-e3f514d978c3",
+    "last_seen": "2026-10-15T13:25:11.822520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "reflect",
+    "first_seen": "2026-10-15T13:25:11.822520+00:00",
+    "id": "dd97bf66-f16c-46ca-b668-34a63d1450c9",
+    "last_seen": "2026-10-15T13:25:11.822520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Influenza A",
+    "first_seen": "2026-10-15T13:25:11.821795+00:00",
+    "id": "ead8ac1f-f848-4f83-b117-23481c6730ff",
+    "last_seen": "2026-10-15T13:25:11.821795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ext.<entity>_trxn",
+    "first_seen": "2026-10-15T13:25:11.820560+00:00",
+    "id": "1bfb4c3c-a611-422f-8755-4e93ad7c5d01",
+    "last_seen": "2026-10-15T13:25:11.820560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Monoprix",
+    "first_seen": "2026-10-15T13:25:11.820560+00:00",
+    "id": "6b093edc-8d35-4095-878d-601e5dfffefc",
+    "last_seen": "2026-10-15T13:25:11.820560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "open field",
+    "first_seen": "2026-10-15T13:25:11.820560+00:00",
+    "id": "f70e49fe-78e0-4aef-a8f7-5f8993076af4",
+    "last_seen": "2026-10-15T13:25:11.820560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "database Ministry",
+    "first_seen": "2026-10-15T13:25:11.816162+00:00",
+    "id": "3b8917f0-5d0d-4dd6-907d-3cf2978d7516",
+    "last_seen": "2026-10-15T13:25:11.816162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Samer",
+    "first_seen": "2026-10-15T13:25:11.816162+00:00",
+    "id": "c5e3e759-dc5d-4174-aa23-5dc73b136e33",
+    "last_seen": "2026-10-15T13:25:11.816162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "shadcn-svelte",
+    "first_seen": "2026-10-15T13:25:11.815824+00:00",
+    "id": "d2b8c3c8-b4e3-4168-af82-ac65bd17a17e",
+    "last_seen": "2026-10-15T13:25:11.815824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Markdown",
+    "first_seen": "2026-10-15T13:25:11.812520+00:00",
+    "id": "6135f6bf-1f1e-402f-81c5-b854263a5e8d",
+    "last_seen": "2026-10-15T13:25:11.812520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "persistent long-term memory",
+    "first_seen": "2026-10-15T13:25:11.812520+00:00",
+    "id": "b8362828-2fc7-47d0-8681-b93ff440a963",
+    "last_seen": "2026-10-15T13:25:11.812520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Lulu Hypermarket",
+    "first_seen": "2026-10-15T13:25:11.810560+00:00",
+    "id": "bf9ae21f-cad1-4a71-b664-debdb604d804",
+    "last_seen": "2026-10-15T13:25:11.810560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multispan",
+    "first_seen": "2026-10-15T13:25:11.810560+00:00",
+    "id": "db4fad5f-0e52-4d57-a2db-cc9d5b4785ee",
+    "last_seen": "2026-10-15T13:25:11.810560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ext.commercial_receipts_v",
+    "first_seen": "2026-10-15T13:25:11.810560+00:00",
+    "id": "e6d6eb4a-b914-4888-8be4-5bb75b6bf58e",
+    "last_seen": "2026-10-15T13:25:11.810560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Essam",
+    "first_seen": "2026-10-15T13:25:11.806162+00:00",
+    "id": "4cdc0ca5-04a1-41c1-a6f8-a100e99f0dce",
+    "last_seen": "2026-10-15T13:25:11.806162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Dandy data",
+    "first_seen": "2026-10-15T13:25:11.806162+00:00",
+    "id": "5ac61e81-67bb-45d5-bfbf-665cce626a02",
+    "last_seen": "2026-10-15T13:25:11.806162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CLI",
+    "first_seen": "2026-10-15T13:25:11.805824+00:00",
+    "id": "7b6d682a-4429-4b0c-adcd-d73f3296c831",
+    "last_seen": "2026-10-15T13:25:11.805824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Rich",
+    "first_seen": "2026-10-15T13:25:11.805824+00:00",
+    "id": "d3f1099a-c9fc-4fd8-88e8-822dc2e81902",
+    "last_seen": "2026-10-15T13:25:11.805824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Tailwind CSS",
+    "first_seen": "2026-10-15T13:25:11.805824+00:00",
+    "id": "d68c6fc6-614a-43ff-a3af-319a2054def9",
+    "last_seen": "2026-10-15T13:25:11.805824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Data Science",
+    "first_seen": "2026-10-15T13:25:11.804352+00:00",
+    "id": "0264f7b9-913c-4962-9073-aed043de3f29",
+    "last_seen": "2026-10-15T13:25:11.804352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "memory bank",
+    "first_seen": "2026-10-15T13:25:11.802520+00:00",
+    "id": "de5eaf31-9710-4fdd-9858-640f5a5ece65",
+    "last_seen": "2026-10-15T13:25:11.802520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geometry",
+    "first_seen": "2026-10-15T13:25:11.800560+00:00",
+    "id": "572c9914-3323-4512-801a-0a380492700c",
+    "last_seen": "2026-10-15T13:25:11.800560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Meera",
+    "first_seen": "2026-10-15T13:25:11.800560+00:00",
+    "id": "5912f8ef-a49e-49b7-9042-3ade4d39cf33",
+    "last_seen": "2026-10-15T13:25:11.800560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local_program",
+    "first_seen": "2026-10-15T13:25:11.800560+00:00",
+    "id": "749dfb5b-54c1-492e-9614-d9ef9992c5a0",
+    "last_seen": "2026-10-15T13:25:11.800560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geospatial attributes",
+    "first_seen": "2026-10-15T13:25:11.800560+00:00",
+    "id": "b3175e5b-9685-42b8-a3ee-f2e129f97edb",
+    "last_seen": "2026-10-15T13:25:11.800560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm_id",
+    "first_seen": "2026-10-15T13:25:11.800560+00:00",
+    "id": "d3a9805c-8054-4406-a51a-a4d3b56d58c0",
+    "last_seen": "2026-10-15T13:25:11.800560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Reza",
+    "first_seen": "2026-10-15T13:25:11.796162+00:00",
+    "id": "76150a89-928e-4049-9fb0-d5e41df4a0d2",
+    "last_seen": "2026-10-15T13:25:11.796162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Cesium",
+    "first_seen": "2026-10-15T13:25:11.795824+00:00",
+    "id": "850eaff1-ca5a-4043-884b-43febfc91963",
+    "last_seen": "2026-10-15T13:25:11.795824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fuzzywuzzy",
+    "first_seen": "2026-10-15T13:25:11.795824+00:00",
+    "id": "fb940984-ac32-44cb-bcdd-0903c2ff30dc",
+    "last_seen": "2026-10-15T13:25:11.795824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "KAU",
+    "first_seen": "2026-10-15T13:25:11.794352+00:00",
+    "id": "47bd0864-40b0-4bc4-8cf2-dd4d34807bad",
+    "last_seen": "2026-10-15T13:25:11.794352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "King Abdulaziz University",
+    "first_seen": "2026-10-15T13:25:11.794352+00:00",
+    "id": "ce6fa6e0-e64a-40fe-b55b-6651e177215a",
+    "last_seen": "2026-10-15T13:25:11.794352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "http://127.0.0.1:9000",
+    "first_seen": "2026-10-15T13:25:11.792520+00:00",
+    "id": "2eb98e6d-7e30-4231-875e-0c430acaa848",
+    "last_seen": "2026-10-15T13:25:11.792520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": ".lyrx",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "0508d468-fa38-468e-bcc0-729a46402e9e",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "1688",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "366b0c00-5aef-451c-b282-ccbcfaa082a1",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Baladi",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "49b784e4-0b47-4c29-829e-f91d2282f869",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "465",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "5b0cb171-c26b-4518-81c5-798c8afca492",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "277",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "5e169194-b3f3-4185-921e-b5d85a116e07",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "country_of_origin",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "6fc4b582-7186-46c8-9307-5f8a293b1c00",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "1290",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "86e3432f-bbbc-4014-8351-c12b1adb9ac4",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ministry",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "953c1726-518b-4f7d-bc1c-3f3bc18a60af",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "724",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "96138f8d-aacb-451b-b524-e4772fcd95e6",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "uom",
+    "first_seen": "2026-10-15T13:25:11.790560+00:00",
+    "id": "bd0049c8-cf39-42a3-905a-b1b70696ff7e",
+    "last_seen": "2026-10-15T13:25:11.790560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CRM development",
+    "first_seen": "2026-10-15T13:25:11.786162+00:00",
+    "id": "983ad645-451f-4c8c-beae-73534afcd8c7",
+    "last_seen": "2026-10-15T13:25:11.786162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Tahir",
+    "first_seen": "2026-10-15T13:25:11.786162+00:00",
+    "id": "c7a48e85-38ad-47f7-a6d0-e6f15bafe071",
+    "last_seen": "2026-10-15T13:25:11.786162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NLTK",
+    "first_seen": "2026-10-15T13:25:11.785824+00:00",
+    "id": "cfe9de44-dedb-40d2-9fed-0192c20a39e8",
+    "last_seen": "2026-10-15T13:25:11.785824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "King Abdullah University of Science and Technology",
+    "first_seen": "2026-10-15T13:25:11.784352+00:00",
+    "id": "57e06525-df95-44fc-857b-6658c857b21a",
+    "last_seen": "2026-10-15T13:25:11.784352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YouTube",
+    "first_seen": "2026-10-15T13:25:11.782520+00:00",
+    "id": "3402a4c2-5074-4ec2-84c5-2f5799e17295",
+    "last_seen": "2026-10-15T13:25:11.782520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "technical learning",
+    "first_seen": "2026-10-15T13:25:11.782520+00:00",
+    "id": "37225b36-1c32-4762-9923-559e62b4d082",
+    "last_seen": "2026-10-15T13:25:11.782520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "http://127.0.0.1:8000/v1",
+    "first_seen": "2026-10-15T13:25:11.782520+00:00",
+    "id": "5ab41113-05b2-45c7-88b3-d88453e949fb",
+    "last_seen": "2026-10-15T13:25:11.782520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm number",
+    "first_seen": "2026-10-15T13:25:11.780560+00:00",
+    "id": "00aee588-3433-44d8-a4c1-9348554100e6",
+    "last_seen": "2026-10-15T13:25:11.780560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geodatabase",
+    "first_seen": "2026-10-15T13:25:11.780560+00:00",
+    "id": "a4af1f7e-7159-4aa9-bc14-68784524217f",
+    "last_seen": "2026-10-15T13:25:11.780560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "zero-padding",
+    "first_seen": "2026-10-15T13:25:11.780560+00:00",
+    "id": "feab4ac9-0890-468d-a183-b568bae0a4b1",
+    "last_seen": "2026-10-15T13:25:11.780560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Ahmed",
+    "first_seen": "2026-10-15T13:25:11.776162+00:00",
+    "id": "540936a3-1382-4ed8-acac-2fccb493e896",
+    "last_seen": "2026-10-15T13:25:11.776162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SvelteKit",
+    "first_seen": "2026-10-15T13:25:11.775824+00:00",
+    "id": "7fb325de-7e12-494e-9ac9-186a5af32073",
+    "last_seen": "2026-10-15T13:25:11.775824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "haversine",
+    "first_seen": "2026-10-15T13:25:11.775824+00:00",
+    "id": "d818579e-be72-42d0-a227-54a07b126009",
+    "last_seen": "2026-10-15T13:25:11.775824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "learning source",
+    "first_seen": "2026-10-15T13:25:11.772520+00:00",
+    "id": "280c4a78-ed8e-4adf-8d77-44580d2c362c",
+    "last_seen": "2026-10-15T13:25:11.772520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "OpenAI-compatible endpoint",
+    "first_seen": "2026-10-15T13:25:11.772520+00:00",
+    "id": "aa0f95f1-d1fe-44f8-b794-f169e45b3195",
+    "last_seen": "2026-10-15T13:25:11.772520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Medium",
+    "first_seen": "2026-10-15T13:25:11.772520+00:00",
+    "id": "f8a24675-395a-4598-bd19-23ecde0d7d07",
+    "last_seen": "2026-10-15T13:25:11.772520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "farm boundary",
+    "first_seen": "2026-10-15T13:25:11.770560+00:00",
+    "id": "2d9dea7e-e0ab-4847-95e9-b0665613730b",
+    "last_seen": "2026-10-15T13:25:11.770560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "polygon",
+    "first_seen": "2026-10-15T13:25:11.770560+00:00",
+    "id": "30d5dee2-8d7c-43de-a8f0-a0340066a57b",
+    "last_seen": "2026-10-15T13:25:11.770560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Neglected",
+    "first_seen": "2026-10-15T13:25:11.770560+00:00",
+    "id": "912b3336-3000-43b1-9010-32f766e22c8b",
+    "last_seen": "2026-10-15T13:25:11.770560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ADF",
+    "first_seen": "2026-10-15T13:25:11.770560+00:00",
+    "id": "d771d6b6-fd21-48f5-a335-994bebe871ea",
+    "last_seen": "2026-10-15T13:25:11.770560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "stakeholder",
+    "first_seen": "2026-10-15T13:25:11.766162+00:00",
+    "id": "a71237df-591b-4783-bfc4-036862f10408",
+    "last_seen": "2026-10-15T13:25:11.766162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Saad",
+    "first_seen": "2026-10-15T13:25:11.766162+00:00",
+    "id": "c8259e6a-660b-4815-8e72-f7430c8cba83",
+    "last_seen": "2026-10-15T13:25:11.766162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ultralytics",
+    "first_seen": "2026-10-15T13:25:11.765824+00:00",
+    "id": "00674a75-a174-41ef-a2f9-17780b63a521",
+    "last_seen": "2026-10-15T13:25:11.765824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Digital Twin",
+    "first_seen": "2026-10-15T13:25:11.765824+00:00",
+    "id": "d5e9f311-c6fe-413f-a29d-a5c744afa1ae",
+    "last_seen": "2026-10-15T13:25:11.765824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "port 9999",
+    "first_seen": "2026-10-15T13:25:11.762520+00:00",
+    "id": "b0990a98-b46c-47ad-a62d-8f28f8039958",
+    "last_seen": "2026-10-15T13:25:11.762520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model training",
+    "first_seen": "2026-10-15T13:25:11.761795+00:00",
+    "id": "26537d66-65f8-49e8-89d2-7b9d1a5c8e77",
+    "last_seen": "2026-10-15T13:25:11.761795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ingestion",
+    "first_seen": "2026-10-15T13:25:11.761795+00:00",
+    "id": "d3945105-b13a-4ec3-b426-99c89cceab7c",
+    "last_seen": "2026-10-15T13:25:11.761795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deployment",
+    "first_seen": "2026-10-15T13:25:11.761795+00:00",
+    "id": "fa63caad-923c-4503-b5b0-01fd6cc96c6c",
+    "last_seen": "2026-10-15T13:25:11.761795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pipeline",
+    "first_seen": "2026-10-15T13:25:11.761795+00:00",
+    "id": "fb3febf8-9edd-4cd5-89ad-9d055dbd37f5",
+    "last_seen": "2026-10-15T13:25:11.761795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Maha",
+    "first_seen": "2026-10-15T13:25:11.760560+00:00",
+    "id": "4add72eb-dedb-4db9-bda1-e042635aa3e2",
+    "last_seen": "2026-10-15T13:25:11.760560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "G2",
+    "first_seen": "2026-10-15T13:25:11.760560+00:00",
+    "id": "9b80eb7b-ae7f-4eb0-82c3-9f788b66272e",
+    "last_seen": "2026-10-15T13:25:11.760560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "G1",
+    "first_seen": "2026-10-15T13:25:11.760560+00:00",
+    "id": "b2410072-3d8c-4d02-81ab-87b71434a685",
+    "last_seen": "2026-10-15T13:25:11.760560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "satellite image automation",
+    "first_seen": "2026-10-15T13:25:11.756162+00:00",
+    "id": "5f13afca-dee8-4c3f-8e12-79da455dadc6",
+    "last_seen": "2026-10-15T13:25:11.756162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agricultural asset identification",
+    "first_seen": "2026-10-15T13:25:11.756162+00:00",
+    "id": "8917822f-d183-4ca4-bdbc-416fb488b855",
+    "last_seen": "2026-10-15T13:25:11.756162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure SDK",
+    "first_seen": "2026-10-15T13:25:11.755824+00:00",
+    "id": "4995c744-59dc-429b-a9fc-69a6bfedc781",
+    "last_seen": "2026-10-15T13:25:11.755824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Q1",
+    "first_seen": "2026-10-15T13:25:11.754352+00:00",
+    "id": "33c81994-9714-43da-b25b-00965c523e34",
+    "last_seen": "2026-10-15T13:25:11.754352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "reputable journals",
+    "first_seen": "2026-10-15T13:25:11.754352+00:00",
+    "id": "a4096f69-d257-4947-82d4-bf06fc825e66",
+    "last_seen": "2026-10-15T13:25:11.754352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Q2",
+    "first_seen": "2026-10-15T13:25:11.754352+00:00",
+    "id": "cf62abe2-4976-46ba-ac4d-78412f9f7269",
+    "last_seen": "2026-10-15T13:25:11.754352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "port 9000",
+    "first_seen": "2026-10-15T13:25:11.752520+00:00",
+    "id": "54494f56-5c1a-463c-8c5e-d02c492017ae",
+    "last_seen": "2026-10-15T13:25:11.752520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "scientific journals",
+    "first_seen": "2026-10-15T13:25:11.752520+00:00",
+    "id": "779fd468-3386-4a16-8741-91328da2153b",
+    "last_seen": "2026-10-15T13:25:11.752520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "papers",
+    "first_seen": "2026-10-15T13:25:11.752520+00:00",
+    "id": "fd1ddf47-13a5-4b77-bf7c-94cd25de2308",
+    "last_seen": "2026-10-15T13:25:11.752520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "fuzzy matching",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "1a8b8d50-224a-4561-ac54-8c6f2ffa1799",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product normalization",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "70508f6a-7725-4997-b19f-cd54a0650639",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "year_date",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "8a1d4185-f825-498d-b6b8-7deda34e6eb4",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NLP",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "9c914153-979b-4c55-93f8-f4aedf710e57",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GeoTIFF",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "e8504c72-11f0-49b2-9216-55406a57cf22",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Al-Qamra",
+    "first_seen": "2026-10-15T13:25:11.750560+00:00",
+    "id": "fe345819-7ef8-40cd-bb41-ad7eff637c24",
+    "last_seen": "2026-10-15T13:25:11.750560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "company project implementation",
+    "first_seen": "2026-10-15T13:25:11.744352+00:00",
+    "id": "3e221ec5-fcae-4df5-b726-eb9c9c54d67e",
+    "last_seen": "2026-10-15T13:25:11.744352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "port 8000",
+    "first_seen": "2026-10-15T13:25:11.742520+00:00",
+    "id": "225c3216-b845-473a-852f-37f56f4aee59",
+    "last_seen": "2026-10-15T13:25:11.742520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "solutions",
+    "first_seen": "2026-10-15T13:25:11.742520+00:00",
+    "id": "43e35bbd-8f21-40c0-aabe-e5fb3f8b83fb",
+    "last_seen": "2026-10-15T13:25:11.742520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "confidence",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "10208e03-4773-4c45-89e9-a474249d173c",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2020",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "2a6da91e-697f-40db-a4c5-7ee158daf015",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2012",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "4205a32b-1f77-4196-a62d-e921c95f6756",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Slowly Changing Dimension",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "4eabdda2-3705-4330-abd5-c789a8b1061f",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2019",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "52e03446-8d64-4f05-99d3-1dd0dd5a1951",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2021",
+    "first_seen": "2026-10-15T13:25:11.740560+00:00",
+    "id": "b1d1649c-532d-484a-9645-1a323bc2bfd0",
+    "last_seen": "2026-10-15T13:25:11.740560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "food producers",
+    "first_seen": "2026-10-15T13:25:11.736162+00:00",
+    "id": "2899f37f-b6a7-4f6b-9651-c11db1e51d6e",
+    "last_seen": "2026-10-15T13:25:11.736162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "retailers",
+    "first_seen": "2026-10-15T13:25:11.736162+00:00",
+    "id": "829c88b4-ea33-40fd-91d9-261504e26697",
+    "last_seen": "2026-10-15T13:25:11.736162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hypermarkets",
+    "first_seen": "2026-10-15T13:25:11.736162+00:00",
+    "id": "9c56df7c-7466-4b40-9279-03641f00285e",
+    "last_seen": "2026-10-15T13:25:11.736162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "distributors",
+    "first_seen": "2026-10-15T13:25:11.736162+00:00",
+    "id": "bad0cd45-1dff-4057-a4e0-37611820a678",
+    "last_seen": "2026-10-15T13:25:11.736162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "authentication device code",
+    "first_seen": "2026-10-15T13:25:11.735824+00:00",
+    "id": "33e3a62b-f700-41b4-bde1-3d7b3488f3d1",
+    "last_seen": "2026-10-15T13:25:11.735824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geometry assets",
+    "first_seen": "2026-10-15T13:25:11.735824+00:00",
+    "id": "63641fff-d04b-4cf2-a866-120acb2d9833",
+    "last_seen": "2026-10-15T13:25:11.735824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GeoJSON format",
+    "first_seen": "2026-10-15T13:25:11.735824+00:00",
+    "id": "a13de1bb-a8f1-465f-a491-8123e763a9e0",
+    "last_seen": "2026-10-15T13:25:11.735824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Prof. Dr. Sani Muhamad Isa, S.Si., M.Kom.",
+    "first_seen": "2026-10-15T13:25:11.734352+00:00",
+    "id": "94563fec-16be-4515-afbd-93117e98c4d6",
+    "last_seen": "2026-10-15T13:25:11.734352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Premium",
+    "first_seen": "2026-10-15T13:25:11.730560+00:00",
+    "id": "18b1a0d2-6c4f-4390-a42b-12ccceac14ae",
+    "last_seen": "2026-10-15T13:25:11.730560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multi-temporal images",
+    "first_seen": "2026-10-15T13:25:11.730560+00:00",
+    "id": "274a233c-953d-46de-9648-580ca6b57521",
+    "last_seen": "2026-10-15T13:25:11.730560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dim.farm",
+    "first_seen": "2026-10-15T13:25:11.730560+00:00",
+    "id": "7814f19e-b029-4f9e-bc23-1a291aa7734f",
+    "last_seen": "2026-10-15T13:25:11.730560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "years",
+    "first_seen": "2026-10-15T13:25:11.730560+00:00",
+    "id": "f0626c8f-0381-4ecc-a856-1d185ce42a2b",
+    "last_seen": "2026-10-15T13:25:11.730560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure",
+    "first_seen": "2026-10-15T13:25:11.726162+00:00",
+    "id": "d689d724-4b57-4033-b47a-313d77a9c83b",
+    "last_seen": "2026-10-15T13:25:11.726162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "port 1433",
+    "first_seen": "2026-10-15T13:25:11.725824+00:00",
+    "id": "3d932f04-ce04-4312-bf0f-bff091308433",
+    "last_seen": "2026-10-15T13:25:11.725824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "null geometry",
+    "first_seen": "2026-10-15T13:25:11.725824+00:00",
+    "id": "ab308208-ad91-43e0-9bc5-58a01c4c0e6c",
+    "last_seen": "2026-10-15T13:25:11.725824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "DuckDB",
+    "first_seen": "2026-10-15T13:25:11.725824+00:00",
+    "id": "fdef9c5e-aa8b-43df-8a17-1d8612b97ce0",
+    "last_seen": "2026-10-15T13:25:11.725824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "reviewer",
+    "first_seen": "2026-10-15T13:25:11.722520+00:00",
+    "id": "b72dcdaa-8b25-487a-9742-b1087e3ed746",
+    "last_seen": "2026-10-15T13:25:11.722520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "local language model",
+    "first_seen": "2026-10-15T13:25:11.722520+00:00",
+    "id": "eda86979-dd1a-4793-b7e6-7d5c96a4f212",
+    "last_seen": "2026-10-15T13:25:11.722520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar farm data system",
+    "first_seen": "2026-10-15T13:25:11.720560+00:00",
+    "id": "0732b57d-2577-4b8b-9431-22a3df07c0be",
+    "last_seen": "2026-10-15T13:25:11.720560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RFC 4180",
+    "first_seen": "2026-10-15T13:25:11.720560+00:00",
+    "id": "92ce9b52-1022-40f8-a683-b653ef68eb8c",
+    "last_seen": "2026-10-15T13:25:11.720560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "QATAR_2026_02_C050_PLE",
+    "first_seen": "2026-10-15T13:25:11.720560+00:00",
+    "id": "a15bf4f6-0783-42d8-8bc4-51bf2d12b80b",
+    "last_seen": "2026-10-15T13:25:11.720560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RiyadhDoha",
+    "first_seen": "2026-10-15T13:25:11.720560+00:00",
+    "id": "b07ce20f-152d-4825-a3fb-5d2d88577d38",
+    "last_seen": "2026-10-15T13:25:11.720560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "work policy",
+    "first_seen": "2026-10-15T13:25:11.716162+00:00",
+    "id": "2d8ae9de-8e0c-4fa6-b07b-05d225b5c946",
+    "last_seen": "2026-10-15T13:25:11.716162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ETL/ELT",
+    "first_seen": "2026-10-15T13:25:11.716162+00:00",
+    "id": "62b2eb28-f0af-43d3-be83-ae5009f1e8a3",
+    "last_seen": "2026-10-15T13:25:11.716162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "contract",
+    "first_seen": "2026-10-15T13:25:11.716162+00:00",
+    "id": "80bc86ed-babb-4f1a-b933-c56fba5de580",
+    "last_seen": "2026-10-15T13:25:11.716162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "error",
+    "first_seen": "2026-10-15T13:25:11.715824+00:00",
+    "id": "15d54e97-f2ec-461c-a89d-4f25df0c40bd",
+    "last_seen": "2026-10-15T13:25:11.715824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pandas",
+    "first_seen": "2026-10-15T13:25:11.715824+00:00",
+    "id": "623376c9-7edb-4754-bb53-e223698041b9",
+    "last_seen": "2026-10-15T13:25:11.715824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Entity annotation not found",
+    "first_seen": "2026-10-15T13:25:11.715824+00:00",
+    "id": "98e6e4d5-cf02-46d4-b28b-25d54528aaf7",
+    "last_seen": "2026-10-15T13:25:11.715824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "unixODBC",
+    "first_seen": "2026-10-15T13:25:11.715824+00:00",
+    "id": "a66920d5-a4c8-4849-b0b2-4bf173ca2ae1",
+    "last_seen": "2026-10-15T13:25:11.715824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "thesis proposal",
+    "first_seen": "2026-10-15T13:25:11.714352+00:00",
+    "id": "b217910e-ba3e-496c-9b1b-16c09baf19fc",
+    "last_seen": "2026-10-15T13:25:11.714352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Coder",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "0d68039d-5ed2-4c3b-aaca-acc9cc4a3c3a",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Auditor",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "5d5b5072-4416-44b1-9a47-74011b688f49",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Tester",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "6433bbfe-c2d2-4743-8339-8ec98973e99f",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Scriber",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "6eff883c-65b3-411f-b38c-2ce8b05087a5",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "General Worker",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "7bfc7733-a820-4f42-a331-76534d30a435",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Architect",
+    "first_seen": "2026-10-15T13:25:11.712520+00:00",
+    "id": "fcefe2a0-edef-424f-ae06-688a0d315372",
+    "last_seen": "2026-10-15T13:25:11.712520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Bogor",
+    "first_seen": "2026-10-15T13:25:11.711795+00:00",
+    "id": "bcaf04fc-2067-4092-a6a3-fb98a867d121",
+    "last_seen": "2026-10-15T13:25:11.711795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Red Meat",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "0fc9bf98-84cd-478b-8ce1-93557ae39c7c",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Dairy",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "1a99cef8-81c5-4d7c-9e6d-9949e5466b1b",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Google Earth",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "6bbd3424-5e3b-4d7c-92a1-8cba53eb0ee4",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Widam",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "7a30afe9-3a5c-4863-8023-062a0e5d360f",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "YYYY-MM-DD",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "87c3ac2c-b851-494b-a3e2-e4b3b89df4aa",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Vegetables",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "87f9bb20-b260-4170-8124-dfd0c1150d3f",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Poultry",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "98b46c7a-8d00-4f43-94e3-5b3055880166",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Fish and Seafood",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "af487320-be6f-4420-b989-51a77f4377ca",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "product.csv",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "ceb09159-c0f0-4e64-aa23-846d81be438f",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Google Maps",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "d4b642a4-f707-4369-b220-c0a226bfbf6b",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Fruits",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "e158bda7-8216-47af-bef0-b31de4c60a53",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "QATAR_2022_04_C020_ORT",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "e6f8b06c-416e-4589-952e-76da73681766",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Eggs",
+    "first_seen": "2026-10-15T13:25:11.710560+00:00",
+    "id": "f4c6392e-8bd3-4df8-8ae4-acbeeba22e5f",
+    "last_seen": "2026-10-15T13:25:11.710560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "National Food Security Qatar",
+    "first_seen": "2026-10-15T13:25:11.706162+00:00",
+    "id": "730ee806-7175-4e3d-9952-f904acc208c9",
+    "last_seen": "2026-10-15T13:25:11.706162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "theft",
+    "first_seen": "2026-10-15T13:25:11.706162+00:00",
+    "id": "a11c5344-f109-44b6-846a-f80aab366865",
+    "last_seen": "2026-10-15T13:25:11.706162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "police",
+    "first_seen": "2026-10-15T13:25:11.706162+00:00",
+    "id": "be4c019c-a7f1-42e6-be08-0294d22a49da",
+    "last_seen": "2026-10-15T13:25:11.706162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "endpoint",
+    "first_seen": "2026-10-15T13:25:11.705824+00:00",
+    "id": "a972a075-1da0-491b-93f7-92b2d766b7bc",
+    "last_seen": "2026-10-15T13:25:11.705824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "shell scripting",
+    "first_seen": "2026-10-15T13:25:11.705824+00:00",
+    "id": "be08daa9-2d88-42c8-b1b4-e968baf1def9",
+    "last_seen": "2026-10-15T13:25:11.705824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "environment variables",
+    "first_seen": "2026-10-15T13:25:11.705824+00:00",
+    "id": "eb0c0550-9604-41a6-a58b-2f32013ea0fb",
+    "last_seen": "2026-10-15T13:25:11.705824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ODBC Driver 18",
+    "first_seen": "2026-10-15T13:25:11.705824+00:00",
+    "id": "fc217215-f7bd-4130-ad0b-335f94c74433",
+    "last_seen": "2026-10-15T13:25:11.705824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multi-agent architecture",
+    "first_seen": "2026-10-15T13:25:11.702520+00:00",
+    "id": "3115922c-d512-4c01-9191-641616e76743",
+    "last_seen": "2026-10-15T13:25:11.702520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CRS transformation",
+    "first_seen": "2026-10-15T13:25:11.700560+00:00",
+    "id": "7a4657f1-e2db-4394-a623-4a75442449cc",
+    "last_seen": "2026-10-15T13:25:11.700560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geographic coordinates",
+    "first_seen": "2026-10-15T13:25:11.700560+00:00",
+    "id": "8216c3a3-acc0-4d42-ba19-359a304ae7c0",
+    "last_seen": "2026-10-15T13:25:11.700560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Baladna",
+    "first_seen": "2026-10-15T13:25:11.700560+00:00",
+    "id": "88f29359-4a9c-4825-b530-5a2a35ca41c2",
+    "last_seen": "2026-10-15T13:25:11.700560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CGISRASTER",
+    "first_seen": "2026-10-15T13:25:11.700560+00:00",
+    "id": "ed4a943f-61be-4aae-b872-828ac531907d",
+    "last_seen": "2026-10-15T13:25:11.700560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "embassy",
+    "first_seen": "2026-10-15T13:25:11.696162+00:00",
+    "id": "2a33e6db-2d6e-4cea-87c5-d9e09ef1704f",
+    "last_seen": "2026-10-15T13:25:11.696162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "document legalization",
+    "first_seen": "2026-10-15T13:25:11.696162+00:00",
+    "id": "7c704cf5-4beb-4098-a788-342a51889a98",
+    "last_seen": "2026-10-15T13:25:11.696162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "attestation",
+    "first_seen": "2026-10-15T13:25:11.696162+00:00",
+    "id": "9194bc15-f25d-48f4-a277-f86e4b10d87f",
+    "last_seen": "2026-10-15T13:25:11.696162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "version 9.2",
+    "first_seen": "2026-10-15T13:25:11.695824+00:00",
+    "id": "06b667ae-7f8c-4d0b-8764-d39e4f8fe679",
+    "last_seen": "2026-10-15T13:25:11.695824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Microsoft Dataverse API",
+    "first_seen": "2026-10-15T13:25:11.695824+00:00",
+    "id": "59759764-206a-4f1b-81ab-68c316623819",
+    "last_seen": "2026-10-15T13:25:11.695824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "TypeScript",
+    "first_seen": "2026-10-15T13:25:11.695824+00:00",
+    "id": "6901817e-d887-4c27-b45a-223adc7732c1",
+    "last_seen": "2026-10-15T13:25:11.695824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "JavaScript",
+    "first_seen": "2026-10-15T13:25:11.695824+00:00",
+    "id": "99d1589c-76fb-4709-926e-a327d1f88563",
+    "last_seen": "2026-10-15T13:25:11.695824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "HYT00",
+    "first_seen": "2026-10-15T13:25:11.695824+00:00",
+    "id": "9e8ff3d2-7e6b-42bd-b32c-ab33b9386ed8",
+    "last_seen": "2026-10-15T13:25:11.695824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Master's program",
+    "first_seen": "2026-10-15T13:25:11.694352+00:00",
+    "id": "a9c86b5b-667a-4915-9417-2070363fd61f",
+    "last_seen": "2026-10-15T13:25:11.694352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "three-semester system",
+    "first_seen": "2026-10-15T13:25:11.694352+00:00",
+    "id": "eab623a9-cce4-444f-94de-49ce9f04ac45",
+    "last_seen": "2026-10-15T13:25:11.694352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SIM",
+    "first_seen": "2026-10-15T13:25:11.692520+00:00",
+    "id": "999affca-113b-44f4-b13a-95004212c249",
+    "last_seen": "2026-10-15T13:25:11.692520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "phone number",
+    "first_seen": "2026-10-15T13:25:11.692520+00:00",
+    "id": "9ebea81c-f9e3-4e12-af0e-a56ab138fd72",
+    "last_seen": "2026-10-15T13:25:11.692520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "autonomous research",
+    "first_seen": "2026-10-15T13:25:11.692520+00:00",
+    "id": "bd0f5d79-3ef8-43d8-9c06-8d3753e1461d",
+    "last_seen": "2026-10-15T13:25:11.692520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Digmi",
+    "first_seen": "2026-10-15T13:25:11.691795+00:00",
+    "id": "8d5c6523-88fa-4b15-9fde-77f23a63cb9c",
+    "last_seen": "2026-10-15T13:25:11.691795+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "WGS 1984 UTM Zone 9N",
+    "first_seen": "2026-10-15T13:25:11.690560+00:00",
+    "id": "a9c34b35-8cab-4cf9-a06a-8221362d6951",
+    "last_seen": "2026-10-15T13:25:11.690560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ArcGIS ImageServer",
+    "first_seen": "2026-10-15T13:25:11.690560+00:00",
+    "id": "e899e78e-6791-4bdb-9c2c-c01bd64af674",
+    "last_seen": "2026-10-15T13:25:11.690560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "geospatial analytics",
+    "first_seen": "2026-10-15T13:25:11.686162+00:00",
+    "id": "56a99058-532c-4c3d-bba3-e75c92262a51",
+    "last_seen": "2026-10-15T13:25:11.686162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agricultural information systems",
+    "first_seen": "2026-10-15T13:25:11.686162+00:00",
+    "id": "b9e8819c-4df1-46be-9f83-2b412d909987",
+    "last_seen": "2026-10-15T13:25:11.686162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "company leadership",
+    "first_seen": "2026-10-15T13:25:11.686162+00:00",
+    "id": "e017bb29-b30b-4e1c-878c-f7d23e647926",
+    "last_seen": "2026-10-15T13:25:11.686162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PowerShell",
+    "first_seen": "2026-10-15T13:25:11.685824+00:00",
+    "id": "37f5621c-551b-48e0-a638-b1432a42864b",
+    "last_seen": "2026-10-15T13:25:11.685824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PDF export",
+    "first_seen": "2026-10-15T13:25:11.685824+00:00",
+    "id": "7291b75b-59eb-4e2c-a0dc-90d239d6c5c0",
+    "last_seen": "2026-10-15T13:25:11.685824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "scientific literature",
+    "first_seen": "2026-10-15T13:25:11.682520+00:00",
+    "id": "4ff553c5-4840-4849-b128-1ebde25b7322",
+    "last_seen": "2026-10-15T13:25:11.682520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "EPSG:2932",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "393eaad4-b0e6-4acf-bac2-e1840fb56221",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RGB",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "9291f4c3-41e9-48be-a16b-6a5c03797f02",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "NIR",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "a9085cbe-2668-42fc-8208-7183b5deaba0",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Athba",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "aae03eb8-de58-4866-a704-def3f5982cd7",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multispectral images",
+    "first_seen": "2026-10-15T13:25:11.680560+00:00",
+    "id": "e2c8f24d-50f3-44a6-9357-94d8b517bd2d",
+    "last_seen": "2026-10-15T13:25:11.680560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SQL",
+    "first_seen": "2026-10-15T13:25:11.675824+00:00",
+    "id": "788a12e1-cf40-4635-ba43-13f473228749",
+    "last_seen": "2026-10-15T13:25:11.675824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agricultural assets",
+    "first_seen": "2026-10-15T13:25:11.675824+00:00",
+    "id": "9e43754c-fd6b-413d-ad3f-3039486bd50d",
+    "last_seen": "2026-10-15T13:25:11.675824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MTI",
+    "first_seen": "2026-10-15T13:25:11.674352+00:00",
+    "id": "f700576f-383d-411a-9d7a-402cb2525274",
+    "last_seen": "2026-10-15T13:25:11.674352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Telegram",
+    "first_seen": "2026-10-15T13:25:11.672520+00:00",
+    "id": "18137106-4713-450f-bce3-7518272c831c",
+    "last_seen": "2026-10-15T13:25:11.672520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "academic",
+    "first_seen": "2026-10-15T13:25:11.672520+00:00",
+    "id": "56a4415b-7c5a-45f5-85ac-c42f180e6946",
+    "last_seen": "2026-10-15T13:25:11.672520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "professional",
+    "first_seen": "2026-10-15T13:25:11.672520+00:00",
+    "id": "85efefea-4adf-45fb-8fc6-1111c033877b",
+    "last_seen": "2026-10-15T13:25:11.672520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "notification channel",
+    "first_seen": "2026-10-15T13:25:11.672520+00:00",
+    "id": "e2f2886f-a5f0-48bb-897f-50b4596435d3",
+    "last_seen": "2026-10-15T13:25:11.672520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "0.5 meters per pixel",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "080cb788-7acf-49f5-bb9d-05b423629ef0",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "spatial resolution",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "0d6d2bda-9217-41a0-ae59-97718b7d39d7",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qatar National Food Security Data Integration",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "319c288c-133f-4e12-aafb-be7d12e5437e",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pl_orchestration",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "6bd83ba3-6128-40fc-84c4-bf583d829681",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "web app",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "8342e1f9-6eb4-4594-b4f1-c14bb4d12606",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PDF",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "adc78026-79c4-46b4-b3b7-5087ce016858",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Agrico",
+    "first_seen": "2026-10-15T13:25:11.670560+00:00",
+    "id": "bf5785f3-ec8e-4a5c-97fc-ea3dc4e272b6",
+    "last_seen": "2026-10-15T13:25:11.670560+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Hassad Food",
+    "first_seen": "2026-10-15T13:25:11.666162+00:00",
+    "id": "bae07e1b-7c7b-4201-bef6-cb0e57ae7a58",
+    "last_seen": "2026-10-15T13:25:11.666162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "physical presence",
+    "first_seen": "2026-10-15T13:25:11.666162+00:00",
+    "id": "c5de62e2-ee25-4440-a819-3472d5a03125",
+    "last_seen": "2026-10-15T13:25:11.666162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "country",
+    "first_seen": "2026-10-15T13:25:11.666162+00:00",
+    "id": "c791a31e-2772-4027-88f9-32241b7a8ac8",
+    "last_seen": "2026-10-15T13:25:11.666162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "company policy",
+    "first_seen": "2026-10-15T13:25:11.666162+00:00",
+    "id": "e63b1b32-99d9-42a0-88ff-dc20cad653fa",
+    "last_seen": "2026-10-15T13:25:11.666162+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ELT",
+    "first_seen": "2026-10-15T13:25:11.665824+00:00",
+    "id": "5829e572-210b-411c-b75b-884c46baee16",
+    "last_seen": "2026-10-15T13:25:11.665824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "vector map",
+    "first_seen": "2026-10-15T13:25:11.665824+00:00",
+    "id": "c82dfc1a-8f32-44b5-ad8d-890c752279e7",
+    "last_seen": "2026-10-15T13:25:11.665824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ETL",
+    "first_seen": "2026-10-15T13:25:11.665824+00:00",
+    "id": "f40e6b88-ba30-40d6-96b3-658b46310d1b",
+    "last_seen": "2026-10-15T13:25:11.665824+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "research portfolio",
+    "first_seen": "2026-10-15T13:25:11.664352+00:00",
+    "id": "7f64f62b-259f-4902-aa9b-16075ea9af8e",
+    "last_seen": "2026-10-15T13:25:11.664352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Computer Science",
+    "first_seen": "2026-10-15T13:25:11.664352+00:00",
+    "id": "9642d192-7c11-472d-80de-8fcbc83a834c",
+    "last_seen": "2026-10-15T13:25:11.664352+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "tasks",
+    "first_seen": "2026-10-15T13:25:11.662520+00:00",
+    "id": "132ff7c0-f3f5-42ad-bb60-76d8d0e6f0a4",
+    "last_seen": "2026-10-15T13:25:11.662520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "agent",
+    "first_seen": "2026-10-15T13:25:11.662520+00:00",
+    "id": "42e251a6-3f43-47da-a87f-64b438c48825",
+    "last_seen": "2026-10-15T13:25:11.662520+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "mlx-community/Qwen3-8B-4bit",
+    "first_seen": "2026-10-15T00:00:00.070000+00:00",
+    "id": "a3b82442-d473-42d4-af0a-4e8a6d070719",
+    "last_seen": "2026-10-15T00:00:00.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Changi Airport Terminal 4",
+    "first_seen": "2026-10-07T00:00:00.030000+00:00",
+    "id": "c94a590c-478e-4157-a593-4009115039b3",
+    "last_seen": "2026-10-07T00:00:00.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Apple Store",
+    "first_seen": "2026-10-01T00:00:00.070000+00:00",
+    "id": "0bd0c403-b8ef-4f56-a313-7ffc7314ba51",
+    "last_seen": "2026-10-01T00:00:00.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Marina Bay Sands",
+    "first_seen": "2026-10-01T00:00:00.070000+00:00",
+    "id": "da3736e8-4314-49ad-b458-0b12bef918d2",
+    "last_seen": "2026-10-01T00:00:00.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "API",
+    "first_seen": "2026-08-01T00:00:00.100000+00:00",
+    "id": "b55a88b3-4a62-4372-bfbf-afc4ae3b8bd9",
+    "last_seen": "2026-08-01T00:00:00.100000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "RAM",
+    "first_seen": "2026-01-01T00:00:00.100000+00:00",
+    "id": "622a69fd-d5ea-47df-9ad7-eab7ee399235",
+    "last_seen": "2026-01-01T00:00:00.100000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "employment contract",
+    "first_seen": "2025-12-01T00:00:00.010000+00:00",
+    "id": "9396025b-e6c7-4418-ac5c-c6c4ecc4f885",
+    "last_seen": "2025-12-01T00:00:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "December 2025",
+    "first_seen": "2025-12-01T00:00:00.010000+00:00",
+    "id": "d92cf21a-a4d5-4cbd-aa35-0970474d96ec",
+    "last_seen": "2025-12-01T00:00:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "master's studies",
+    "first_seen": "2025-09-01T00:00:00.020000+00:00",
+    "id": "f2025775-d5dc-4bd0-bc7e-7bd89c9b2858",
+    "last_seen": "2025-09-01T00:00:00.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "work permit",
+    "first_seen": "2025-01-01T00:00:00.160000+00:00",
+    "id": "31ee490a-14d4-4258-a7e7-344845cb56c7",
+    "last_seen": "2025-01-01T00:00:00.160000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  }
+]
