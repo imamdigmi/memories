@@ -3,32 +3,40 @@
     "canonical_name": "user",
     "first_seen": "2025-09-01T00:00:00.020000+00:00",
     "id": "c3242127-0682-4a29-b1db-081bfb4d77d6",
-    "last_seen": "2026-10-19T14:01:51+00:00",
-    "mention_count": 423,
+    "last_seen": "2026-10-20T07:25:11+00:00",
+    "mention_count": 459,
     "metadata": {}
   },
   {
     "canonical_name": "Hermes Agent",
     "first_seen": "2026-10-16T04:12:22.132510+00:00",
     "id": "f270649f-f299-4095-b568-c147b69d0e90",
-    "last_seen": "2026-10-19T13:40:40.060000+00:00",
-    "mention_count": 59,
+    "last_seen": "2026-10-19T14:32:00.020000+00:00",
+    "mention_count": 66,
     "metadata": {}
   },
   {
     "canonical_name": "Telegram",
     "first_seen": "2026-10-16T04:12:22.222510+00:00",
     "id": "0c292a56-d60b-4e58-a655-a23f2bc66840",
-    "last_seen": "2026-10-18T02:00:00.020000+00:00",
-    "mention_count": 32,
+    "last_seen": "2026-10-19T14:19:59+00:00",
+    "mention_count": 33,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "automap",
+    "first_seen": "2026-10-19T00:00:00+00:00",
+    "id": "93a1c43e-ec9f-4031-b2d4-4c680e23db3c",
+    "last_seen": "2026-10-19T15:56:23.020000+00:00",
+    "mention_count": 30,
     "metadata": {}
   },
   {
     "canonical_name": "product code",
     "first_seen": "2026-10-16T04:12:22.696835+00:00",
     "id": "5d4dfdc1-0de7-42ba-86c0-11a8127eeafc",
-    "last_seen": "2026-10-19T14:01:51.010000+00:00",
-    "mention_count": 25,
+    "last_seen": "2026-10-19T15:33:05.100000+00:00",
+    "mention_count": 30,
     "metadata": {}
   },
   {
@@ -40,19 +48,19 @@
     "metadata": {}
   },
   {
+    "canonical_name": "Arabic",
+    "first_seen": "2026-10-17T00:00:00+00:00",
+    "id": "e717f7b7-7d2d-42dd-9949-67b4ff945c42",
+    "last_seen": "2026-10-19T13:43:33.140000+00:00",
+    "mention_count": 18,
+    "metadata": {}
+  },
+  {
     "canonical_name": "Unlimited-OCR",
     "first_seen": "2026-10-17T17:00:00.030000+00:00",
     "id": "6d11e611-58be-43f3-ab56-0c56b19125c0",
     "last_seen": "2026-10-17T17:00:00.030000+00:00",
     "mention_count": 18,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Arabic",
-    "first_seen": "2026-10-17T00:00:00+00:00",
-    "id": "e717f7b7-7d2d-42dd-9949-67b4ff945c42",
-    "last_seen": "2026-10-19T13:43:33.140000+00:00",
-    "mention_count": 17,
     "metadata": {}
   },
   {
@@ -64,18 +72,26 @@
     "metadata": {}
   },
   {
+    "canonical_name": "macOS",
+    "first_seen": "2026-10-16T04:12:25.235908+00:00",
+    "id": "7528d984-81b7-4767-afa0-20210dc9df7f",
+    "last_seen": "2026-10-19T17:00:00.010000+00:00",
+    "mention_count": 15,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "assistant",
+    "first_seen": "2026-10-17T17:00:00.010000+00:00",
+    "id": "9c27faad-c754-407d-8232-a5506750e69d",
+    "last_seen": "2026-10-19T15:33:05.110000+00:00",
+    "mention_count": 15,
+    "metadata": {}
+  },
+  {
     "canonical_name": "Unsloth",
     "first_seen": "2026-10-19T00:00:00.010000+00:00",
     "id": "d0c775e0-9a49-4934-be42-987884e27693",
     "last_seen": "2026-10-19T13:43:33.140000+00:00",
-    "mention_count": 14,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "macOS",
-    "first_seen": "2026-10-16T04:12:25.235908+00:00",
-    "id": "7528d984-81b7-4767-afa0-20210dc9df7f",
-    "last_seen": "2026-10-19T13:43:33+00:00",
     "mention_count": 14,
     "metadata": {}
   },
@@ -96,14 +112,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "automap",
-    "first_seen": "2026-10-19T00:00:00+00:00",
-    "id": "93a1c43e-ec9f-4031-b2d4-4c680e23db3c",
-    "last_seen": "2026-10-19T13:11:41.050000+00:00",
-    "mention_count": 13,
-    "metadata": {}
-  },
-  {
     "canonical_name": "tesis",
     "first_seen": "2026-02-01T00:00:00.080000+00:00",
     "id": "8926f560-edb5-4adb-a021-99416868368b",
@@ -120,11 +128,27 @@
     "metadata": {}
   },
   {
-    "canonical_name": "assistant",
-    "first_seen": "2026-10-17T17:00:00.010000+00:00",
-    "id": "9c27faad-c754-407d-8232-a5506750e69d",
-    "last_seen": "2026-10-19T13:48:34.060000+00:00",
+    "canonical_name": "CSV",
+    "first_seen": "2026-10-16T04:12:22.716835+00:00",
+    "id": "58f5df88-cdd7-4459-9bb8-99594b1c3940",
+    "last_seen": "2026-10-19T15:33:05.100000+00:00",
     "mention_count": 12,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GitHub",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "7c33e3a0-b6ef-4b04-b485-728f785b25e2",
+    "last_seen": "2026-10-19T14:19:59.030000+00:00",
+    "mention_count": 12,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Azure SQL",
+    "first_seen": "2026-10-16T04:12:25.225908+00:00",
+    "id": "0dc98014-7b15-44f8-bac9-722e9d7affdd",
+    "last_seen": "2026-10-19T14:01:51.020000+00:00",
+    "mention_count": 11,
     "metadata": {}
   },
   {
@@ -133,22 +157,6 @@
     "id": "669abd86-a344-4614-8246-56b60f7e169b",
     "last_seen": "2026-10-19T13:11:41+00:00",
     "mention_count": 11,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "GitHub",
-    "first_seen": "2026-10-16T04:12:22.172510+00:00",
-    "id": "7c33e3a0-b6ef-4b04-b485-728f785b25e2",
-    "last_seen": "2026-10-18T17:00:00.180000+00:00",
-    "mention_count": 11,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Azure SQL",
-    "first_seen": "2026-10-16T04:12:25.225908+00:00",
-    "id": "0dc98014-7b15-44f8-bac9-722e9d7affdd",
-    "last_seen": "2026-10-19T14:01:51.020000+00:00",
-    "mention_count": 10,
     "metadata": {}
   },
   {
@@ -200,14 +208,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "CSV",
-    "first_seen": "2026-10-16T04:12:22.716835+00:00",
-    "id": "58f5df88-cdd7-4459-9bb8-99594b1c3940",
-    "last_seen": "2026-10-19T13:47:05.090000+00:00",
-    "mention_count": 9,
-    "metadata": {}
-  },
-  {
     "canonical_name": "python-telegram-bot",
     "first_seen": "2026-10-17T00:00:00.020000+00:00",
     "id": "e8af9b85-dddf-4172-aabc-5ff7669314c1",
@@ -221,6 +221,46 @@
     "id": "4e97d3d4-1af7-4036-8198-e49598998585",
     "last_seen": "2026-10-17T00:00:00.010000+00:00",
     "mention_count": 9,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dataset",
+    "first_seen": "2026-10-19T13:10:31+00:00",
+    "id": "0459638b-a11d-44fe-ac7f-3365ffd0de79",
+    "last_seen": "2026-10-19T15:33:05.110000+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "curate_product_pilot.py",
+    "first_seen": "2026-10-18T17:00:00+00:00",
+    "id": "9ccb4b0b-3099-4932-80f6-de2e0e04ede4",
+    "last_seen": "2026-10-19T14:16:22.030000+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "threshold",
+    "first_seen": "2026-10-19T13:18:04.070000+00:00",
+    "id": "ee59566a-bd88-4ae6-a974-cd2f905d243c",
+    "last_seen": "2026-10-19T14:16:14.040000+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Vegetables",
+    "first_seen": "2026-10-19T13:36:15.010000+00:00",
+    "id": "0392c1cf-9ffa-47dd-8e8f-5e2a89b1e8a8",
+    "last_seen": "2026-10-19T13:48:34.040000+00:00",
+    "mention_count": 8,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Seafood",
+    "first_seen": "2026-10-19T13:36:15.010000+00:00",
+    "id": "2579eed7-74ee-4ece-a483-a03c4178fb3b",
+    "last_seen": "2026-10-19T13:48:34.040000+00:00",
+    "mention_count": 8,
     "metadata": {}
   },
   {
@@ -264,26 +304,10 @@
     "metadata": {}
   },
   {
-    "canonical_name": "threshold",
-    "first_seen": "2026-10-19T13:18:04.070000+00:00",
-    "id": "ee59566a-bd88-4ae6-a974-cd2f905d243c",
-    "last_seen": "2026-10-19T13:48:34.100000+00:00",
-    "mention_count": 7,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Vegetables",
-    "first_seen": "2026-10-19T13:36:15.010000+00:00",
-    "id": "0392c1cf-9ffa-47dd-8e8f-5e2a89b1e8a8",
-    "last_seen": "2026-10-19T13:48:34.040000+00:00",
-    "mention_count": 7,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Seafood",
-    "first_seen": "2026-10-19T13:36:15.010000+00:00",
-    "id": "2579eed7-74ee-4ece-a483-a03c4178fb3b",
-    "last_seen": "2026-10-19T13:48:34.040000+00:00",
+    "canonical_name": "embedding",
+    "first_seen": "2026-10-19T13:18:04.090000+00:00",
+    "id": "aa582b02-376b-4ca8-91aa-7ce4d49259e9",
+    "last_seen": "2026-10-19T15:33:05.100000+00:00",
     "mention_count": 7,
     "metadata": {}
   },
@@ -328,10 +352,42 @@
     "metadata": {}
   },
   {
+    "canonical_name": "approach #2",
+    "first_seen": "2026-10-18T07:59:13.010000+00:00",
+    "id": "3506a9af-767f-477b-ad7a-340a8c24dd4e",
+    "last_seen": "2026-10-19T15:33:05.020000+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "automated-product-taxonomy-mapping",
+    "first_seen": "2026-10-19T14:29:04+00:00",
+    "id": "824fa202-a0b1-4c7d-9579-b3a1c7722747",
+    "last_seen": "2026-10-19T14:32:35+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
     "canonical_name": "pilot",
     "first_seen": "2026-10-19T13:40:40.020000+00:00",
     "id": "5fb7b56d-bc4d-4a96-b691-d9fa6a86ecf9",
-    "last_seen": "2026-10-19T14:01:51.030000+00:00",
+    "last_seen": "2026-10-19T14:16:14.070000+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qwen3-Embedding-0.6B",
+    "first_seen": "2026-10-19T13:40:15.030000+00:00",
+    "id": "08c6ba83-2383-4939-9302-59ebd2328b1e",
+    "last_seen": "2026-10-19T13:48:34.020000+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "multilingual-e5-small",
+    "first_seen": "2026-10-19T13:40:15.030000+00:00",
+    "id": "f7dd0db0-80a5-4a08-b7d1-ec48d787c07c",
+    "last_seen": "2026-10-19T13:48:34.020000+00:00",
     "mention_count": 6,
     "metadata": {}
   },
@@ -340,14 +396,6 @@
     "first_seen": "2026-10-19T13:11:41.140000+00:00",
     "id": "8ccbaaef-d066-4d2b-969a-6ceeed553f17",
     "last_seen": "2026-10-19T13:48:34+00:00",
-    "mention_count": 6,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "dataset",
-    "first_seen": "2026-10-19T13:10:31+00:00",
-    "id": "0459638b-a11d-44fe-ac7f-3365ffd0de79",
-    "last_seen": "2026-10-19T13:40:40.090000+00:00",
     "mention_count": 6,
     "metadata": {}
   },
@@ -392,26 +440,58 @@
     "metadata": {}
   },
   {
-    "canonical_name": "embedding",
-    "first_seen": "2026-10-19T13:18:04.090000+00:00",
-    "id": "aa582b02-376b-4ca8-91aa-7ce4d49259e9",
-    "last_seen": "2026-10-19T14:01:51.030000+00:00",
+    "canonical_name": "similarity",
+    "first_seen": "2026-10-19T13:22:00+00:00",
+    "id": "7e4d1519-5274-4c45-a4ff-9efdee841afe",
+    "last_seen": "2026-10-19T15:56:23.010000+00:00",
     "mention_count": 5,
     "metadata": {}
   },
   {
-    "canonical_name": "Qwen3-Embedding-0.6B",
+    "canonical_name": "CSV review",
+    "first_seen": "2026-10-19T13:47:05.050000+00:00",
+    "id": "e34458b3-a0bd-4812-a3c2-3765e76d62a3",
+    "last_seen": "2026-10-19T15:33:05.030000+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Obsidian",
+    "first_seen": "2026-10-16T04:12:22.202510+00:00",
+    "id": "6d599c72-19fc-4be8-94d2-668e4b4ca974",
+    "last_seen": "2026-10-19T14:29:04.040000+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "hermes-settings-backup",
+    "first_seen": "2026-10-17T04:33:21.050000+00:00",
+    "id": "adedcb25-95d4-4a27-b278-9e2bc0c0cd90",
+    "last_seen": "2026-10-19T14:19:59.020000+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "snapshot",
+    "first_seen": "2026-10-19T13:42:57.010000+00:00",
+    "id": "f3a283a7-8e6d-44e3-b9f6-2e03c37aa0fa",
+    "last_seen": "2026-10-19T14:05:49.040000+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "character TF-IDF",
     "first_seen": "2026-10-19T13:40:15.030000+00:00",
-    "id": "08c6ba83-2383-4939-9302-59ebd2328b1e",
+    "id": "85485d11-b0bc-417c-8b68-c395189613bb",
     "last_seen": "2026-10-19T13:48:34.020000+00:00",
     "mention_count": 5,
     "metadata": {}
   },
   {
-    "canonical_name": "multilingual-e5-small",
-    "first_seen": "2026-10-19T13:40:15.030000+00:00",
-    "id": "f7dd0db0-80a5-4a08-b7d1-ec48d787c07c",
-    "last_seen": "2026-10-19T13:48:34.020000+00:00",
+    "canonical_name": "converter",
+    "first_seen": "2026-10-19T13:11:41.180000+00:00",
+    "id": "5bda7b90-c985-49c2-bcf5-0309f98685db",
+    "last_seen": "2026-10-19T13:47:05.090000+00:00",
     "mention_count": 5,
     "metadata": {}
   },
@@ -520,26 +600,42 @@
     "metadata": {}
   },
   {
+    "canonical_name": "PDF",
+    "first_seen": "2026-10-16T04:12:22.676835+00:00",
+    "id": "817f37b0-ac39-4faf-a944-d9c7b43da8ec",
+    "last_seen": "2026-10-20T07:25:11+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "E5",
+    "first_seen": "2026-10-18T17:00:00+00:00",
+    "id": "e0ad9255-5285-4fb9-ba3e-940ee1b9db28",
+    "last_seen": "2026-10-19T15:56:23.010000+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kanban",
+    "first_seen": "2026-10-18T08:18:12+00:00",
+    "id": "c1335cf3-23de-434e-837c-e7c866646693",
+    "last_seen": "2026-10-19T14:32:00.020000+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "decision model",
+    "first_seen": "2026-10-19T13:10:31+00:00",
+    "id": "b6e5c387-292d-43e8-befc-b26d591fa0dc",
+    "last_seen": "2026-10-19T14:29:04.020000+00:00",
+    "mention_count": 4,
+    "metadata": {}
+  },
+  {
     "canonical_name": "klasifikasi produk",
     "first_seen": "2026-10-19T13:22:00.030000+00:00",
     "id": "5a07daaa-2c4b-48af-867e-b36de8cd7f10",
     "last_seen": "2026-10-19T13:48:34.050000+00:00",
-    "mention_count": 4,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "character TF-IDF",
-    "first_seen": "2026-10-19T13:40:15.030000+00:00",
-    "id": "85485d11-b0bc-417c-8b68-c395189613bb",
-    "last_seen": "2026-10-19T13:48:34.020000+00:00",
-    "mention_count": 4,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "converter",
-    "first_seen": "2026-10-19T13:11:41.180000+00:00",
-    "id": "5bda7b90-c985-49c2-bcf5-0309f98685db",
-    "last_seen": "2026-10-19T13:47:05.090000+00:00",
     "mention_count": 4,
     "metadata": {}
   },
@@ -800,18 +896,74 @@
     "metadata": {}
   },
   {
-    "canonical_name": "CSV review",
-    "first_seen": "2026-10-19T13:47:05.050000+00:00",
-    "id": "e34458b3-a0bd-4812-a3c2-3765e76d62a3",
-    "last_seen": "2026-10-19T14:01:51.030000+00:00",
+    "canonical_name": "scriber",
+    "first_seen": "2026-10-19T14:29:04.010000+00:00",
+    "id": "65f77d57-ce00-410d-9cf1-46432b4e0ce7",
+    "last_seen": "2026-10-19T15:56:23.040000+00:00",
     "mention_count": 3,
     "metadata": {}
   },
   {
-    "canonical_name": "snapshot",
-    "first_seen": "2026-10-19T13:42:57.010000+00:00",
-    "id": "f3a283a7-8e6d-44e3-b9f6-2e03c37aa0fa",
-    "last_seen": "2026-10-19T14:01:51.020000+00:00",
+    "canonical_name": "view",
+    "first_seen": "2026-10-19T12:45:03+00:00",
+    "id": "fe11b82c-af21-4f85-97ec-b56105833d65",
+    "last_seen": "2026-10-19T15:56:23.040000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dataset training",
+    "first_seen": "2026-10-19T13:22:00.030000+00:00",
+    "id": "393918e7-0fb2-47f3-81de-73708c88c99d",
+    "last_seen": "2026-10-19T15:33:05.060000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "run-002",
+    "first_seen": "2026-10-19T14:16:14.060000+00:00",
+    "id": "86958f67-4226-40d6-a169-e0ee3e0c3350",
+    "last_seen": "2026-10-19T14:32:35+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "t_3b142cd2",
+    "first_seen": "2026-10-19T14:29:04.040000+00:00",
+    "id": "dc4cc6ed-37d5-40c9-8c04-1253dda66c77",
+    "last_seen": "2026-10-19T14:32:00.010000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "backup_hermes_to_github.sh",
+    "first_seen": "2026-10-19T14:19:59.010000+00:00",
+    "id": "8bc17aec-0214-4217-869c-44d8cbbe2625",
+    "last_seen": "2026-10-19T14:19:59.010000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Qwen",
+    "first_seen": "2026-10-18T17:00:00+00:00",
+    "id": "09cdc472-1934-48ba-8f55-118979f0be9b",
+    "last_seen": "2026-10-19T14:16:22.030000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kalibrasi",
+    "first_seen": "2026-10-19T13:22:00.050000+00:00",
+    "id": "603dbaf2-d5f6-4b3b-85bf-65f47d200c67",
+    "last_seen": "2026-10-19T14:05:49.040000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MPS",
+    "first_seen": "2026-10-18T04:03:24.010000+00:00",
+    "id": "0d975faf-5bfc-40c2-a173-88e0e94afad4",
+    "last_seen": "2026-10-19T14:05:49.010000+00:00",
     "mention_count": 3,
     "metadata": {}
   },
@@ -880,14 +1032,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "decision model",
-    "first_seen": "2026-10-19T13:10:31+00:00",
-    "id": "b6e5c387-292d-43e8-befc-b26d591fa0dc",
-    "last_seen": "2026-10-19T13:11:41.080000+00:00",
-    "mention_count": 3,
-    "metadata": {}
-  },
-  {
     "canonical_name": "Shamal",
     "first_seen": "2025-06-24T00:00:00.040000+00:00",
     "id": "97336451-8199-47a8-8f48-e8db3c4d886f",
@@ -944,10 +1088,10 @@
     "metadata": {}
   },
   {
-    "canonical_name": "kanban",
-    "first_seen": "2026-10-18T08:18:12+00:00",
-    "id": "c1335cf3-23de-434e-837c-e7c866646693",
-    "last_seen": "2026-10-18T08:18:12+00:00",
+    "canonical_name": "export_product_snapshot.py",
+    "first_seen": "2026-10-18T17:00:00.060000+00:00",
+    "id": "65c41fda-f3ad-4cfc-bddc-bd556a77f634",
+    "last_seen": "2026-10-18T17:00:00.060000+00:00",
     "mention_count": 3,
     "metadata": {}
   },
@@ -964,14 +1108,6 @@
     "first_seen": "2026-10-16T04:14:00.825692+00:00",
     "id": "12987d67-d6df-4b2f-ae6b-32fcc2a7dbbf",
     "last_seen": "2026-10-18T07:18:51+00:00",
-    "mention_count": 3,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "PDF",
-    "first_seen": "2026-10-16T04:12:22.676835+00:00",
-    "id": "817f37b0-ac39-4faf-a944-d9c7b43da8ec",
-    "last_seen": "2026-10-18T04:03:24.020000+00:00",
     "mention_count": 3,
     "metadata": {}
   },
@@ -1060,14 +1196,6 @@
     "first_seen": "2026-10-16T04:12:25.215908+00:00",
     "id": "68326d8e-dba5-419e-b50f-f47404f29de7",
     "last_seen": "2026-10-17T06:35:10+00:00",
-    "mention_count": 3,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Obsidian",
-    "first_seen": "2026-10-16T04:12:22.202510+00:00",
-    "id": "6d599c72-19fc-4be8-94d2-668e4b4ca974",
-    "last_seen": "2026-10-17T04:33:21+00:00",
     "mention_count": 3,
     "metadata": {}
   },
@@ -1240,6 +1368,158 @@
     "metadata": {}
   },
   {
+    "canonical_name": ".venv",
+    "first_seen": "2026-10-18T17:00:00.020000+00:00",
+    "id": "c0629ef4-07a0-4c5c-8b5f-e29690af9d29",
+    "last_seen": "2026-10-19T17:00:00.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Homebrew",
+    "first_seen": "2026-10-17T06:35:10.020000+00:00",
+    "id": "1ab060cb-7b54-4ca4-b698-e57597a16125",
+    "last_seen": "2026-10-19T17:00:00.010000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "DYLD_LIBRARY_PATH",
+    "first_seen": "2026-10-19T17:00:00.010000+00:00",
+    "id": "3dd8ea33-5bde-4972-b057-c3162e32bbfd",
+    "last_seen": "2026-10-19T17:00:00.010000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "WeasyPrint",
+    "first_seen": "2026-10-19T17:00:00.010000+00:00",
+    "id": "512e6ff9-71f1-44c6-90b3-9156152ee9dd",
+    "last_seen": "2026-10-19T17:00:00.010000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "distribusi similarity",
+    "first_seen": "2026-10-19T15:33:05.040000+00:00",
+    "id": "76ebd39c-85fd-46bf-a669-d516b5e2873d",
+    "last_seen": "2026-10-19T15:56:23.050000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model training",
+    "first_seen": "2026-10-16T04:12:24.720428+00:00",
+    "id": "ef4e05fa-cceb-4b18-bfc5-dd1d9cfd5d44",
+    "last_seen": "2026-10-19T15:33:05.110000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Margherita",
+    "first_seen": "2026-10-19T15:33:05.050000+00:00",
+    "id": "4a4dc46a-3d6b-4985-8ac8-33d0d2305a45",
+    "last_seen": "2026-10-19T15:33:05.050000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "model",
+    "first_seen": "2026-10-19T13:18:04.050000+00:00",
+    "id": "fdb4b2c5-2021-4a69-aa21-2a169837d1e1",
+    "last_seen": "2026-10-19T15:33:05.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AGENTS.md",
+    "first_seen": "2026-10-19T14:32:00.010000+00:00",
+    "id": "08f6a6a2-5618-427e-b8c2-b0bf9b5c810a",
+    "last_seen": "2026-10-19T14:32:35.030000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "approach #1",
+    "first_seen": "2026-10-18T07:59:13.010000+00:00",
+    "id": "5ba96285-cf2d-4ffd-946f-87eac8aae02a",
+    "last_seen": "2026-10-19T14:32:35.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "CONTEXT.md",
+    "first_seen": "2026-10-19T14:32:00+00:00",
+    "id": "85f4588c-3830-4e99-8d4f-67dcae9166e5",
+    "last_seen": "2026-10-19T14:32:35.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "ADR",
+    "first_seen": "2026-10-19T14:32:00+00:00",
+    "id": "debd8c17-3458-464a-a35e-c3be63fa1175",
+    "last_seen": "2026-10-19T14:32:35.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Process/005",
+    "first_seen": "2026-10-19T14:32:00+00:00",
+    "id": "4eeb34fc-4431-4069-a565-e4bcb241a08f",
+    "last_seen": "2026-10-19T14:32:35+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GPG",
+    "first_seen": "2026-10-17T04:33:21.040000+00:00",
+    "id": "41e6aa03-c9d6-4862-907a-f529eb732bec",
+    "last_seen": "2026-10-19T14:19:59.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Imam Digmi",
+    "first_seen": "2026-10-16T04:12:24.690428+00:00",
+    "id": "452f268d-ca85-46ef-96a9-695e15d69dc5",
+    "last_seen": "2026-10-19T14:19:59+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "spreadsheet",
+    "first_seen": "2026-10-19T13:47:05.060000+00:00",
+    "id": "f19f57c7-acb5-40b3-b5fd-516b7648a891",
+    "last_seen": "2026-10-19T14:16:14.030000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "review_decision",
+    "first_seen": "2026-10-19T13:47:05.050000+00:00",
+    "id": "47f55d54-708d-4f57-ac61-5a76a771c746",
+    "last_seen": "2026-10-19T14:16:14.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "preferred_record",
+    "first_seen": "2026-10-19T13:47:05.050000+00:00",
+    "id": "7e52254b-5bd6-4c5e-b8e9-9b2ceb5d9586",
+    "last_seen": "2026-10-19T14:16:14.020000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "calibration pairs",
+    "first_seen": "2026-10-19T14:16:04+00:00",
+    "id": "dd26e079-b1b0-4e5a-8656-4a1e768ce27d",
+    "last_seen": "2026-10-19T14:16:04+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
     "canonical_name": "CLI",
     "first_seen": "2026-10-19T13:11:41.140000+00:00",
     "id": "7a7a05ef-e48e-4485-86cc-63ba751fe698",
@@ -1272,14 +1552,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "dataset training",
-    "first_seen": "2026-10-19T13:22:00.030000+00:00",
-    "id": "393918e7-0fb2-47f3-81de-73708c88c99d",
-    "last_seen": "2026-10-19T13:47:05.080000+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
     "canonical_name": "vector database",
     "first_seen": "2026-10-19T13:43:33.060000+00:00",
     "id": "7b790439-d211-447e-8fbc-db14b3a3323d",
@@ -1292,14 +1564,6 @@
     "first_seen": "2026-10-19T13:11:41.100000+00:00",
     "id": "abb93a4d-9fdd-44ee-b2c1-39012fffffc7",
     "last_seen": "2026-10-19T13:47:05.030000+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "view",
-    "first_seen": "2026-10-19T12:45:03+00:00",
-    "id": "fe11b82c-af21-4f85-97ec-b56105833d65",
-    "last_seen": "2026-10-19T13:47:05.010000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
@@ -1320,17 +1584,17 @@
     "metadata": {}
   },
   {
-    "canonical_name": "MPS",
-    "first_seen": "2026-10-18T04:03:24.010000+00:00",
-    "id": "0d975faf-5bfc-40c2-a173-88e0e94afad4",
-    "last_seen": "2026-10-19T13:43:33.120000+00:00",
+    "canonical_name": "Arabic product deduplication",
+    "first_seen": "2026-10-19T13:43:33.100000+00:00",
+    "id": "13e4763f-1196-48c8-9a1d-f2a2866d1410",
+    "last_seen": "2026-10-19T13:43:33.100000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
   {
-    "canonical_name": "Arabic product deduplication",
+    "canonical_name": "Sentence Transformers",
     "first_seen": "2026-10-19T13:43:33.100000+00:00",
-    "id": "13e4763f-1196-48c8-9a1d-f2a2866d1410",
+    "id": "de228082-3ebd-4207-a753-20bafce1dd41",
     "last_seen": "2026-10-19T13:43:33.100000+00:00",
     "mention_count": 2,
     "metadata": {}
@@ -1380,14 +1644,6 @@
     "first_seen": "2026-10-19T13:40:40.060000+00:00",
     "id": "e2482e4b-e1a4-44cc-87b0-9f2ccfdff06f",
     "last_seen": "2026-10-19T13:42:57.040000+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "kalibrasi",
-    "first_seen": "2026-10-19T13:22:00.050000+00:00",
-    "id": "603dbaf2-d5f6-4b3b-85bf-65f47d200c67",
-    "last_seen": "2026-10-19T13:42:57.010000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
@@ -1708,14 +1964,6 @@
     "first_seen": "2026-10-16T04:14:00.855412+00:00",
     "id": "2bad6e5f-0128-4e3d-a16c-a9a9cf45ef0c",
     "last_seen": "2026-10-17T04:33:21.070000+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "hermes-settings-backup",
-    "first_seen": "2026-10-17T04:33:21.050000+00:00",
-    "id": "adedcb25-95d4-4a27-b278-9e2bc0c0cd90",
-    "last_seen": "2026-10-17T04:33:21.050000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
@@ -2208,10 +2456,250 @@
     "metadata": {}
   },
   {
+    "canonical_name": "mawared-farm-commitment-letter-2027.2.py",
+    "first_seen": "2026-10-20T07:25:11+00:00",
+    "id": "2055b1f5-dfe0-4814-8ff2-46e8ea520e30",
+    "last_seen": "2026-10-20T07:25:11+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "commitment letter",
+    "first_seen": "2026-10-20T07:25:11+00:00",
+    "id": "6d9490fd-78ed-42e0-9d00-1fbecff08150",
+    "last_seen": "2026-10-20T07:25:11+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "shell profile",
+    "first_seen": "2026-10-19T17:00:00.020000+00:00",
+    "id": "e3cd62ae-57dd-4575-9fc0-31fe4526b7b0",
+    "last_seen": "2026-10-19T17:00:00.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "libgobject-2.0-0",
+    "first_seen": "2026-10-19T17:00:00.010000+00:00",
+    "id": "449c6289-08f4-4972-bfe7-c607af5b3f91",
+    "last_seen": "2026-10-19T17:00:00.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "kelompok kemasan",
+    "first_seen": "2026-10-19T15:56:23.050000+00:00",
+    "id": "333a17ac-d06a-49e0-924f-f0f461a6ed69",
+    "last_seen": "2026-10-19T15:56:23.050000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "training",
+    "first_seen": "2026-10-19T15:56:23.050000+00:00",
+    "id": "45460154-32fd-4dce-9ac4-d3be5a435c6b",
+    "last_seen": "2026-10-19T15:56:23.050000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "parser konservatif",
+    "first_seen": "2026-10-19T15:56:23.050000+00:00",
+    "id": "ef943f6e-77b1-4101-90d3-75c6d8c78061",
+    "last_seen": "2026-10-19T15:56:23.050000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "profile-002",
+    "first_seen": "2026-10-19T15:56:23.020000+00:00",
+    "id": "4c5bb1ff-5682-48ae-a24f-9c029babcf6a",
+    "last_seen": "2026-10-19T15:56:23.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pizza",
+    "first_seen": "2026-10-19T15:56:23.010000+00:00",
+    "id": "3d43f8c8-2133-437a-a118-09aa20dea3c3",
+    "last_seen": "2026-10-19T15:56:23.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Pepperoni",
+    "first_seen": "2026-10-19T15:33:05.070000+00:00",
+    "id": "e7310122-fdc1-4dbd-8519-be163b3f2855",
+    "last_seen": "2026-10-19T15:33:05.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "2010060305",
+    "first_seen": "2026-10-19T15:33:05.070000+00:00",
+    "id": "f988abf4-df86-429e-872e-52b7c8d97418",
+    "last_seen": "2026-10-19T15:33:05.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "AL FORNO",
+    "first_seen": "2026-10-19T15:33:05.050000+00:00",
+    "id": "dd97f807-a688-4155-9c4b-9452c98852b5",
+    "last_seen": "2026-10-19T15:33:05.050000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Pizza Diavola",
+    "first_seen": "2026-10-19T15:33:05.050000+00:00",
+    "id": "f6fbe59a-5005-47e4-95c1-5220445260f7",
+    "last_seen": "2026-10-19T15:33:05.050000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "pemetaan produk",
+    "first_seen": "2026-10-19T15:33:05.030000+00:00",
+    "id": "7f61817d-13bd-4200-8461-4722e3ddd48e",
+    "last_seen": "2026-10-19T15:33:05.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PRD",
+    "first_seen": "2026-10-19T14:32:35.020000+00:00",
+    "id": "affc65ee-69b2-43c1-95e7-e91125a8c4c3",
+    "last_seen": "2026-10-19T14:32:35.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "PRD v3.1",
+    "first_seen": "2026-10-19T14:32:00+00:00",
+    "id": "4cdd1964-5d4f-4287-8480-bf9e1a338b79",
+    "last_seen": "2026-10-19T14:32:00+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "review_calibration.csv",
+    "first_seen": "2026-10-19T14:16:14.060000+00:00",
+    "id": "c74319fb-b49f-45c0-9dc0-43ad8cc40b38",
+    "last_seen": "2026-10-19T14:29:04+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "rsync",
+    "first_seen": "2026-10-19T14:19:59.040000+00:00",
+    "id": "3e3e0577-0fbc-4fd5-a6c6-4c4e20a3742c",
+    "last_seen": "2026-10-19T14:19:59.040000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "git",
+    "first_seen": "2026-10-19T14:19:59.010000+00:00",
+    "id": "93af95c0-726a-4ec7-8920-2e15e18b3b1b",
+    "last_seen": "2026-10-19T14:19:59.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Digmi Lab",
+    "first_seen": "2026-10-19T14:19:59+00:00",
+    "id": "71e9938b-1887-4cb4-b282-c1fe1140dde7",
+    "last_seen": "2026-10-19T14:19:59+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "run-001",
+    "first_seen": "2026-10-18T17:00:00.010000+00:00",
+    "id": "43b3afed-d8a1-4d26-ba0a-14323096dc66",
+    "last_seen": "2026-10-19T14:16:22.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "lexical",
+    "first_seen": "2026-10-19T14:16:22.030000+00:00",
+    "id": "a89d87c3-192d-4eba-ad12-579d50308d36",
+    "last_seen": "2026-10-19T14:16:22.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "UTF-8",
+    "first_seen": "2026-10-19T14:16:04.140000+00:00",
+    "id": "c7b1c12b-f7db-40c0-a8ca-0fa14540c51c",
+    "last_seen": "2026-10-19T14:16:14.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "review_notes",
+    "first_seen": "2026-10-19T14:16:04.130000+00:00",
+    "id": "45ed4810-1efe-441b-89eb-896de9c6b3e2",
+    "last_seen": "2026-10-19T14:16:14.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "label_review",
+    "first_seen": "2026-10-19T14:16:04.130000+00:00",
+    "id": "e9c065b4-7cd0-4b4e-8862-6114d59eda30",
+    "last_seen": "2026-10-19T14:16:14.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "code review",
+    "first_seen": "2026-10-19T14:16:04.050000+00:00",
+    "id": "05353872-04ad-43af-aea3-241e28ebf0d6",
+    "last_seen": "2026-10-19T14:16:04.050000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "data curation",
+    "first_seen": "2026-10-19T14:16:04.010000+00:00",
+    "id": "16c01c1c-003d-4387-b759-22ea38902457",
+    "last_seen": "2026-10-19T14:16:04.010000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "MPS lokal",
+    "first_seen": "2026-10-19T14:05:49.040000+00:00",
+    "id": "7393da39-04d6-4985-81cb-6fc30861b411",
+    "last_seen": "2026-10-19T14:05:49.040000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "subagent delegation",
+    "first_seen": "2026-10-19T14:04:38.030000+00:00",
+    "id": "01032f0c-22da-422b-8b9a-9d3ed277c7c7",
+    "last_seen": "2026-10-19T14:04:38.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
     "canonical_name": "snapshot pilot",
     "first_seen": "2026-10-19T14:01:51+00:00",
     "id": "895e94d7-12a5-438f-976f-69282e9cc327",
     "last_seen": "2026-10-19T14:01:51+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "deleg_2a97e744",
+    "first_seen": "2026-10-19T13:56:10.030000+00:00",
+    "id": "5fcb730c-5473-4d41-8838-ac6864874f53",
+    "last_seen": "2026-10-19T13:56:10.030000+00:00",
     "mention_count": 1,
     "metadata": {}
   },
@@ -2304,38 +2792,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "spreadsheet",
-    "first_seen": "2026-10-19T13:47:05.060000+00:00",
-    "id": "f19f57c7-acb5-40b3-b5fd-516b7648a891",
-    "last_seen": "2026-10-19T13:47:05.060000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "review_decision",
-    "first_seen": "2026-10-19T13:47:05.050000+00:00",
-    "id": "47f55d54-708d-4f57-ac61-5a76a771c746",
-    "last_seen": "2026-10-19T13:47:05.050000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "preferred_record",
-    "first_seen": "2026-10-19T13:47:05.050000+00:00",
-    "id": "7e52254b-5bd6-4c5e-b8e9-9b2ceb5d9586",
-    "last_seen": "2026-10-19T13:47:05.050000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "similarity",
-    "first_seen": "2026-10-19T13:22:00+00:00",
-    "id": "7e4d1519-5274-4c45-a4ff-9efdee841afe",
-    "last_seen": "2026-10-19T13:43:33.190000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
     "canonical_name": "shortlist",
     "first_seen": "2026-10-19T13:43:33.170000+00:00",
     "id": "8004fbc2-e3ee-42a3-93eb-ad0602e4d2e6",
@@ -2380,14 +2836,6 @@
     "first_seen": "2026-10-19T13:43:33.120000+00:00",
     "id": "55288b8e-e30d-465c-b0c4-55a0bf7b1b38",
     "last_seen": "2026-10-19T13:43:33.120000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Sentence Transformers",
-    "first_seen": "2026-10-19T13:43:33.100000+00:00",
-    "id": "de228082-3ebd-4207-a753-20bafce1dd41",
-    "last_seen": "2026-10-19T13:43:33.100000+00:00",
     "mention_count": 1,
     "metadata": {}
   },
@@ -2779,14 +3227,6 @@
     "canonical_name": "nama Inggris",
     "first_seen": "2026-10-19T13:18:04.050000+00:00",
     "id": "4e201647-921b-4211-ab45-88585a45cc36",
-    "last_seen": "2026-10-19T13:18:04.050000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "model",
-    "first_seen": "2026-10-19T13:18:04.050000+00:00",
-    "id": "fdb4b2c5-2021-4a69-aa21-2a169837d1e1",
     "last_seen": "2026-10-19T13:18:04.050000+00:00",
     "mention_count": 1,
     "metadata": {}
@@ -3216,10 +3656,82 @@
     "metadata": {}
   },
   {
+    "canonical_name": "report.html",
+    "first_seen": "2026-10-19T00:00:00.030000+00:00",
+    "id": "2ba63b57-11f4-4e2d-bda1-9300ca8eb187",
+    "last_seen": "2026-10-19T00:00:00.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "repeated_families.csv",
+    "first_seen": "2026-10-19T00:00:00.030000+00:00",
+    "id": "4e4f2082-0737-4744-9290-4117f954c69d",
+    "last_seen": "2026-10-19T00:00:00.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "within_code_profiles.csv",
+    "first_seen": "2026-10-19T00:00:00.030000+00:00",
+    "id": "952cd335-bcec-4003-bbf2-ebe7f4751133",
+    "last_seen": "2026-10-19T00:00:00.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "profiling",
+    "first_seen": "2026-10-19T00:00:00+00:00",
+    "id": "517a115c-9a20-4d4f-ad23-d2680282426c",
+    "last_seen": "2026-10-19T00:00:00+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "candidate generation",
+    "first_seen": "2026-10-18T17:00:00.080000+00:00",
+    "id": "9f451a6f-dcd1-44a1-acd6-0175cbd79593",
+    "last_seen": "2026-10-18T17:00:00.080000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "provenance",
+    "first_seen": "2026-10-18T17:00:00.070000+00:00",
+    "id": "a1151b58-e262-4100-a459-8500b9dabe53",
+    "last_seen": "2026-10-18T17:00:00.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "neural models",
+    "first_seen": "2026-10-18T17:00:00.070000+00:00",
+    "id": "f0292031-0de8-4b3f-b68c-6d0ae9c4b2f7",
+    "last_seen": "2026-10-18T17:00:00.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "cleanup",
+    "first_seen": "2026-10-18T17:00:00.060000+00:00",
+    "id": "fc0e7264-740c-4fcb-bf2b-1ca7571888c8",
+    "last_seen": "2026-10-18T17:00:00.060000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
     "canonical_name": "API key",
     "first_seen": "2026-10-18T17:00:00.030000+00:00",
     "id": "3c3d8931-1ca2-4f43-9822-535b73d4b424",
     "last_seen": "2026-10-18T17:00:00.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "torch",
+    "first_seen": "2026-10-18T17:00:00.020000+00:00",
+    "id": "1f0af90d-7cdc-46b0-bab2-2e9ba1789295",
+    "last_seen": "2026-10-18T17:00:00.020000+00:00",
     "mention_count": 1,
     "metadata": {}
   },
@@ -3292,22 +3804,6 @@
     "first_seen": "2026-10-18T07:59:13.020000+00:00",
     "id": "39643949-9c5d-47d6-ba1d-976d48a37333",
     "last_seen": "2026-10-18T07:59:13.020000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "approach #2",
-    "first_seen": "2026-10-18T07:59:13.010000+00:00",
-    "id": "3506a9af-767f-477b-ad7a-340a8c24dd4e",
-    "last_seen": "2026-10-18T07:59:13.010000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "approach #1",
-    "first_seen": "2026-10-18T07:59:13.010000+00:00",
-    "id": "5ba96285-cf2d-4ffd-946f-87eac8aae02a",
-    "last_seen": "2026-10-18T07:59:13.010000+00:00",
     "mention_count": 1,
     "metadata": {}
   },
@@ -3808,14 +4304,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "Homebrew",
-    "first_seen": "2026-10-17T06:35:10.020000+00:00",
-    "id": "1ab060cb-7b54-4ca4-b698-e57597a16125",
-    "last_seen": "2026-10-17T06:35:10.020000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
     "canonical_name": "dbo.watermark",
     "first_seen": "2026-10-17T06:35:10.020000+00:00",
     "id": "730f2b89-9e3b-455c-a793-340098c9ab23",
@@ -3859,14 +4347,6 @@
     "canonical_name": "password manager",
     "first_seen": "2026-10-17T04:33:21.040000+00:00",
     "id": "183f1331-3721-4566-b680-a0920a2011d5",
-    "last_seen": "2026-10-17T04:33:21.040000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "GPG",
-    "first_seen": "2026-10-17T04:33:21.040000+00:00",
-    "id": "41e6aa03-c9d6-4862-907a-f529eb732bec",
     "last_seen": "2026-10-17T04:33:21.040000+00:00",
     "mention_count": 1,
     "metadata": {}
@@ -5472,26 +5952,10 @@
     "metadata": {}
   },
   {
-    "canonical_name": "model training",
-    "first_seen": "2026-10-16T04:12:24.720428+00:00",
-    "id": "ef4e05fa-cceb-4b18-bfc5-dd1d9cfd5d44",
-    "last_seen": "2026-10-16T04:12:24.720428+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
     "canonical_name": "Bogor",
     "first_seen": "2026-10-16T04:12:24.700428+00:00",
     "id": "dde6de03-1ffb-4fed-9424-6d360c1bb416",
     "last_seen": "2026-10-16T04:12:24.700428+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Imam Digmi",
-    "first_seen": "2026-10-16T04:12:24.690428+00:00",
-    "id": "452f268d-ca85-46ef-96a9-695e15d69dc5",
-    "last_seen": "2026-10-16T04:12:24.690428+00:00",
     "mention_count": 1,
     "metadata": {}
   },
