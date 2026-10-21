@@ -3,8 +3,8 @@
     "canonical_name": "user",
     "first_seen": "2025-09-01T00:00:00.020000+00:00",
     "id": "c3242127-0682-4a29-b1db-081bfb4d77d6",
-    "last_seen": "2026-10-20T07:25:11+00:00",
-    "mention_count": 459,
+    "last_seen": "2026-10-21T11:58:50.100000+00:00",
+    "mention_count": 464,
     "metadata": {}
   },
   {
@@ -19,7 +19,7 @@
     "canonical_name": "Telegram",
     "first_seen": "2026-10-16T04:12:22.222510+00:00",
     "id": "0c292a56-d60b-4e58-a655-a23f2bc66840",
-    "last_seen": "2026-10-19T14:19:59+00:00",
+    "last_seen": "2026-10-21T11:58:50.030000+00:00",
     "mention_count": 33,
     "metadata": {}
   },
@@ -88,6 +88,14 @@
     "metadata": {}
   },
   {
+    "canonical_name": "GitHub",
+    "first_seen": "2026-10-16T04:12:22.172510+00:00",
+    "id": "7c33e3a0-b6ef-4b04-b485-728f785b25e2",
+    "last_seen": "2026-10-21T11:58:50.100000+00:00",
+    "mention_count": 14,
+    "metadata": {}
+  },
+  {
     "canonical_name": "Unsloth",
     "first_seen": "2026-10-19T00:00:00.010000+00:00",
     "id": "d0c775e0-9a49-4934-be42-987884e27693",
@@ -132,14 +140,6 @@
     "first_seen": "2026-10-16T04:12:22.716835+00:00",
     "id": "58f5df88-cdd7-4459-9bb8-99594b1c3940",
     "last_seen": "2026-10-19T15:33:05.100000+00:00",
-    "mention_count": 12,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "GitHub",
-    "first_seen": "2026-10-16T04:12:22.172510+00:00",
-    "id": "7c33e3a0-b6ef-4b04-b485-728f785b25e2",
-    "last_seen": "2026-10-19T14:19:59.030000+00:00",
     "mention_count": 12,
     "metadata": {}
   },
@@ -352,6 +352,14 @@
     "metadata": {}
   },
   {
+    "canonical_name": "chezmoi",
+    "first_seen": "2026-10-16T17:00:00+00:00",
+    "id": "77351bf2-05a6-4747-87f3-8725e330304d",
+    "last_seen": "2026-10-21T11:58:50.090000+00:00",
+    "mention_count": 6,
+    "metadata": {}
+  },
+  {
     "canonical_name": "approach #2",
     "first_seen": "2026-10-18T07:59:13.010000+00:00",
     "id": "3506a9af-767f-477b-ad7a-340a8c24dd4e",
@@ -437,6 +445,22 @@
     "id": "42ab02b1-c795-4aa9-8295-abedb98d6934",
     "last_seen": "2026-10-16T04:14:00.826289+00:00",
     "mention_count": 6,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "GPG",
+    "first_seen": "2026-10-17T04:33:21.040000+00:00",
+    "id": "41e6aa03-c9d6-4862-907a-f529eb732bec",
+    "last_seen": "2026-10-21T11:58:50.100000+00:00",
+    "mention_count": 5,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "dotfiles",
+    "first_seen": "2026-10-16T17:00:00+00:00",
+    "id": "e88add92-7d4a-4662-bc5a-d8207dd1f841",
+    "last_seen": "2026-10-21T11:58:50.090000+00:00",
+    "mention_count": 5,
     "metadata": {}
   },
   {
@@ -572,14 +596,6 @@
     "first_seen": "2026-10-16T17:00:00.040000+00:00",
     "id": "3a0ca118-135d-4d7e-b9d1-0b7f06730389",
     "last_seen": "2026-10-16T17:00:00.040000+00:00",
-    "mention_count": 5,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "chezmoi",
-    "first_seen": "2026-10-16T17:00:00+00:00",
-    "id": "77351bf2-05a6-4747-87f3-8725e330304d",
-    "last_seen": "2026-10-16T17:00:00+00:00",
     "mention_count": 5,
     "metadata": {}
   },
@@ -832,14 +848,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "dotfiles",
-    "first_seen": "2026-10-16T17:00:00+00:00",
-    "id": "e88add92-7d4a-4662-bc5a-d8207dd1f841",
-    "last_seen": "2026-10-16T17:00:00+00:00",
-    "mention_count": 4,
-    "metadata": {}
-  },
-  {
     "canonical_name": "Mac mini",
     "first_seen": "2026-10-16T04:14:00.835094+00:00",
     "id": "4879d007-3469-46f8-8fcc-2521bef52c72",
@@ -893,6 +901,30 @@
     "id": "04530ddc-9102-460c-839c-29f4abba14b0",
     "last_seen": "2025-01-01T00:00:00.120000+00:00",
     "mention_count": 4,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "imamdigmi/dotfiles",
+    "first_seen": "2026-10-16T17:00:00+00:00",
+    "id": "e76ea876-941e-41c0-a69b-a00024b8cb1f",
+    "last_seen": "2026-10-21T11:58:50.010000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Homebrew",
+    "first_seen": "2026-10-17T06:35:10.020000+00:00",
+    "id": "1ab060cb-7b54-4ca4-b698-e57597a16125",
+    "last_seen": "2026-10-20T17:00:00.060000+00:00",
+    "mention_count": 3,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "age",
+    "first_seen": "2026-10-20T17:00:00.050000+00:00",
+    "id": "c0d8e3ff-7d7d-44ef-9ab3-cbe2afe3efba",
+    "last_seen": "2026-10-20T17:00:00.050000+00:00",
+    "mention_count": 3,
     "metadata": {}
   },
   {
@@ -1368,18 +1400,42 @@
     "metadata": {}
   },
   {
-    "canonical_name": ".venv",
-    "first_seen": "2026-10-18T17:00:00.020000+00:00",
-    "id": "c0629ef4-07a0-4c5c-8b5f-e29690af9d29",
-    "last_seen": "2026-10-19T17:00:00.020000+00:00",
+    "canonical_name": "password manager",
+    "first_seen": "2026-10-17T04:33:21.040000+00:00",
+    "id": "183f1331-3721-4566-b680-a0920a2011d5",
+    "last_seen": "2026-10-21T11:58:50.090000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
   {
-    "canonical_name": "Homebrew",
-    "first_seen": "2026-10-17T06:35:10.020000+00:00",
-    "id": "1ab060cb-7b54-4ca4-b698-e57597a16125",
-    "last_seen": "2026-10-19T17:00:00.010000+00:00",
+    "canonical_name": "cron",
+    "first_seen": "2026-10-17T04:33:21.030000+00:00",
+    "id": "01174b74-d446-4a25-a898-9a3889e155aa",
+    "last_seen": "2026-10-21T11:58:50.040000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "git",
+    "first_seen": "2026-10-19T14:19:59.010000+00:00",
+    "id": "93af95c0-726a-4ec7-8920-2e15e18b3b1b",
+    "last_seen": "2026-10-20T17:00:00.070000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "SSH",
+    "first_seen": "2026-10-20T17:00:00.050000+00:00",
+    "id": "d5cdc61a-de50-4baa-b911-d317b35bbc2c",
+    "last_seen": "2026-10-20T17:00:00.050000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": ".venv",
+    "first_seen": "2026-10-18T17:00:00.020000+00:00",
+    "id": "c0629ef4-07a0-4c5c-8b5f-e29690af9d29",
+    "last_seen": "2026-10-19T17:00:00.020000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
@@ -1468,14 +1524,6 @@
     "first_seen": "2026-10-19T14:32:00+00:00",
     "id": "4eeb34fc-4431-4069-a565-e4bcb241a08f",
     "last_seen": "2026-10-19T14:32:35+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "GPG",
-    "first_seen": "2026-10-17T04:33:21.040000+00:00",
-    "id": "41e6aa03-c9d6-4862-907a-f529eb732bec",
-    "last_seen": "2026-10-19T14:19:59.040000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
@@ -1720,14 +1768,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "uv",
-    "first_seen": "2026-10-16T17:00:00+00:00",
-    "id": "6c3680c2-4a9d-48e0-ab7d-8518d9a07a50",
-    "last_seen": "2026-10-19T13:11:41+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
     "canonical_name": "Widam",
     "first_seen": "2026-10-16T04:12:22.696835+00:00",
     "id": "11809faf-3f38-41b4-87a0-fe6d978684ce",
@@ -1756,6 +1796,14 @@
     "first_seen": "2026-10-16T04:12:22.696835+00:00",
     "id": "d799c13b-cd8f-4ab9-be68-aed33d758b39",
     "last_seen": "2026-10-19T12:41:10.010000+00:00",
+    "mention_count": 2,
+    "metadata": {}
+  },
+  {
+    "canonical_name": ".secrets.zsh",
+    "first_seen": "2026-10-18T17:00:00.020000+00:00",
+    "id": "ac85d6a6-9568-4796-8ae3-07f59d6878bf",
+    "last_seen": "2026-10-19T12:03:39.030000+00:00",
     "mention_count": 2,
     "metadata": {}
   },
@@ -1968,14 +2016,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "cron",
-    "first_seen": "2026-10-17T04:33:21.030000+00:00",
-    "id": "01174b74-d446-4a25-a898-9a3889e155aa",
-    "last_seen": "2026-10-17T04:33:21.030000+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
     "canonical_name": "hindsight-memory-backup",
     "first_seen": "2026-10-17T04:33:21.020000+00:00",
     "id": "88703daf-1b00-4261-ae7c-04e00897d3d0",
@@ -2083,14 +2123,6 @@
     "canonical_name": "hermes repo",
     "first_seen": "2026-10-16T17:00:00+00:00",
     "id": "11b23582-5433-48c7-80de-3159ec0c5e42",
-    "last_seen": "2026-10-16T17:00:00+00:00",
-    "mention_count": 2,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "opencode",
-    "first_seen": "2026-10-16T17:00:00+00:00",
-    "id": "fe9d65d0-47aa-47c7-b885-ebc7a1a0fb31",
     "last_seen": "2026-10-16T17:00:00+00:00",
     "mention_count": 2,
     "metadata": {}
@@ -2456,6 +2488,46 @@
     "metadata": {}
   },
   {
+    "canonical_name": "dotfiles-backup",
+    "first_seen": "2026-10-21T11:58:50.030000+00:00",
+    "id": "4cbb3ece-f51a-4d2a-867c-20a8d9f441da",
+    "last_seen": "2026-10-21T11:58:50.030000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "secret files",
+    "first_seen": "2026-10-21T11:58:50+00:00",
+    "id": "df07c79d-5565-49c9-ab2d-96104a182f6f",
+    "last_seen": "2026-10-21T11:58:50+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "gpg-agent",
+    "first_seen": "2026-10-20T17:00:00.080000+00:00",
+    "id": "f5928cc3-1831-45a7-8c3d-51e24b639d61",
+    "last_seen": "2026-10-20T17:00:00.080000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "imam.digmi@gmail.com",
+    "first_seen": "2026-10-20T17:00:00.070000+00:00",
+    "id": "aff05942-2f08-45e0-8c43-ca1026db11bc",
+    "last_seen": "2026-10-20T17:00:00.070000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
+    "canonical_name": "Brewfile",
+    "first_seen": "2026-10-20T17:00:00.060000+00:00",
+    "id": "e4a2f05c-7c9d-407a-9e62-3c0aaaf9ff07",
+    "last_seen": "2026-10-20T17:00:00.060000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
     "canonical_name": "mawared-farm-commitment-letter-2027.2.py",
     "first_seen": "2026-10-20T07:25:11+00:00",
     "id": "2055b1f5-dfe0-4814-8ff2-46e8ea520e30",
@@ -2596,14 +2668,6 @@
     "first_seen": "2026-10-19T14:19:59.040000+00:00",
     "id": "3e3e0577-0fbc-4fd5-a6c6-4c4e20a3742c",
     "last_seen": "2026-10-19T14:19:59.040000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "git",
-    "first_seen": "2026-10-19T14:19:59.010000+00:00",
-    "id": "93af95c0-726a-4ec7-8920-2e15e18b3b1b",
-    "last_seen": "2026-10-19T14:19:59.010000+00:00",
     "mention_count": 1,
     "metadata": {}
   },
@@ -3416,6 +3480,14 @@
     "metadata": {}
   },
   {
+    "canonical_name": "uv",
+    "first_seen": "2026-10-16T17:00:00+00:00",
+    "id": "6c3680c2-4a9d-48e0-ab7d-8518d9a07a50",
+    "last_seen": "2026-10-19T13:11:41+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
     "canonical_name": "sys.types",
     "first_seen": "2026-10-19T13:10:31.070000+00:00",
     "id": "09695b40-1b49-4608-a095-4e97d167d286",
@@ -3628,14 +3700,6 @@
     "first_seen": "2026-10-16T04:12:22.172510+00:00",
     "id": "e2f1dbd8-aa4d-47bb-b4ee-165d19737e91",
     "last_seen": "2026-10-19T12:11:51.030000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": ".secrets.zsh",
-    "first_seen": "2026-10-18T17:00:00.020000+00:00",
-    "id": "ac85d6a6-9568-4796-8ae3-07f59d6878bf",
-    "last_seen": "2026-10-19T12:03:39.030000+00:00",
     "mention_count": 1,
     "metadata": {}
   },
@@ -4344,14 +4408,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "password manager",
-    "first_seen": "2026-10-17T04:33:21.040000+00:00",
-    "id": "183f1331-3721-4566-b680-a0920a2011d5",
-    "last_seen": "2026-10-17T04:33:21.040000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
     "canonical_name": "macOS Keychain",
     "first_seen": "2026-10-17T04:33:21.040000+00:00",
     "id": "9edbf43b-7ea8-458f-b246-37ac9393b0ca",
@@ -4432,14 +4488,6 @@
     "metadata": {}
   },
   {
-    "canonical_name": "yadm",
-    "first_seen": "2026-10-17T04:33:21.010000+00:00",
-    "id": "57bd01da-9ac9-4e68-8f58-9f170e88dc52",
-    "last_seen": "2026-10-17T04:33:21.010000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
     "canonical_name": "hermes bank",
     "first_seen": "2026-10-17T04:33:21.010000+00:00",
     "id": "66e91708-605a-4267-b676-edfd637b9537",
@@ -4451,14 +4499,6 @@
     "canonical_name": "config.yaml",
     "first_seen": "2026-10-17T04:33:21.010000+00:00",
     "id": "74bf9af9-06d8-4dda-aed9-78519cc41fc9",
-    "last_seen": "2026-10-17T04:33:21.010000+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "Stow",
-    "first_seen": "2026-10-17T04:33:21.010000+00:00",
-    "id": "84fd7f5c-2e53-4237-a82b-493ec59d40c4",
     "last_seen": "2026-10-17T04:33:21.010000+00:00",
     "mention_count": 1,
     "metadata": {}
@@ -4608,6 +4648,14 @@
     "metadata": {}
   },
   {
+    "canonical_name": "opencode",
+    "first_seen": "2026-10-16T17:00:00+00:00",
+    "id": "fe9d65d0-47aa-47c7-b885-ebc7a1a0fb31",
+    "last_seen": "2026-10-16T17:00:00.020000+00:00",
+    "mention_count": 1,
+    "metadata": {}
+  },
+  {
     "canonical_name": "al-Idhafah",
     "first_seen": "2026-10-16T17:00:00.010000+00:00",
     "id": "5f466e1b-3fe4-462a-9a7c-95d83ea57afa",
@@ -4619,22 +4667,6 @@
     "canonical_name": "tutor CV harian",
     "first_seen": "2026-10-16T17:00:00+00:00",
     "id": "3f9ed1e0-9606-48b8-ba98-e419d94e00e0",
-    "last_seen": "2026-10-16T17:00:00+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "fish",
-    "first_seen": "2026-10-16T17:00:00+00:00",
-    "id": "483d3d0f-8e16-4d18-b062-fc96ba8baec0",
-    "last_seen": "2026-10-16T17:00:00+00:00",
-    "mention_count": 1,
-    "metadata": {}
-  },
-  {
-    "canonical_name": "imamdigmi/dotfiles",
-    "first_seen": "2026-10-16T17:00:00+00:00",
-    "id": "e76ea876-941e-41c0-a69b-a00024b8cb1f",
     "last_seen": "2026-10-16T17:00:00+00:00",
     "mention_count": 1,
     "metadata": {}
