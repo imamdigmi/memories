@@ -6,9 +6,9 @@
     "literalism": 3,
     "skepticism": 2
   },
-  "fact_count": 1023,
-  "last_document_at": "2026-10-20T07:25:18.748967+00:00",
-  "last_write_at": "2026-10-21T11:59:31.105818+00:00",
+  "fact_count": 1033,
+  "last_document_at": "2026-10-22T10:22:08.462178+00:00",
+  "last_write_at": "2026-10-22T10:24:59.130071+00:00",
   "mission": "You are the long-term memory for an always-on personal assistant that reaches the user across many surfaces (chat, email, voice, Telegram, WhatsApp, Discord). Help it feel like it truly knows the user and can act proactively by recalling their preferences, routines, schedule, the people in their life, and what they're currently working toward.",
   "name": "assistant",
   "updated_at": "2026-10-16T04:02:42.912545+00:00"
